@@ -1,0 +1,2501 @@
+Date,Title,Amount,Type,Category,Account
+2024-01-01,Skincare,128513.73,EXPENSE,Belanja,Dompet Tunai
+2024-01-01,Gym,131585.52,EXPENSE,Hiburan,Dompet Tunai
+2024-01-01,Beasiswa,554240.57,INCOME,Gaji,Gopay
+2024-01-01,Tiket Wahana,18989.25,EXPENSE,Hiburan,Dompet Tunai
+2024-01-01,Minimarket,73192.13,EXPENSE,Belanja,Gopay
+2024-01-01,Uang Bulanan,1747060.27,INCOME,Gaji,Gopay
+2024-01-02,Pizza,29421.32,EXPENSE,Makan & Minum,BCA
+2024-01-02,Iuran Kebersihan,47695.09,EXPENSE,Tagihan,Dompet Tunai
+2024-01-02,McDonalds,23844.67,EXPENSE,Makan & Minum,Gopay
+2024-01-03,ATM,4000.3,EXPENSE,Lain-lain,Gopay
+2024-01-03,Simpanan Bulanan,283723.64,INCOME,Goals,BCA
+2024-01-03,Bowling,52552.5,EXPENSE,Hiburan,BCA
+2024-01-03,Iuran Bulanan,26757.06,EXPENSE,Tagihan,Gopay
+2024-01-03,Fotokopi,7991.4,EXPENSE,Lain-lain,Dompet Tunai
+2024-01-04,Langganan Spotify,12464.42,EXPENSE,Tagihan,BCA
+2024-01-04,Jus Buah,8260.11,EXPENSE,Makan & Minum,Gopay
+2024-01-04,Game Online,42472.59,EXPENSE,Hiburan,Dompet Tunai
+2024-01-04,Transfer Orang Tua,1021912.12,INCOME,Gaji,Gopay
+2024-01-04,Streaming Film,43211.75,EXPENSE,Hiburan,Dompet Tunai
+2024-01-04,Keperluan Lain,43489.2,EXPENSE,Lain-lain,Gopay
+2024-01-04,Iuran Bulanan,39443.78,EXPENSE,Tagihan,BCA
+2024-01-04,Langganan Spotify,124449.61,EXPENSE,Tagihan,Gopay
+2024-01-05,Olahraga,85781.49,EXPENSE,Hiburan,Gopay
+2024-01-05,Shopee,125343.27,EXPENSE,Belanja,Dompet Tunai
+2024-01-05,Baju,196896.28,EXPENSE,Belanja,BCA
+2024-01-05,GrabFood,27776.38,EXPENSE,Makan & Minum,Gopay
+2024-01-05,Bowling,137264.55,EXPENSE,Hiburan,BCA
+2024-01-05,Alfamart,74438.86,EXPENSE,Belanja,Dompet Tunai
+2024-01-05,Karaoke,54372.52,EXPENSE,Hiburan,BCA
+2024-01-05,Game Online,72817.11,EXPENSE,Hiburan,BCA
+2024-01-06,GrabFood,18748.59,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-06,Baju,19793.35,EXPENSE,Belanja,Dompet Tunai
+2024-01-06,Parkir,67688.55,EXPENSE,Tagihan,Dompet Tunai
+2024-01-06,Minimarket,9553.66,EXPENSE,Belanja,BCA
+2024-01-07,Alfamart,71777.36,EXPENSE,Belanja,Gopay
+2024-01-07,Buku Kuliah,113935.27,EXPENSE,Belanja,Dompet Tunai
+2024-01-07,Nasi Padang,14445.75,EXPENSE,Makan & Minum,Gopay
+2024-01-07,Wifi Bulanan,47964.68,EXPENSE,Tagihan,Gopay
+2024-01-07,McDonalds,8206.55,EXPENSE,Makan & Minum,Gopay
+2024-01-07,Top Up Game,93310.91,EXPENSE,Hiburan,Dompet Tunai
+2024-01-07,Parkir Motor,18653.75,EXPENSE,Lain-lain,BCA
+2024-01-07,Pulsa,147610.61,EXPENSE,Tagihan,Dompet Tunai
+2024-01-08,Baju,24777.06,EXPENSE,Belanja,BCA
+2024-01-08,Ongkos Angkot,31520.35,EXPENSE,Lain-lain,BCA
+2024-01-09,Konser,122868.18,EXPENSE,Hiburan,Gopay
+2024-01-09,Iuran Bulanan,19758.46,EXPENSE,Tagihan,Dompet Tunai
+2024-01-09,Target Gadget,480425.63,INCOME,Goals,BCA
+2024-01-10,Jus Buah,14934.63,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-10,Kopi Kenangan,21165.5,EXPENSE,Makan & Minum,Gopay
+2024-01-10,Gojek,19916.09,EXPENSE,Lain-lain,Dompet Tunai
+2024-01-10,Baju,51704.48,EXPENSE,Belanja,Dompet Tunai
+2024-01-10,Perlengkapan Kamar,187638.11,EXPENSE,Belanja,BCA
+2024-01-11,Bioskop,101973.72,EXPENSE,Hiburan,Gopay
+2024-01-11,Indomaret,114152.36,EXPENSE,Belanja,BCA
+2024-01-11,Alfamart Minuman,8203.49,EXPENSE,Makan & Minum,Gopay
+2024-01-11,Iuran Kebersihan,96539.6,EXPENSE,Tagihan,Dompet Tunai
+2024-01-11,Listrik Kos,100523.59,EXPENSE,Tagihan,BCA
+2024-01-12,Nasi Padang,18176.99,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-12,Transfer Orang Tua,1389426.28,INCOME,Gaji,BCA
+2024-01-12,Gaji Part Time,562926.84,INCOME,Gaji,Gopay
+2024-01-12,Kopi Kenangan,6804.91,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-13,Top Up Game,77485.75,EXPENSE,Hiburan,Dompet Tunai
+2024-01-13,Nasi Padang,25240.31,EXPENSE,Makan & Minum,BCA
+2024-01-13,Top Up OVO,12493.85,EXPENSE,Tagihan,Dompet Tunai
+2024-01-13,Ongkos Angkot,3508.6,EXPENSE,Lain-lain,Dompet Tunai
+2024-01-13,Pizza,47438.41,EXPENSE,Makan & Minum,BCA
+2024-01-13,GrabFood,33837.18,EXPENSE,Makan & Minum,Gopay
+2024-01-13,Baju,78035.32,EXPENSE,Belanja,Gopay
+2024-01-13,Transfer Orang Tua,1339460.5,INCOME,Gaji,Gopay
+2024-01-13,Buku Kuliah,110546.98,EXPENSE,Belanja,Dompet Tunai
+2024-01-14,Martabak,13393.33,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-14,Mie Ayam,28351.3,EXPENSE,Makan & Minum,Gopay
+2024-01-14,Transfer Orang Tua,1160485.13,INCOME,Gaji,Gopay
+2024-01-14,Langganan Spotify,40304.93,EXPENSE,Tagihan,Gopay
+2024-01-14,ATM,38552.51,EXPENSE,Lain-lain,Gopay
+2024-01-15,Top Up Game,63744.77,EXPENSE,Hiburan,Gopay
+2024-01-15,Shopee,62250.41,EXPENSE,Belanja,BCA
+2024-01-15,Ongkos Angkot,19326.75,EXPENSE,Lain-lain,Gopay
+2024-01-15,GrabFood,12317.76,EXPENSE,Makan & Minum,Gopay
+2024-01-15,Warung Nasi,44978.17,EXPENSE,Makan & Minum,BCA
+2024-01-16,Indomaret,13416.18,EXPENSE,Belanja,Dompet Tunai
+2024-01-16,Langganan Spotify,105403.24,EXPENSE,Tagihan,BCA
+2024-01-16,Game Online,106600.68,EXPENSE,Hiburan,BCA
+2024-01-16,Indomaret Snack,47977.72,EXPENSE,Makan & Minum,Gopay
+2024-01-16,Tokopedia,130271.76,EXPENSE,Belanja,Dompet Tunai
+2024-01-16,Mie Ayam,5070.43,EXPENSE,Makan & Minum,Gopay
+2024-01-16,Nasi Padang,20393.68,EXPENSE,Makan & Minum,BCA
+2024-01-16,Bioskop,68744.01,EXPENSE,Hiburan,BCA
+2024-01-16,Biaya Admin Bank,127009.9,EXPENSE,Tagihan,Gopay
+2024-01-17,Sepatu,115317.73,EXPENSE,Belanja,BCA
+2024-01-17,Karaoke,72498.73,EXPENSE,Hiburan,Gopay
+2024-01-17,Martabak,45501.04,EXPENSE,Makan & Minum,BCA
+2024-01-17,Minimarket,58991.14,EXPENSE,Belanja,BCA
+2024-01-17,Donasi,9196.04,EXPENSE,Lain-lain,BCA
+2024-01-17,Alfamart Minuman,39880.98,EXPENSE,Makan & Minum,Gopay
+2024-01-17,Honor Mengajar,1682922.45,INCOME,Gaji,BCA
+2024-01-17,Karaoke,71627.86,EXPENSE,Hiburan,Dompet Tunai
+2024-01-17,Karaoke,124390.09,EXPENSE,Hiburan,BCA
+2024-01-17,Bioskop,112479.15,EXPENSE,Hiburan,Gopay
+2024-01-17,Sepatu,133063.65,EXPENSE,Belanja,Gopay
+2024-01-18,Olahraga,38898.98,EXPENSE,Hiburan,Gopay
+2024-01-19,Kopi Kenangan,33536.4,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-19,Ongkos Angkot,38926.63,EXPENSE,Lain-lain,BCA
+2024-01-19,Freelance,807709.46,INCOME,Gaji,Gopay
+2024-01-19,Bakso,35622.47,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-20,Wifi Bulanan,141886.1,EXPENSE,Tagihan,BCA
+2024-01-20,Perlengkapan Kamar,139457.72,EXPENSE,Belanja,BCA
+2024-01-20,Pulsa,118629.69,EXPENSE,Tagihan,BCA
+2024-01-20,Es Teh,14382.97,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-20,Minimarket,24703.93,EXPENSE,Belanja,BCA
+2024-01-20,Bioskop,67766.47,EXPENSE,Hiburan,BCA
+2024-01-21,Iuran Bulanan,108841.85,EXPENSE,Tagihan,BCA
+2024-01-21,Listrik Kos,85537.6,EXPENSE,Tagihan,Gopay
+2024-01-21,Skincare,91588.53,EXPENSE,Belanja,BCA
+2024-01-21,Pizza,28716.87,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-21,Alfamart,160983.64,EXPENSE,Belanja,BCA
+2024-01-21,Alfamart,151419.86,EXPENSE,Belanja,Dompet Tunai
+2024-01-21,Game Online,100415.13,EXPENSE,Hiburan,BCA
+2024-01-21,Perlengkapan Kamar,153399.68,EXPENSE,Belanja,Gopay
+2024-01-22,Parkir,44761.2,EXPENSE,Tagihan,Dompet Tunai
+2024-01-22,Netflix,7642.16,EXPENSE,Tagihan,Gopay
+2024-01-22,Bowling,57712.5,EXPENSE,Hiburan,Dompet Tunai
+2024-01-22,Es Teh,45842.5,EXPENSE,Makan & Minum,Gopay
+2024-01-22,Skincare,106355.92,EXPENSE,Belanja,Dompet Tunai
+2024-01-22,Top Up OVO,49557.04,EXPENSE,Tagihan,Dompet Tunai
+2024-01-22,Langganan Spotify,37569.26,EXPENSE,Tagihan,Dompet Tunai
+2024-01-23,Konser,60659.43,EXPENSE,Hiburan,Gopay
+2024-01-23,Listrik Kos,21506.57,EXPENSE,Tagihan,Gopay
+2024-01-23,Indomaret Snack,25820.59,EXPENSE,Makan & Minum,Gopay
+2024-01-23,Kopi Kenangan,23529.45,EXPENSE,Makan & Minum,BCA
+2024-01-23,Olahraga,46372.5,EXPENSE,Hiburan,Dompet Tunai
+2024-01-23,Beasiswa,1417581.12,INCOME,Gaji,Gopay
+2024-01-23,Alat Tulis,196882.57,EXPENSE,Belanja,Dompet Tunai
+2024-01-23,Iuran Bulanan,89385.85,EXPENSE,Tagihan,BCA
+2024-01-23,KFC,49324.53,EXPENSE,Makan & Minum,BCA
+2024-01-23,GoFood,25675.1,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-23,GrabFood,20974.83,EXPENSE,Makan & Minum,BCA
+2024-01-23,Biaya Admin Bank,107670.52,EXPENSE,Tagihan,Dompet Tunai
+2024-01-23,Nasi Padang,39302.83,EXPENSE,Makan & Minum,Gopay
+2024-01-24,Streaming Film,121707.98,EXPENSE,Hiburan,Gopay
+2024-01-24,Fotokopi,21648.03,EXPENSE,Lain-lain,Dompet Tunai
+2024-01-24,Martabak,44154.45,EXPENSE,Makan & Minum,BCA
+2024-01-24,Minimarket,178305.88,EXPENSE,Belanja,Dompet Tunai
+2024-01-24,Game Online,19719.34,EXPENSE,Hiburan,Dompet Tunai
+2024-01-24,Kopi Kenangan,46990.1,EXPENSE,Makan & Minum,BCA
+2024-01-25,McDonalds,41428.22,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-25,Streaming Film,50494.27,EXPENSE,Hiburan,Dompet Tunai
+2024-01-25,Warung Nasi,36960.93,EXPENSE,Makan & Minum,BCA
+2024-01-25,Indomaret Snack,31658.66,EXPENSE,Makan & Minum,Gopay
+2024-01-25,Gym,15135.65,EXPENSE,Hiburan,Dompet Tunai
+2024-01-25,Print Tugas,25034.03,EXPENSE,Lain-lain,BCA
+2024-01-25,Iuran Kebersihan,125596.07,EXPENSE,Tagihan,Dompet Tunai
+2024-01-25,Indomaret Snack,23086.89,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-25,Langganan Spotify,22041.31,EXPENSE,Tagihan,BCA
+2024-01-25,Fotokopi,29126.39,EXPENSE,Lain-lain,Gopay
+2024-01-26,Iuran Kebersihan,127107.24,EXPENSE,Tagihan,BCA
+2024-01-26,Print Tugas,18964.23,EXPENSE,Lain-lain,BCA
+2024-01-26,Transfer Orang Tua,807476.44,INCOME,Gaji,Gopay
+2024-01-26,Iuran Kebersihan,99648.19,EXPENSE,Tagihan,BCA
+2024-01-26,Kantin Kampus,46279.11,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-26,Streaming Film,142007.36,EXPENSE,Hiburan,Gopay
+2024-01-26,Martabak,26660.49,EXPENSE,Makan & Minum,Gopay
+2024-01-26,Bubble Tea,44282.56,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-27,Sepatu,76717.71,EXPENSE,Belanja,Gopay
+2024-01-27,Iuran Kebersihan,135290.36,EXPENSE,Tagihan,BCA
+2024-01-27,Wifi Bulanan,100743.89,EXPENSE,Tagihan,BCA
+2024-01-27,Parkir,125188.09,EXPENSE,Tagihan,Gopay
+2024-01-27,Mie Ayam,17303.32,EXPENSE,Makan & Minum,BCA
+2024-01-27,Top Up OVO,102396.6,EXPENSE,Tagihan,BCA
+2024-01-27,Wifi Bulanan,22341.17,EXPENSE,Tagihan,Dompet Tunai
+2024-01-27,Gojek,13638.58,EXPENSE,Lain-lain,BCA
+2024-01-27,Minimarket,187680.38,EXPENSE,Belanja,Dompet Tunai
+2024-01-28,Nasi Padang,23080.05,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-28,Nasi Padang,25665.79,EXPENSE,Makan & Minum,Gopay
+2024-01-29,Wifi Bulanan,94206.82,EXPENSE,Tagihan,BCA
+2024-01-29,Alfamart Minuman,35443.1,EXPENSE,Makan & Minum,BCA
+2024-01-29,Alfamart,124311.31,EXPENSE,Belanja,Gopay
+2024-01-29,Grab Motor,31959.15,EXPENSE,Lain-lain,Dompet Tunai
+2024-01-29,Mie Ayam,43093.15,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-29,Karaoke,61866.09,EXPENSE,Hiburan,Dompet Tunai
+2024-01-29,Gym,74475.53,EXPENSE,Hiburan,BCA
+2024-01-29,Skincare,24187.15,EXPENSE,Belanja,Dompet Tunai
+2024-01-29,Game Online,20882.85,EXPENSE,Hiburan,Dompet Tunai
+2024-01-29,Olahraga,11833.22,EXPENSE,Hiburan,Dompet Tunai
+2024-01-30,Wifi Bulanan,6762.4,EXPENSE,Tagihan,Dompet Tunai
+2024-01-30,Shopee,155587.73,EXPENSE,Belanja,Dompet Tunai
+2024-01-30,Perlengkapan Kamar,174244.07,EXPENSE,Belanja,BCA
+2024-01-31,Iuran Kebersihan,13378.18,EXPENSE,Tagihan,BCA
+2024-01-31,Top Up Game,148112.13,EXPENSE,Hiburan,Dompet Tunai
+2024-01-31,Parkir Motor,35309.53,EXPENSE,Lain-lain,Dompet Tunai
+2024-01-31,Pizza,25359.78,EXPENSE,Makan & Minum,Dompet Tunai
+2024-01-31,Kantin Kampus,18738.98,EXPENSE,Makan & Minum,BCA
+2024-01-31,Iuran Kebersihan,105842.74,EXPENSE,Tagihan,Gopay
+2024-01-31,Indomaret,189222.74,EXPENSE,Belanja,Gopay
+2024-01-31,GoFood,8677.64,EXPENSE,Makan & Minum,BCA
+2024-02-01,Bowling,130177.79,EXPENSE,Hiburan,Gopay
+2024-02-01,Ongkos Angkot,39071.28,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-01,GoFood,28245.77,EXPENSE,Makan & Minum,BCA
+2024-02-01,Netflix,56572.54,EXPENSE,Tagihan,Dompet Tunai
+2024-02-01,Parkir Motor,36019.75,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-02,Iuran Bulanan,71812.92,EXPENSE,Tagihan,Gopay
+2024-02-02,Parkir,110551.2,EXPENSE,Tagihan,BCA
+2024-02-02,Perlengkapan Kamar,126726.41,EXPENSE,Belanja,Gopay
+2024-02-03,Print Tugas,20424.27,EXPENSE,Lain-lain,Gopay
+2024-02-03,Karaoke,101311.4,EXPENSE,Hiburan,BCA
+2024-02-03,Pizza,32289.31,EXPENSE,Makan & Minum,BCA
+2024-02-04,Nasi Padang,41695.76,EXPENSE,Makan & Minum,BCA
+2024-02-04,Parkir,85288.17,EXPENSE,Tagihan,BCA
+2024-02-04,Buku Kuliah,165884.63,EXPENSE,Belanja,Dompet Tunai
+2024-02-04,Bioskop,130167.83,EXPENSE,Hiburan,BCA
+2024-02-04,Wifi Bulanan,9521.55,EXPENSE,Tagihan,BCA
+2024-02-04,Kantin Kampus,39971.61,EXPENSE,Makan & Minum,Gopay
+2024-02-04,ATM,41485.49,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-04,Warung Nasi,15107.22,EXPENSE,Makan & Minum,BCA
+2024-02-04,Pizza,6421.38,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-05,Es Teh,36276.59,EXPENSE,Makan & Minum,Gopay
+2024-02-05,Streaming Film,81319.1,EXPENSE,Hiburan,Gopay
+2024-02-05,Indomaret,18760.91,EXPENSE,Belanja,Dompet Tunai
+2024-02-05,Freelance,1890501.45,INCOME,Gaji,BCA
+2024-02-05,Konser,26423.15,EXPENSE,Hiburan,BCA
+2024-02-05,Honor Mengajar,809500.58,INCOME,Gaji,BCA
+2024-02-05,Parkir,75853.26,EXPENSE,Tagihan,BCA
+2024-02-05,Bubble Tea,44183.75,EXPENSE,Makan & Minum,Gopay
+2024-02-05,Tiket Wahana,62437.4,EXPENSE,Hiburan,Gopay
+2024-02-05,Pizza,31198.94,EXPENSE,Makan & Minum,BCA
+2024-02-05,Transfer Orang Tua,996347.04,INCOME,Gaji,Gopay
+2024-02-05,Skincare,11705.76,EXPENSE,Belanja,Gopay
+2024-02-06,Print Tugas,37649.91,EXPENSE,Lain-lain,Gopay
+2024-02-06,Grab Motor,17619.19,EXPENSE,Lain-lain,BCA
+2024-02-06,Skincare,155827.26,EXPENSE,Belanja,BCA
+2024-02-06,Skincare,17714.9,EXPENSE,Belanja,Dompet Tunai
+2024-02-06,Iuran Kebersihan,52028.39,EXPENSE,Tagihan,Dompet Tunai
+2024-02-06,Olahraga,73663.58,EXPENSE,Hiburan,Gopay
+2024-02-06,Bakso,10462.32,EXPENSE,Makan & Minum,BCA
+2024-02-06,Fotokopi,33565.42,EXPENSE,Lain-lain,Gopay
+2024-02-07,Tiket Wahana,17892.57,EXPENSE,Hiburan,Dompet Tunai
+2024-02-07,Listrik Kos,93945.2,EXPENSE,Tagihan,Gopay
+2024-02-07,KFC,33240.11,EXPENSE,Makan & Minum,Gopay
+2024-02-07,Bowling,100994.95,EXPENSE,Hiburan,BCA
+2024-02-07,GoFood,10428.61,EXPENSE,Makan & Minum,BCA
+2024-02-08,Parkir,8928.92,EXPENSE,Tagihan,Gopay
+2024-02-08,Iuran Kebersihan,130498.53,EXPENSE,Tagihan,Dompet Tunai
+2024-02-08,Bioskop,126230.78,EXPENSE,Hiburan,Gopay
+2024-02-08,Gym,49197.07,EXPENSE,Hiburan,Dompet Tunai
+2024-02-08,GoFood,34066.28,EXPENSE,Makan & Minum,Gopay
+2024-02-08,Streaming Film,13386.85,EXPENSE,Hiburan,Gopay
+2024-02-08,Kopi Kenangan,39693.52,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-08,Dana Darurat,328375.12,INCOME,Goals,BCA
+2024-02-08,Donasi,15024.75,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-09,Kopi Kenangan,46650.58,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-09,Streaming Film,14358.77,EXPENSE,Hiburan,BCA
+2024-02-09,Gojek,10202.6,EXPENSE,Lain-lain,Gopay
+2024-02-09,Minimarket,16417.43,EXPENSE,Belanja,Dompet Tunai
+2024-02-09,Top Up Game,87539.6,EXPENSE,Hiburan,Gopay
+2024-02-09,Print Tugas,19856.87,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-09,Top Up OVO,10299.7,EXPENSE,Tagihan,BCA
+2024-02-09,Gym,23222.01,EXPENSE,Hiburan,Dompet Tunai
+2024-02-09,Kantin Kampus,45823.78,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-09,Parkir,34707.78,EXPENSE,Tagihan,BCA
+2024-02-10,Jus Buah,23851.65,EXPENSE,Makan & Minum,Gopay
+2024-02-10,Bioskop,125060.41,EXPENSE,Hiburan,BCA
+2024-02-10,McDonalds,29940.19,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-10,Donasi,44421.72,EXPENSE,Lain-lain,BCA
+2024-02-10,Netflix,128885.84,EXPENSE,Tagihan,Dompet Tunai
+2024-02-10,Langganan Spotify,46428.25,EXPENSE,Tagihan,Dompet Tunai
+2024-02-10,Donasi,47686.97,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-11,Perlengkapan Kamar,38951.32,EXPENSE,Belanja,BCA
+2024-02-11,Iuran Bulanan,82289.19,EXPENSE,Tagihan,Gopay
+2024-02-11,Buku Kuliah,14158.36,EXPENSE,Belanja,Gopay
+2024-02-11,Minimarket,20645.58,EXPENSE,Belanja,Dompet Tunai
+2024-02-11,Biaya Admin Bank,8164.39,EXPENSE,Tagihan,BCA
+2024-02-11,Uang Saku,508283.18,INCOME,Gaji,BCA
+2024-02-11,Skincare,153550.65,EXPENSE,Belanja,Gopay
+2024-02-11,Bakso,22467.65,EXPENSE,Makan & Minum,BCA
+2024-02-11,Top Up Game,47128.33,EXPENSE,Hiburan,Gopay
+2024-02-11,Biaya Admin Bank,110591.37,EXPENSE,Tagihan,Gopay
+2024-02-12,Iuran Kebersihan,109710.77,EXPENSE,Tagihan,Dompet Tunai
+2024-02-12,Streaming Film,63788.94,EXPENSE,Hiburan,Dompet Tunai
+2024-02-12,Gojek,23850.57,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-12,Netflix,144515.02,EXPENSE,Tagihan,Gopay
+2024-02-12,Pulsa,105767.91,EXPENSE,Tagihan,Dompet Tunai
+2024-02-12,Minimarket,52200.78,EXPENSE,Belanja,BCA
+2024-02-12,Langganan Spotify,92973.68,EXPENSE,Tagihan,Dompet Tunai
+2024-02-13,GrabFood,26306.23,EXPENSE,Makan & Minum,BCA
+2024-02-13,Skincare,197270.21,EXPENSE,Belanja,BCA
+2024-02-13,Martabak,32565.81,EXPENSE,Makan & Minum,BCA
+2024-02-13,Wifi Bulanan,61904.54,EXPENSE,Tagihan,Dompet Tunai
+2024-02-13,Olahraga,11517.27,EXPENSE,Hiburan,Dompet Tunai
+2024-02-13,Wifi Bulanan,22158.75,EXPENSE,Tagihan,BCA
+2024-02-13,Olahraga,132015.15,EXPENSE,Hiburan,Gopay
+2024-02-13,Fotokopi,12904.62,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-14,Netflix,149150.21,EXPENSE,Tagihan,BCA
+2024-02-14,Biaya Admin Bank,38241.45,EXPENSE,Tagihan,Gopay
+2024-02-14,GrabFood,32905.97,EXPENSE,Makan & Minum,BCA
+2024-02-14,Biaya Admin Bank,129435.67,EXPENSE,Tagihan,Gopay
+2024-02-14,Iuran Kebersihan,48639.72,EXPENSE,Tagihan,BCA
+2024-02-14,Wifi Bulanan,144633.84,EXPENSE,Tagihan,Gopay
+2024-02-14,Gojek,8601.01,EXPENSE,Lain-lain,BCA
+2024-02-14,Indomaret,132587.05,EXPENSE,Belanja,Gopay
+2024-02-15,Martabak,9938.13,EXPENSE,Makan & Minum,BCA
+2024-02-15,Minimarket,105227.95,EXPENSE,Belanja,Dompet Tunai
+2024-02-15,Karaoke,85528.78,EXPENSE,Hiburan,Dompet Tunai
+2024-02-15,Kantin Kampus,26651.3,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-15,Alfamart Minuman,46143.45,EXPENSE,Makan & Minum,BCA
+2024-02-15,ATM,42554.01,EXPENSE,Lain-lain,Gopay
+2024-02-15,Parkir,29221.08,EXPENSE,Tagihan,Gopay
+2024-02-15,Print Tugas,21398.74,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-15,Wifi Bulanan,88705.46,EXPENSE,Tagihan,Dompet Tunai
+2024-02-16,Konser,149917.92,EXPENSE,Hiburan,BCA
+2024-02-16,Konser,44577.03,EXPENSE,Hiburan,Dompet Tunai
+2024-02-16,Tokopedia,55029.74,EXPENSE,Belanja,Dompet Tunai
+2024-02-16,Donasi,40150.94,EXPENSE,Lain-lain,BCA
+2024-02-16,Kopi Kenangan,22598.67,EXPENSE,Makan & Minum,Gopay
+2024-02-16,Tiket Wahana,63324.72,EXPENSE,Hiburan,Dompet Tunai
+2024-02-17,Keperluan Lain,27565.63,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-17,Alfamart Minuman,45500.84,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-17,Alat Tulis,107279.72,EXPENSE,Belanja,BCA
+2024-02-17,Pizza,14145.04,EXPENSE,Makan & Minum,BCA
+2024-02-17,Donasi,26282.66,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-17,Baju,108281.86,EXPENSE,Belanja,Gopay
+2024-02-17,Iuran Bulanan,45495.03,EXPENSE,Tagihan,Dompet Tunai
+2024-02-17,Streaming Film,53333.87,EXPENSE,Hiburan,Dompet Tunai
+2024-02-17,Buku Kuliah,20486.78,EXPENSE,Belanja,Dompet Tunai
+2024-02-17,Pizza,47627.75,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-17,Bowling,75128.79,EXPENSE,Hiburan,Gopay
+2024-02-17,Parkir Motor,39744.56,EXPENSE,Lain-lain,BCA
+2024-02-18,Shopee,137531.22,EXPENSE,Belanja,Gopay
+2024-02-18,Jus Buah,23393.04,EXPENSE,Makan & Minum,Gopay
+2024-02-18,Alat Tulis,49980.61,EXPENSE,Belanja,Dompet Tunai
+2024-02-18,Bowling,38978.96,EXPENSE,Hiburan,Dompet Tunai
+2024-02-18,Freelance,1096783.4,INCOME,Gaji,BCA
+2024-02-19,Jus Buah,12230.66,EXPENSE,Makan & Minum,Gopay
+2024-02-19,Uang Saku,1740061.04,INCOME,Gaji,BCA
+2024-02-19,Iuran Bulanan,50842.64,EXPENSE,Tagihan,Dompet Tunai
+2024-02-19,Netflix,66080.97,EXPENSE,Tagihan,BCA
+2024-02-20,Konser,106865.33,EXPENSE,Hiburan,Dompet Tunai
+2024-02-20,Langganan Spotify,17195.49,EXPENSE,Tagihan,Gopay
+2024-02-20,Top Up Game,52784.59,EXPENSE,Hiburan,Gopay
+2024-02-20,Parkir,41927.24,EXPENSE,Tagihan,Dompet Tunai
+2024-02-20,Iuran Kebersihan,84681.78,EXPENSE,Tagihan,Dompet Tunai
+2024-02-21,Olahraga,93558.0,EXPENSE,Hiburan,Dompet Tunai
+2024-02-21,Alfamart Minuman,32023.26,EXPENSE,Makan & Minum,Gopay
+2024-02-21,Baju,158991.21,EXPENSE,Belanja,Gopay
+2024-02-21,Minimarket,81487.59,EXPENSE,Belanja,Gopay
+2024-02-21,Netflix,90538.06,EXPENSE,Tagihan,BCA
+2024-02-21,Keperluan Lain,32328.19,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-21,Buku Kuliah,75100.77,EXPENSE,Belanja,Gopay
+2024-02-22,Dana Darurat,408782.91,INCOME,Goals,BCA
+2024-02-22,Streaming Film,34326.62,EXPENSE,Hiburan,Gopay
+2024-02-22,Top Up OVO,14726.09,EXPENSE,Tagihan,Dompet Tunai
+2024-02-22,Indomaret,118341.45,EXPENSE,Belanja,Gopay
+2024-02-22,Kopi Kenangan,15942.75,EXPENSE,Makan & Minum,Gopay
+2024-02-22,Wifi Bulanan,126640.22,EXPENSE,Tagihan,BCA
+2024-02-22,Indomaret Snack,31040.39,EXPENSE,Makan & Minum,Gopay
+2024-02-22,Pizza,9350.44,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-22,Iuran Bulanan,142853.57,EXPENSE,Tagihan,Gopay
+2024-02-22,Alat Tulis,38909.57,EXPENSE,Belanja,BCA
+2024-02-23,Alfamart,173048.2,EXPENSE,Belanja,Dompet Tunai
+2024-02-23,Jus Buah,25430.07,EXPENSE,Makan & Minum,BCA
+2024-02-23,Parkir,20512.19,EXPENSE,Tagihan,Dompet Tunai
+2024-02-23,Wifi Bulanan,6594.4,EXPENSE,Tagihan,BCA
+2024-02-23,Keperluan Lain,22225.14,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-24,Grab Motor,44720.26,EXPENSE,Lain-lain,BCA
+2024-02-24,Karaoke,111089.93,EXPENSE,Hiburan,BCA
+2024-02-24,Gojek,5256.18,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-24,ATM,32968.29,EXPENSE,Lain-lain,BCA
+2024-02-24,Langganan Spotify,131233.87,EXPENSE,Tagihan,Gopay
+2024-02-24,Top Up Game,14196.3,EXPENSE,Hiburan,BCA
+2024-02-24,Wifi Bulanan,16616.65,EXPENSE,Tagihan,Gopay
+2024-02-24,Print Tugas,14471.03,EXPENSE,Lain-lain,BCA
+2024-02-24,Olahraga,52645.93,EXPENSE,Hiburan,Dompet Tunai
+2024-02-24,Indomaret,6474.76,EXPENSE,Belanja,Gopay
+2024-02-25,Listrik Kos,23151.94,EXPENSE,Tagihan,Gopay
+2024-02-25,Tiket Wahana,75617.04,EXPENSE,Hiburan,Gopay
+2024-02-26,Transfer Orang Tua,670336.39,INCOME,Gaji,BCA
+2024-02-26,Tokopedia,70365.57,EXPENSE,Belanja,Dompet Tunai
+2024-02-26,Karaoke,46422.09,EXPENSE,Hiburan,Gopay
+2024-02-26,Iuran Kebersihan,84114.43,EXPENSE,Tagihan,Dompet Tunai
+2024-02-26,Baju,28440.77,EXPENSE,Belanja,BCA
+2024-02-26,Sepatu,122740.11,EXPENSE,Belanja,Gopay
+2024-02-27,Langganan Spotify,44753.3,EXPENSE,Tagihan,Gopay
+2024-02-27,Indomaret,40380.48,EXPENSE,Belanja,Dompet Tunai
+2024-02-27,Langganan Spotify,139355.21,EXPENSE,Tagihan,Gopay
+2024-02-27,Warung Nasi,11844.69,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-27,Tokopedia,6019.77,EXPENSE,Belanja,Gopay
+2024-02-27,Kopi Kenangan,21914.97,EXPENSE,Makan & Minum,Dompet Tunai
+2024-02-27,Fotokopi,34042.77,EXPENSE,Lain-lain,Dompet Tunai
+2024-02-27,Karaoke,46206.92,EXPENSE,Hiburan,Gopay
+2024-02-28,Donasi,8098.9,EXPENSE,Lain-lain,Gopay
+2024-02-28,Karaoke,54909.21,EXPENSE,Hiburan,BCA
+2024-02-28,Top Up OVO,124137.35,EXPENSE,Tagihan,Gopay
+2024-02-28,Tiket Wahana,38564.99,EXPENSE,Hiburan,BCA
+2024-02-28,Listrik Kos,80849.19,EXPENSE,Tagihan,Dompet Tunai
+2024-02-29,Netflix,105864.63,EXPENSE,Tagihan,BCA
+2024-02-29,Ongkos Angkot,28644.08,EXPENSE,Lain-lain,Gopay
+2024-02-29,Bowling,120078.95,EXPENSE,Hiburan,Gopay
+2024-02-29,Gaji Part Time,615469.86,INCOME,Gaji,BCA
+2024-02-29,Listrik Kos,30351.6,EXPENSE,Tagihan,Gopay
+2024-02-29,Baju,164109.65,EXPENSE,Belanja,Gopay
+2024-02-29,Pulsa,121522.51,EXPENSE,Tagihan,Gopay
+2024-03-01,Bowling,149287.1,EXPENSE,Hiburan,Dompet Tunai
+2024-03-01,Bakso,38558.02,EXPENSE,Makan & Minum,Gopay
+2024-03-01,Indomaret,163515.7,EXPENSE,Belanja,Gopay
+2024-03-01,Simpanan Bulanan,348575.8,INCOME,Goals,BCA
+2024-03-02,Indomaret,119699.44,EXPENSE,Belanja,BCA
+2024-03-02,Alat Tulis,151779.74,EXPENSE,Belanja,Gopay
+2024-03-02,Listrik Kos,101831.68,EXPENSE,Tagihan,Gopay
+2024-03-03,Donasi,17513.74,EXPENSE,Lain-lain,Gopay
+2024-03-03,Konser,143057.61,EXPENSE,Hiburan,Gopay
+2024-03-03,Bowling,63471.55,EXPENSE,Hiburan,Dompet Tunai
+2024-03-03,Grab Motor,8814.66,EXPENSE,Lain-lain,BCA
+2024-03-04,Olahraga,47834.68,EXPENSE,Hiburan,Gopay
+2024-03-04,Listrik Kos,142784.42,EXPENSE,Tagihan,Gopay
+2024-03-04,Iuran Kebersihan,32052.66,EXPENSE,Tagihan,Dompet Tunai
+2024-03-04,Buku Kuliah,11471.92,EXPENSE,Belanja,BCA
+2024-03-04,Pizza,7464.27,EXPENSE,Makan & Minum,BCA
+2024-03-04,Streaming Film,97850.76,EXPENSE,Hiburan,BCA
+2024-03-05,Iuran Bulanan,126370.96,EXPENSE,Tagihan,Dompet Tunai
+2024-03-05,Freelance,1355091.76,INCOME,Gaji,Gopay
+2024-03-05,Biaya Admin Bank,28710.96,EXPENSE,Tagihan,Dompet Tunai
+2024-03-05,Ongkos Angkot,45605.63,EXPENSE,Lain-lain,Gopay
+2024-03-06,Iuran Kebersihan,88751.04,EXPENSE,Tagihan,Gopay
+2024-03-06,GoFood,34670.93,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-06,Game Online,87120.03,EXPENSE,Hiburan,BCA
+2024-03-06,Martabak,35283.5,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-07,Bubble Tea,27825.57,EXPENSE,Makan & Minum,Gopay
+2024-03-07,Simpanan Bulanan,359782.26,INCOME,Goals,BCA
+2024-03-07,Iuran Kebersihan,115313.83,EXPENSE,Tagihan,Gopay
+2024-03-07,Donasi,49576.09,EXPENSE,Lain-lain,BCA
+2024-03-07,Grab Motor,23899.35,EXPENSE,Lain-lain,Gopay
+2024-03-07,Alfamart Minuman,26934.4,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-08,Alfamart,68057.45,EXPENSE,Belanja,Dompet Tunai
+2024-03-08,Game Online,92716.66,EXPENSE,Hiburan,BCA
+2024-03-08,Fotokopi,36300.6,EXPENSE,Lain-lain,BCA
+2024-03-08,Ongkos Angkot,38190.17,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-08,Mie Ayam,47813.15,EXPENSE,Makan & Minum,Gopay
+2024-03-08,Parkir,120823.57,EXPENSE,Tagihan,Dompet Tunai
+2024-03-08,Print Tugas,34113.07,EXPENSE,Lain-lain,BCA
+2024-03-09,Bakso,37832.28,EXPENSE,Makan & Minum,Gopay
+2024-03-09,Alfamart Minuman,8045.08,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-09,Biaya Admin Bank,97926.84,EXPENSE,Tagihan,Gopay
+2024-03-09,Tiket Wahana,25004.08,EXPENSE,Hiburan,Gopay
+2024-03-09,Fotokopi,22660.52,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-09,Gojek,14313.44,EXPENSE,Lain-lain,Gopay
+2024-03-09,Gojek,8681.44,EXPENSE,Lain-lain,BCA
+2024-03-09,Minimarket,184564.17,EXPENSE,Belanja,Dompet Tunai
+2024-03-09,Shopee,57615.04,EXPENSE,Belanja,Gopay
+2024-03-09,Streaming Film,30590.29,EXPENSE,Hiburan,BCA
+2024-03-10,Es Teh,22618.66,EXPENSE,Makan & Minum,BCA
+2024-03-10,Kantin Kampus,37212.12,EXPENSE,Makan & Minum,BCA
+2024-03-10,GrabFood,27168.13,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-11,Gym,40128.26,EXPENSE,Hiburan,Gopay
+2024-03-11,Alat Tulis,55651.99,EXPENSE,Belanja,Dompet Tunai
+2024-03-11,Tiket Wahana,59455.2,EXPENSE,Hiburan,Gopay
+2024-03-11,Alat Tulis,126081.07,EXPENSE,Belanja,BCA
+2024-03-11,Simpanan Bulanan,281405.5,INCOME,Goals,BCA
+2024-03-11,Skincare,117553.98,EXPENSE,Belanja,BCA
+2024-03-11,Top Up OVO,119346.6,EXPENSE,Tagihan,BCA
+2024-03-12,Nasi Padang,25523.15,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-12,Minimarket,40340.45,EXPENSE,Belanja,BCA
+2024-03-12,Karaoke,44788.48,EXPENSE,Hiburan,BCA
+2024-03-12,Warung Nasi,28443.11,EXPENSE,Makan & Minum,Gopay
+2024-03-12,Keperluan Lain,40150.86,EXPENSE,Lain-lain,Gopay
+2024-03-12,Listrik Kos,97427.34,EXPENSE,Tagihan,Gopay
+2024-03-12,Transfer Orang Tua,585582.08,INCOME,Gaji,BCA
+2024-03-13,Minimarket,76460.0,EXPENSE,Belanja,Gopay
+2024-03-13,Beasiswa,1059963.97,INCOME,Gaji,Gopay
+2024-03-13,Top Up OVO,63123.46,EXPENSE,Tagihan,Dompet Tunai
+2024-03-13,Mie Ayam,30621.98,EXPENSE,Makan & Minum,Gopay
+2024-03-13,Iuran Bulanan,134614.42,EXPENSE,Tagihan,BCA
+2024-03-13,Game Online,62704.87,EXPENSE,Hiburan,Gopay
+2024-03-13,Gym,149361.25,EXPENSE,Hiburan,Dompet Tunai
+2024-03-14,KFC,20564.49,EXPENSE,Makan & Minum,Gopay
+2024-03-14,Iuran Bulanan,58492.48,EXPENSE,Tagihan,Gopay
+2024-03-14,Langganan Spotify,140245.63,EXPENSE,Tagihan,Dompet Tunai
+2024-03-14,Tokopedia,42414.13,EXPENSE,Belanja,Dompet Tunai
+2024-03-14,Grab Motor,26544.44,EXPENSE,Lain-lain,BCA
+2024-03-15,Fotokopi,25925.23,EXPENSE,Lain-lain,BCA
+2024-03-15,Simpanan Bulanan,465240.74,INCOME,Goals,BCA
+2024-03-15,Parkir Motor,5137.58,EXPENSE,Lain-lain,BCA
+2024-03-15,Ongkos Angkot,14011.66,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-15,Tiket Wahana,145331.67,EXPENSE,Hiburan,Gopay
+2024-03-15,Grab Motor,45284.58,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-15,Simpanan Bulanan,415843.58,INCOME,Goals,BCA
+2024-03-15,Iuran Kebersihan,132233.44,EXPENSE,Tagihan,Gopay
+2024-03-15,Gojek,38246.59,EXPENSE,Lain-lain,Gopay
+2024-03-15,Listrik Kos,21641.49,EXPENSE,Tagihan,BCA
+2024-03-15,Fotokopi,17609.12,EXPENSE,Lain-lain,BCA
+2024-03-16,Baju,119802.65,EXPENSE,Belanja,Dompet Tunai
+2024-03-16,Bowling,104705.51,EXPENSE,Hiburan,Gopay
+2024-03-16,Parkir,24354.6,EXPENSE,Tagihan,Gopay
+2024-03-16,Wifi Bulanan,114887.69,EXPENSE,Tagihan,Gopay
+2024-03-16,ATM,7619.22,EXPENSE,Lain-lain,Gopay
+2024-03-16,Shopee,6355.67,EXPENSE,Belanja,Gopay
+2024-03-16,Buku Kuliah,175473.39,EXPENSE,Belanja,BCA
+2024-03-16,Tabungan,348652.02,INCOME,Goals,BCA
+2024-03-17,Bowling,129159.13,EXPENSE,Hiburan,Dompet Tunai
+2024-03-17,Iuran Kebersihan,108435.69,EXPENSE,Tagihan,BCA
+2024-03-17,Jus Buah,36780.9,EXPENSE,Makan & Minum,BCA
+2024-03-17,Buku Kuliah,102148.16,EXPENSE,Belanja,Gopay
+2024-03-17,Tiket Wahana,58043.43,EXPENSE,Hiburan,Gopay
+2024-03-17,Langganan Spotify,113920.82,EXPENSE,Tagihan,Gopay
+2024-03-17,Bioskop,21971.19,EXPENSE,Hiburan,Dompet Tunai
+2024-03-18,Mie Ayam,28863.6,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-18,McDonalds,31607.39,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-18,Skincare,131973.78,EXPENSE,Belanja,BCA
+2024-03-18,Ongkos Angkot,5693.75,EXPENSE,Lain-lain,Gopay
+2024-03-18,Game Online,64501.39,EXPENSE,Hiburan,Gopay
+2024-03-19,GrabFood,38078.2,EXPENSE,Makan & Minum,Gopay
+2024-03-19,Netflix,62829.3,EXPENSE,Tagihan,BCA
+2024-03-19,Gojek,28582.51,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-19,Biaya Admin Bank,76284.3,EXPENSE,Tagihan,Gopay
+2024-03-19,Parkir Motor,13513.96,EXPENSE,Lain-lain,BCA
+2024-03-19,Baju,46634.72,EXPENSE,Belanja,BCA
+2024-03-19,Konser,132314.8,EXPENSE,Hiburan,Dompet Tunai
+2024-03-19,Iuran Bulanan,111778.29,EXPENSE,Tagihan,Gopay
+2024-03-19,Parkir,82880.45,EXPENSE,Tagihan,BCA
+2024-03-19,Baju,20026.36,EXPENSE,Belanja,Dompet Tunai
+2024-03-20,Tabungan,308047.05,INCOME,Goals,BCA
+2024-03-20,Freelance,1872268.85,INCOME,Gaji,Gopay
+2024-03-20,Iuran Kebersihan,24077.31,EXPENSE,Tagihan,Gopay
+2024-03-20,Print Tugas,49522.58,EXPENSE,Lain-lain,BCA
+2024-03-20,Tokopedia,160573.66,EXPENSE,Belanja,Gopay
+2024-03-20,Tiket Wahana,55213.91,EXPENSE,Hiburan,Dompet Tunai
+2024-03-20,Ongkos Angkot,29622.76,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-20,KFC,17138.73,EXPENSE,Makan & Minum,BCA
+2024-03-20,Bioskop,132058.09,EXPENSE,Hiburan,Gopay
+2024-03-21,Skincare,157018.97,EXPENSE,Belanja,BCA
+2024-03-21,Bioskop,74889.17,EXPENSE,Hiburan,BCA
+2024-03-21,Gojek,31077.4,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-21,Donasi,46279.97,EXPENSE,Lain-lain,BCA
+2024-03-21,Ongkos Angkot,15486.23,EXPENSE,Lain-lain,BCA
+2024-03-21,Gojek,41646.95,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-21,Es Teh,41857.86,EXPENSE,Makan & Minum,Gopay
+2024-03-22,Langganan Spotify,148155.04,EXPENSE,Tagihan,Dompet Tunai
+2024-03-22,Game Online,48100.32,EXPENSE,Hiburan,BCA
+2024-03-23,Ongkos Angkot,3485.88,EXPENSE,Lain-lain,Gopay
+2024-03-23,Parkir,13346.02,EXPENSE,Tagihan,Dompet Tunai
+2024-03-23,Bakso,20791.18,EXPENSE,Makan & Minum,BCA
+2024-03-23,Perlengkapan Kamar,41545.33,EXPENSE,Belanja,Gopay
+2024-03-23,Donasi,18672.48,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-23,Listrik Kos,56420.21,EXPENSE,Tagihan,Dompet Tunai
+2024-03-23,Nabung Liburan,156591.75,INCOME,Goals,BCA
+2024-03-24,GoFood,49835.03,EXPENSE,Makan & Minum,Gopay
+2024-03-24,Wifi Bulanan,19380.82,EXPENSE,Tagihan,Gopay
+2024-03-24,Pulsa,52656.36,EXPENSE,Tagihan,Dompet Tunai
+2024-03-24,GoFood,44299.53,EXPENSE,Makan & Minum,BCA
+2024-03-24,Streaming Film,95811.54,EXPENSE,Hiburan,BCA
+2024-03-24,Transfer Orang Tua,723193.95,INCOME,Gaji,Gopay
+2024-03-24,Transfer Orang Tua,1170583.32,INCOME,Gaji,BCA
+2024-03-24,ATM,27857.69,EXPENSE,Lain-lain,BCA
+2024-03-25,Fotokopi,22358.27,EXPENSE,Lain-lain,BCA
+2024-03-25,Freelance,1396119.65,INCOME,Gaji,Gopay
+2024-03-25,Iuran Kebersihan,104799.76,EXPENSE,Tagihan,Gopay
+2024-03-25,Buku Kuliah,136141.1,EXPENSE,Belanja,Gopay
+2024-03-25,Print Tugas,18806.01,EXPENSE,Lain-lain,BCA
+2024-03-25,Shopee,166731.96,EXPENSE,Belanja,Dompet Tunai
+2024-03-25,Bubble Tea,48847.77,EXPENSE,Makan & Minum,BCA
+2024-03-25,Perlengkapan Kamar,198294.92,EXPENSE,Belanja,Dompet Tunai
+2024-03-25,ATM,20553.94,EXPENSE,Lain-lain,BCA
+2024-03-26,Tokopedia,176428.07,EXPENSE,Belanja,Gopay
+2024-03-26,Biaya Admin Bank,38023.71,EXPENSE,Tagihan,BCA
+2024-03-26,Streaming Film,74618.05,EXPENSE,Hiburan,BCA
+2024-03-26,Game Online,109681.96,EXPENSE,Hiburan,Gopay
+2024-03-26,McDonalds,49548.21,EXPENSE,Makan & Minum,BCA
+2024-03-26,Beasiswa,1802408.76,INCOME,Gaji,Gopay
+2024-03-26,Mie Ayam,47157.34,EXPENSE,Makan & Minum,Gopay
+2024-03-26,Netflix,85355.81,EXPENSE,Tagihan,BCA
+2024-03-26,Ongkos Angkot,35824.68,EXPENSE,Lain-lain,Dompet Tunai
+2024-03-26,Parkir Motor,30578.48,EXPENSE,Lain-lain,Gopay
+2024-03-27,Perlengkapan Kamar,66481.62,EXPENSE,Belanja,Gopay
+2024-03-27,Top Up Game,66417.23,EXPENSE,Hiburan,Gopay
+2024-03-27,Shopee,123662.82,EXPENSE,Belanja,BCA
+2024-03-27,Print Tugas,32831.63,EXPENSE,Lain-lain,BCA
+2024-03-27,Warung Nasi,23445.72,EXPENSE,Makan & Minum,Dompet Tunai
+2024-03-27,Minimarket,88286.02,EXPENSE,Belanja,Gopay
+2024-03-27,Gym,27861.24,EXPENSE,Hiburan,Gopay
+2024-03-27,Wifi Bulanan,45868.94,EXPENSE,Tagihan,Dompet Tunai
+2024-03-28,Streaming Film,142197.31,EXPENSE,Hiburan,Gopay
+2024-03-28,GrabFood,49207.04,EXPENSE,Makan & Minum,BCA
+2024-03-28,Top Up Game,12686.92,EXPENSE,Hiburan,Gopay
+2024-03-29,Keperluan Lain,16962.66,EXPENSE,Lain-lain,Gopay
+2024-03-29,Biaya Admin Bank,128566.32,EXPENSE,Tagihan,Dompet Tunai
+2024-03-29,Bowling,73310.51,EXPENSE,Hiburan,Gopay
+2024-03-30,ATM,5442.17,EXPENSE,Lain-lain,Gopay
+2024-03-30,Wifi Bulanan,84637.87,EXPENSE,Tagihan,Dompet Tunai
+2024-03-30,GoFood,24249.79,EXPENSE,Makan & Minum,BCA
+2024-03-30,Mie Ayam,17237.74,EXPENSE,Makan & Minum,BCA
+2024-03-30,Kopi Kenangan,46763.76,EXPENSE,Makan & Minum,Gopay
+2024-03-30,Tokopedia,134389.79,EXPENSE,Belanja,Gopay
+2024-03-30,Beasiswa,1621206.41,INCOME,Gaji,Gopay
+2024-03-30,Alat Tulis,32174.43,EXPENSE,Belanja,BCA
+2024-03-30,Skincare,128528.25,EXPENSE,Belanja,Dompet Tunai
+2024-03-30,Top Up OVO,127431.78,EXPENSE,Tagihan,Dompet Tunai
+2024-03-30,Transfer Orang Tua,1391714.5,INCOME,Gaji,Gopay
+2024-03-30,Beasiswa,514656.27,INCOME,Gaji,Gopay
+2024-03-30,Fotokopi,13432.77,EXPENSE,Lain-lain,BCA
+2024-03-31,Bowling,70242.83,EXPENSE,Hiburan,Dompet Tunai
+2024-03-31,Fotokopi,21034.05,EXPENSE,Lain-lain,BCA
+2024-03-31,Bakso,16592.32,EXPENSE,Makan & Minum,Gopay
+2024-03-31,Olahraga,64318.15,EXPENSE,Hiburan,Gopay
+2024-03-31,Langganan Spotify,110091.18,EXPENSE,Tagihan,Dompet Tunai
+2024-04-01,Skincare,32231.99,EXPENSE,Belanja,Dompet Tunai
+2024-04-01,Fotokopi,4083.8,EXPENSE,Lain-lain,BCA
+2024-04-01,Bowling,131935.68,EXPENSE,Hiburan,BCA
+2024-04-01,Bowling,147715.05,EXPENSE,Hiburan,Gopay
+2024-04-01,Iuran Kebersihan,117321.9,EXPENSE,Tagihan,Gopay
+2024-04-01,Pizza,27421.51,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-01,Skincare,138235.46,EXPENSE,Belanja,Dompet Tunai
+2024-04-02,Sepatu,65804.15,EXPENSE,Belanja,Dompet Tunai
+2024-04-02,Streaming Film,62481.88,EXPENSE,Hiburan,BCA
+2024-04-02,Es Teh,9413.72,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-02,Pulsa,28625.49,EXPENSE,Tagihan,Dompet Tunai
+2024-04-02,Wifi Bulanan,54281.87,EXPENSE,Tagihan,BCA
+2024-04-02,Perlengkapan Kamar,124615.22,EXPENSE,Belanja,BCA
+2024-04-02,Karaoke,131390.12,EXPENSE,Hiburan,Gopay
+2024-04-02,Pulsa,57819.13,EXPENSE,Tagihan,Dompet Tunai
+2024-04-03,Bowling,133244.07,EXPENSE,Hiburan,Dompet Tunai
+2024-04-03,Keperluan Lain,40233.79,EXPENSE,Lain-lain,BCA
+2024-04-03,Donasi,46385.29,EXPENSE,Lain-lain,Gopay
+2024-04-04,Gym,21591.81,EXPENSE,Hiburan,BCA
+2024-04-04,Parkir Motor,19661.16,EXPENSE,Lain-lain,Gopay
+2024-04-05,Bakso,5585.09,EXPENSE,Makan & Minum,BCA
+2024-04-05,Minimarket,180417.04,EXPENSE,Belanja,Dompet Tunai
+2024-04-05,Konser,94482.8,EXPENSE,Hiburan,Dompet Tunai
+2024-04-05,Baju,126306.91,EXPENSE,Belanja,Gopay
+2024-04-06,Bowling,130058.73,EXPENSE,Hiburan,Gopay
+2024-04-06,Alat Tulis,107061.23,EXPENSE,Belanja,Gopay
+2024-04-06,Game Online,47184.01,EXPENSE,Hiburan,BCA
+2024-04-06,Bowling,142783.46,EXPENSE,Hiburan,Dompet Tunai
+2024-04-07,Indomaret Snack,19493.56,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-07,Gojek,40789.78,EXPENSE,Lain-lain,Gopay
+2024-04-07,Perlengkapan Kamar,174312.9,EXPENSE,Belanja,Gopay
+2024-04-07,Olahraga,20437.09,EXPENSE,Hiburan,Gopay
+2024-04-07,Baju,53938.5,EXPENSE,Belanja,BCA
+2024-04-07,Indomaret,34331.29,EXPENSE,Belanja,BCA
+2024-04-07,Alfamart Minuman,10828.17,EXPENSE,Makan & Minum,Gopay
+2024-04-07,GrabFood,34699.28,EXPENSE,Makan & Minum,Gopay
+2024-04-08,Langganan Spotify,96799.71,EXPENSE,Tagihan,Gopay
+2024-04-08,Bowling,94992.54,EXPENSE,Hiburan,Gopay
+2024-04-08,Olahraga,132731.11,EXPENSE,Hiburan,Gopay
+2024-04-08,Indomaret,94531.47,EXPENSE,Belanja,Dompet Tunai
+2024-04-08,Warung Nasi,37827.87,EXPENSE,Makan & Minum,Gopay
+2024-04-09,Gym,99208.21,EXPENSE,Hiburan,BCA
+2024-04-09,Top Up OVO,124073.75,EXPENSE,Tagihan,BCA
+2024-04-09,Nabung Liburan,453699.62,INCOME,Goals,BCA
+2024-04-09,Bubble Tea,26945.02,EXPENSE,Makan & Minum,Gopay
+2024-04-09,Perlengkapan Kamar,82417.93,EXPENSE,Belanja,Gopay
+2024-04-09,Skincare,89337.09,EXPENSE,Belanja,BCA
+2024-04-10,Alfamart Minuman,18276.83,EXPENSE,Makan & Minum,BCA
+2024-04-10,Ongkos Angkot,48633.57,EXPENSE,Lain-lain,BCA
+2024-04-10,Skincare,115568.17,EXPENSE,Belanja,Dompet Tunai
+2024-04-11,Perlengkapan Kamar,199344.18,EXPENSE,Belanja,Dompet Tunai
+2024-04-11,Target Gadget,156222.71,INCOME,Goals,BCA
+2024-04-11,Nasi Padang,22781.2,EXPENSE,Makan & Minum,BCA
+2024-04-11,Bowling,119533.97,EXPENSE,Hiburan,BCA
+2024-04-11,Karaoke,23674.1,EXPENSE,Hiburan,BCA
+2024-04-11,Alat Tulis,131678.42,EXPENSE,Belanja,Gopay
+2024-04-12,Baju,165812.79,EXPENSE,Belanja,Gopay
+2024-04-12,Fotokopi,6395.94,EXPENSE,Lain-lain,Gopay
+2024-04-12,GoFood,26089.73,EXPENSE,Makan & Minum,BCA
+2024-04-12,Freelance,1947540.37,INCOME,Gaji,BCA
+2024-04-12,Uang Saku,1450294.57,INCOME,Gaji,BCA
+2024-04-12,Netflix,126926.38,EXPENSE,Tagihan,Gopay
+2024-04-12,Parkir,24065.92,EXPENSE,Tagihan,Gopay
+2024-04-13,Karaoke,95106.71,EXPENSE,Hiburan,BCA
+2024-04-13,Streaming Film,39814.98,EXPENSE,Hiburan,BCA
+2024-04-13,Nasi Padang,41667.13,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-13,Parkir Motor,7302.76,EXPENSE,Lain-lain,Dompet Tunai
+2024-04-13,KFC,5455.9,EXPENSE,Makan & Minum,Gopay
+2024-04-13,Ongkos Angkot,31290.81,EXPENSE,Lain-lain,BCA
+2024-04-13,Streaming Film,55704.58,EXPENSE,Hiburan,BCA
+2024-04-13,Keperluan Lain,10271.35,EXPENSE,Lain-lain,Gopay
+2024-04-14,Iuran Kebersihan,28882.42,EXPENSE,Tagihan,Gopay
+2024-04-14,Target Gadget,420090.07,INCOME,Goals,BCA
+2024-04-14,Martabak,48253.58,EXPENSE,Makan & Minum,Gopay
+2024-04-14,Streaming Film,10806.21,EXPENSE,Hiburan,Dompet Tunai
+2024-04-14,Beasiswa,611066.98,INCOME,Gaji,Gopay
+2024-04-15,Iuran Kebersihan,121951.37,EXPENSE,Tagihan,Dompet Tunai
+2024-04-15,Baju,181762.06,EXPENSE,Belanja,Dompet Tunai
+2024-04-15,Parkir,18997.5,EXPENSE,Tagihan,Dompet Tunai
+2024-04-15,Keperluan Lain,21112.1,EXPENSE,Lain-lain,Dompet Tunai
+2024-04-15,Martabak,12508.71,EXPENSE,Makan & Minum,BCA
+2024-04-16,Kopi Kenangan,16605.63,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-16,Shopee,85150.55,EXPENSE,Belanja,Gopay
+2024-04-16,Beasiswa,507409.97,INCOME,Gaji,Gopay
+2024-04-16,Bowling,50213.46,EXPENSE,Hiburan,BCA
+2024-04-16,Top Up Game,69947.95,EXPENSE,Hiburan,Dompet Tunai
+2024-04-16,Bowling,20289.54,EXPENSE,Hiburan,BCA
+2024-04-17,Nasi Padang,10298.8,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-17,Biaya Admin Bank,110730.16,EXPENSE,Tagihan,Gopay
+2024-04-17,Netflix,118827.4,EXPENSE,Tagihan,BCA
+2024-04-17,Langganan Spotify,133645.85,EXPENSE,Tagihan,Gopay
+2024-04-17,Tiket Wahana,146621.14,EXPENSE,Hiburan,Dompet Tunai
+2024-04-17,Grab Motor,22521.97,EXPENSE,Lain-lain,Dompet Tunai
+2024-04-17,Parkir,18852.62,EXPENSE,Tagihan,Dompet Tunai
+2024-04-17,Martabak,8647.08,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-17,Netflix,51110.5,EXPENSE,Tagihan,Dompet Tunai
+2024-04-18,Netflix,107636.09,EXPENSE,Tagihan,Dompet Tunai
+2024-04-18,Indomaret,193797.72,EXPENSE,Belanja,Gopay
+2024-04-18,Keperluan Lain,7516.78,EXPENSE,Lain-lain,BCA
+2024-04-18,McDonalds,40973.71,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-18,Karaoke,22269.98,EXPENSE,Hiburan,BCA
+2024-04-19,Streaming Film,41910.92,EXPENSE,Hiburan,BCA
+2024-04-19,Langganan Spotify,123605.22,EXPENSE,Tagihan,BCA
+2024-04-19,Tiket Wahana,49330.83,EXPENSE,Hiburan,Gopay
+2024-04-19,Nabung Liburan,427151.88,INCOME,Goals,BCA
+2024-04-19,Jus Buah,21573.93,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-19,Alfamart,147783.85,EXPENSE,Belanja,Dompet Tunai
+2024-04-20,Iuran Bulanan,71446.67,EXPENSE,Tagihan,Gopay
+2024-04-21,Buku Kuliah,47489.05,EXPENSE,Belanja,BCA
+2024-04-21,Wifi Bulanan,87738.41,EXPENSE,Tagihan,Dompet Tunai
+2024-04-21,Tokopedia,82805.53,EXPENSE,Belanja,Gopay
+2024-04-21,Top Up OVO,125659.46,EXPENSE,Tagihan,Dompet Tunai
+2024-04-22,Iuran Kebersihan,97278.2,EXPENSE,Tagihan,Dompet Tunai
+2024-04-22,Top Up OVO,109306.28,EXPENSE,Tagihan,Dompet Tunai
+2024-04-22,Baju,124717.05,EXPENSE,Belanja,Dompet Tunai
+2024-04-22,Indomaret,70834.96,EXPENSE,Belanja,Dompet Tunai
+2024-04-22,Kopi Kenangan,8030.78,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-22,Listrik Kos,42616.4,EXPENSE,Tagihan,BCA
+2024-04-22,Netflix,60984.88,EXPENSE,Tagihan,Dompet Tunai
+2024-04-22,Biaya Admin Bank,129898.65,EXPENSE,Tagihan,BCA
+2024-04-22,Minimarket,12008.74,EXPENSE,Belanja,Gopay
+2024-04-22,Minimarket,187561.39,EXPENSE,Belanja,Dompet Tunai
+2024-04-22,Olahraga,24793.06,EXPENSE,Hiburan,BCA
+2024-04-23,Uang Saku,714487.52,INCOME,Gaji,Gopay
+2024-04-23,Top Up Game,105231.89,EXPENSE,Hiburan,Gopay
+2024-04-23,Kopi Kenangan,37502.01,EXPENSE,Makan & Minum,Gopay
+2024-04-23,Ongkos Angkot,19058.46,EXPENSE,Lain-lain,Dompet Tunai
+2024-04-23,Mie Ayam,23067.24,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-23,Minimarket,185257.26,EXPENSE,Belanja,Dompet Tunai
+2024-04-23,Perlengkapan Kamar,198800.44,EXPENSE,Belanja,BCA
+2024-04-23,Jus Buah,41655.86,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-23,GrabFood,48430.34,EXPENSE,Makan & Minum,Gopay
+2024-04-23,Top Up OVO,98318.77,EXPENSE,Tagihan,Gopay
+2024-04-23,Kantin Kampus,32817.01,EXPENSE,Makan & Minum,Gopay
+2024-04-23,Shopee,109710.01,EXPENSE,Belanja,BCA
+2024-04-24,Tokopedia,13834.28,EXPENSE,Belanja,BCA
+2024-04-24,Baju,170593.15,EXPENSE,Belanja,Dompet Tunai
+2024-04-24,Pulsa,86533.04,EXPENSE,Tagihan,Dompet Tunai
+2024-04-24,Iuran Bulanan,99491.69,EXPENSE,Tagihan,BCA
+2024-04-24,Es Teh,25666.93,EXPENSE,Makan & Minum,BCA
+2024-04-24,Shopee,20943.01,EXPENSE,Belanja,Gopay
+2024-04-25,Transfer Orang Tua,1218772.82,INCOME,Gaji,Gopay
+2024-04-25,GoFood,20823.02,EXPENSE,Makan & Minum,BCA
+2024-04-25,Top Up OVO,44595.27,EXPENSE,Tagihan,Dompet Tunai
+2024-04-25,Pizza,28500.95,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-25,Martabak,41956.58,EXPENSE,Makan & Minum,Gopay
+2024-04-25,Wifi Bulanan,58673.01,EXPENSE,Tagihan,BCA
+2024-04-25,Gaji Part Time,1979316.12,INCOME,Gaji,Gopay
+2024-04-26,Fotokopi,33626.5,EXPENSE,Lain-lain,Dompet Tunai
+2024-04-26,Skincare,151242.29,EXPENSE,Belanja,Gopay
+2024-04-26,Freelance,1925796.58,INCOME,Gaji,Gopay
+2024-04-26,Martabak,40270.63,EXPENSE,Makan & Minum,Gopay
+2024-04-26,Tiket Wahana,108512.1,EXPENSE,Hiburan,BCA
+2024-04-26,Grab Motor,13966.03,EXPENSE,Lain-lain,Gopay
+2024-04-27,Game Online,76249.39,EXPENSE,Hiburan,Dompet Tunai
+2024-04-27,Uang Bulanan,1277612.03,INCOME,Gaji,Gopay
+2024-04-27,Top Up Game,132317.8,EXPENSE,Hiburan,Gopay
+2024-04-27,Konser,138922.14,EXPENSE,Hiburan,BCA
+2024-04-28,Top Up Game,135724.28,EXPENSE,Hiburan,Gopay
+2024-04-28,Uang Saku,848319.04,INCOME,Gaji,Gopay
+2024-04-28,Tokopedia,82530.91,EXPENSE,Belanja,BCA
+2024-04-28,Jus Buah,17183.51,EXPENSE,Makan & Minum,BCA
+2024-04-29,Alfamart Minuman,12798.24,EXPENSE,Makan & Minum,Gopay
+2024-04-29,Alfamart Minuman,34871.2,EXPENSE,Makan & Minum,Dompet Tunai
+2024-04-29,Simpanan Bulanan,268035.34,INCOME,Goals,BCA
+2024-04-29,Skincare,16241.28,EXPENSE,Belanja,Dompet Tunai
+2024-04-29,Indomaret,120107.51,EXPENSE,Belanja,Gopay
+2024-04-29,Perlengkapan Kamar,71077.83,EXPENSE,Belanja,Dompet Tunai
+2024-04-30,Gym,71456.0,EXPENSE,Hiburan,Gopay
+2024-04-30,Olahraga,107582.2,EXPENSE,Hiburan,Gopay
+2024-04-30,Alat Tulis,90185.89,EXPENSE,Belanja,Gopay
+2024-04-30,Listrik Kos,23687.56,EXPENSE,Tagihan,Dompet Tunai
+2024-04-30,Martabak,43732.88,EXPENSE,Makan & Minum,Gopay
+2024-04-30,Freelance,1790209.54,INCOME,Gaji,Gopay
+2024-04-30,Alfamart,71192.79,EXPENSE,Belanja,BCA
+2024-04-30,Karaoke,42849.89,EXPENSE,Hiburan,Dompet Tunai
+2024-04-30,Martabak,23499.3,EXPENSE,Makan & Minum,Gopay
+2024-04-30,Alat Tulis,53661.51,EXPENSE,Belanja,Gopay
+2024-04-30,KFC,19193.31,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-01,Alfamart,145839.25,EXPENSE,Belanja,Dompet Tunai
+2024-05-01,Perlengkapan Kamar,133738.49,EXPENSE,Belanja,BCA
+2024-05-01,Ongkos Angkot,19124.16,EXPENSE,Lain-lain,BCA
+2024-05-01,Olahraga,132049.7,EXPENSE,Hiburan,BCA
+2024-05-01,Game Online,49295.65,EXPENSE,Hiburan,Dompet Tunai
+2024-05-01,Indomaret,26038.83,EXPENSE,Belanja,Gopay
+2024-05-01,Sepatu,8586.18,EXPENSE,Belanja,BCA
+2024-05-01,Streaming Film,148902.12,EXPENSE,Hiburan,BCA
+2024-05-01,KFC,11266.04,EXPENSE,Makan & Minum,BCA
+2024-05-02,Top Up Game,58660.01,EXPENSE,Hiburan,Gopay
+2024-05-02,Indomaret,109476.06,EXPENSE,Belanja,BCA
+2024-05-02,Sepatu,12671.99,EXPENSE,Belanja,Dompet Tunai
+2024-05-02,Shopee,118214.73,EXPENSE,Belanja,Gopay
+2024-05-02,Parkir,50525.17,EXPENSE,Tagihan,Gopay
+2024-05-02,Langganan Spotify,104555.54,EXPENSE,Tagihan,BCA
+2024-05-02,Es Teh,46393.5,EXPENSE,Makan & Minum,BCA
+2024-05-02,Iuran Bulanan,52487.12,EXPENSE,Tagihan,BCA
+2024-05-02,Olahraga,45249.52,EXPENSE,Hiburan,BCA
+2024-05-02,Warung Nasi,20778.21,EXPENSE,Makan & Minum,Gopay
+2024-05-02,Simpanan Bulanan,86977.25,INCOME,Goals,BCA
+2024-05-02,McDonalds,8817.7,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-03,GoFood,30557.54,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-03,Iuran Kebersihan,43869.23,EXPENSE,Tagihan,Dompet Tunai
+2024-05-03,Konser,145788.02,EXPENSE,Hiburan,Dompet Tunai
+2024-05-04,Fotokopi,19191.81,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-04,Iuran Kebersihan,40068.58,EXPENSE,Tagihan,Dompet Tunai
+2024-05-04,Buku Kuliah,107256.1,EXPENSE,Belanja,BCA
+2024-05-04,Perlengkapan Kamar,89938.75,EXPENSE,Belanja,Gopay
+2024-05-04,Skincare,150783.83,EXPENSE,Belanja,Gopay
+2024-05-04,Perlengkapan Kamar,193451.39,EXPENSE,Belanja,Gopay
+2024-05-04,Indomaret,140714.97,EXPENSE,Belanja,Dompet Tunai
+2024-05-05,Keperluan Lain,31296.02,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-05,Karaoke,70472.3,EXPENSE,Hiburan,BCA
+2024-05-05,Streaming Film,123415.88,EXPENSE,Hiburan,BCA
+2024-05-05,Olahraga,39104.08,EXPENSE,Hiburan,BCA
+2024-05-05,Ongkos Angkot,21236.63,EXPENSE,Lain-lain,Gopay
+2024-05-05,Simpanan Bulanan,435063.24,INCOME,Goals,BCA
+2024-05-06,Nasi Padang,17313.2,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-06,Olahraga,88531.32,EXPENSE,Hiburan,Dompet Tunai
+2024-05-06,Print Tugas,45045.84,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-06,Alfamart,158202.07,EXPENSE,Belanja,Dompet Tunai
+2024-05-06,Alfamart,104883.27,EXPENSE,Belanja,BCA
+2024-05-06,Biaya Admin Bank,122431.79,EXPENSE,Tagihan,Dompet Tunai
+2024-05-07,Netflix,32649.72,EXPENSE,Tagihan,Dompet Tunai
+2024-05-07,Martabak,6775.68,EXPENSE,Makan & Minum,BCA
+2024-05-08,Transfer Orang Tua,794146.57,INCOME,Gaji,BCA
+2024-05-08,Shopee,162105.68,EXPENSE,Belanja,BCA
+2024-05-08,Netflix,91851.88,EXPENSE,Tagihan,BCA
+2024-05-08,Grab Motor,35511.76,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-08,Indomaret Snack,27745.48,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-08,Pizza,10889.31,EXPENSE,Makan & Minum,Gopay
+2024-05-08,Mie Ayam,44028.24,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-08,GoFood,29728.8,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-08,Tokopedia,9794.45,EXPENSE,Belanja,Gopay
+2024-05-08,Wifi Bulanan,130719.57,EXPENSE,Tagihan,Gopay
+2024-05-08,GrabFood,20384.25,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-09,Shopee,122314.3,EXPENSE,Belanja,BCA
+2024-05-10,Sepatu,91531.29,EXPENSE,Belanja,BCA
+2024-05-10,GrabFood,18496.36,EXPENSE,Makan & Minum,Gopay
+2024-05-10,Keperluan Lain,38825.04,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-10,Biaya Admin Bank,50002.48,EXPENSE,Tagihan,Gopay
+2024-05-10,Baju,181543.38,EXPENSE,Belanja,BCA
+2024-05-10,Warung Nasi,8991.61,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-10,Top Up Game,116315.76,EXPENSE,Hiburan,Gopay
+2024-05-10,Warung Nasi,44639.18,EXPENSE,Makan & Minum,BCA
+2024-05-11,Gym,37935.94,EXPENSE,Hiburan,Gopay
+2024-05-11,Sepatu,21983.09,EXPENSE,Belanja,BCA
+2024-05-11,Wifi Bulanan,91761.84,EXPENSE,Tagihan,Gopay
+2024-05-11,Indomaret Snack,30943.24,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-12,Wifi Bulanan,83575.64,EXPENSE,Tagihan,BCA
+2024-05-12,Langganan Spotify,132214.21,EXPENSE,Tagihan,BCA
+2024-05-12,Karaoke,89103.08,EXPENSE,Hiburan,Dompet Tunai
+2024-05-12,Bowling,81170.48,EXPENSE,Hiburan,Dompet Tunai
+2024-05-12,Bubble Tea,33179.91,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-12,ATM,32365.85,EXPENSE,Lain-lain,BCA
+2024-05-12,Bakso,11090.93,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-12,Indomaret,33989.23,EXPENSE,Belanja,BCA
+2024-05-13,Shopee,20779.26,EXPENSE,Belanja,Dompet Tunai
+2024-05-13,KFC,36308.69,EXPENSE,Makan & Minum,Gopay
+2024-05-13,Sepatu,131813.51,EXPENSE,Belanja,BCA
+2024-05-13,Nasi Padang,41529.64,EXPENSE,Makan & Minum,BCA
+2024-05-13,Alfamart,30842.31,EXPENSE,Belanja,BCA
+2024-05-13,Kantin Kampus,21747.52,EXPENSE,Makan & Minum,Gopay
+2024-05-13,Bubble Tea,7338.05,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-14,Keperluan Lain,13037.82,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-14,Perlengkapan Kamar,126463.64,EXPENSE,Belanja,BCA
+2024-05-14,Keperluan Lain,40803.07,EXPENSE,Lain-lain,Gopay
+2024-05-14,Top Up OVO,84087.62,EXPENSE,Tagihan,BCA
+2024-05-14,Konser,44348.88,EXPENSE,Hiburan,BCA
+2024-05-14,Top Up Game,119924.63,EXPENSE,Hiburan,BCA
+2024-05-14,Es Teh,31920.14,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-15,Print Tugas,37425.61,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-15,Bioskop,50565.2,EXPENSE,Hiburan,Gopay
+2024-05-15,Perlengkapan Kamar,114285.92,EXPENSE,Belanja,BCA
+2024-05-15,Sepatu,32316.38,EXPENSE,Belanja,Dompet Tunai
+2024-05-15,GoFood,17597.03,EXPENSE,Makan & Minum,Gopay
+2024-05-15,Skincare,97081.91,EXPENSE,Belanja,BCA
+2024-05-16,Top Up OVO,55160.57,EXPENSE,Tagihan,Dompet Tunai
+2024-05-16,ATM,15684.57,EXPENSE,Lain-lain,Gopay
+2024-05-17,Kopi Kenangan,15908.44,EXPENSE,Makan & Minum,BCA
+2024-05-17,Indomaret Snack,23658.09,EXPENSE,Makan & Minum,Gopay
+2024-05-17,Perlengkapan Kamar,92991.67,EXPENSE,Belanja,Dompet Tunai
+2024-05-17,Sepatu,101620.81,EXPENSE,Belanja,Gopay
+2024-05-18,Pulsa,54563.52,EXPENSE,Tagihan,Gopay
+2024-05-18,Baju,180581.52,EXPENSE,Belanja,BCA
+2024-05-18,Jus Buah,25446.98,EXPENSE,Makan & Minum,BCA
+2024-05-19,Karaoke,125164.08,EXPENSE,Hiburan,BCA
+2024-05-19,Iuran Bulanan,58318.79,EXPENSE,Tagihan,Dompet Tunai
+2024-05-19,KFC,13416.97,EXPENSE,Makan & Minum,BCA
+2024-05-20,Print Tugas,29661.84,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-20,Listrik Kos,72067.53,EXPENSE,Tagihan,Dompet Tunai
+2024-05-20,Kopi Kenangan,15854.07,EXPENSE,Makan & Minum,BCA
+2024-05-20,Bioskop,119182.58,EXPENSE,Hiburan,Gopay
+2024-05-20,Indomaret Snack,29300.54,EXPENSE,Makan & Minum,Gopay
+2024-05-20,Sepatu,135172.23,EXPENSE,Belanja,Dompet Tunai
+2024-05-20,Olahraga,146585.43,EXPENSE,Hiburan,Gopay
+2024-05-20,Transfer Orang Tua,1304144.55,INCOME,Gaji,Gopay
+2024-05-21,Parkir,87293.42,EXPENSE,Tagihan,Dompet Tunai
+2024-05-21,Pizza,6494.14,EXPENSE,Makan & Minum,BCA
+2024-05-21,Tiket Wahana,74372.06,EXPENSE,Hiburan,Dompet Tunai
+2024-05-21,Indomaret Snack,16192.14,EXPENSE,Makan & Minum,BCA
+2024-05-21,Listrik Kos,108420.49,EXPENSE,Tagihan,Gopay
+2024-05-21,Indomaret Snack,33975.69,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-21,Es Teh,29400.67,EXPENSE,Makan & Minum,Gopay
+2024-05-21,Mie Ayam,6140.78,EXPENSE,Makan & Minum,Gopay
+2024-05-21,Pizza,9796.92,EXPENSE,Makan & Minum,Gopay
+2024-05-21,Nasi Padang,5526.8,EXPENSE,Makan & Minum,Gopay
+2024-05-21,Parkir,13856.3,EXPENSE,Tagihan,Dompet Tunai
+2024-05-21,Shopee,198998.93,EXPENSE,Belanja,BCA
+2024-05-22,Biaya Admin Bank,61358.21,EXPENSE,Tagihan,Gopay
+2024-05-22,Konser,138649.71,EXPENSE,Hiburan,Gopay
+2024-05-22,Bowling,141529.85,EXPENSE,Hiburan,Gopay
+2024-05-22,Minimarket,35058.28,EXPENSE,Belanja,Dompet Tunai
+2024-05-22,Kantin Kampus,19711.92,EXPENSE,Makan & Minum,BCA
+2024-05-22,Bakso,20574.49,EXPENSE,Makan & Minum,Gopay
+2024-05-22,Parkir Motor,38266.45,EXPENSE,Lain-lain,Dompet Tunai
+2024-05-22,Bioskop,31839.23,EXPENSE,Hiburan,Gopay
+2024-05-23,Alat Tulis,135494.05,EXPENSE,Belanja,Gopay
+2024-05-23,Kopi Kenangan,8195.34,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-23,Karaoke,135316.48,EXPENSE,Hiburan,Gopay
+2024-05-23,Parkir Motor,33246.73,EXPENSE,Lain-lain,BCA
+2024-05-24,Kantin Kampus,49631.45,EXPENSE,Makan & Minum,BCA
+2024-05-24,Warung Nasi,18640.78,EXPENSE,Makan & Minum,Gopay
+2024-05-24,Game Online,113261.52,EXPENSE,Hiburan,Gopay
+2024-05-25,Warung Nasi,12971.74,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-25,Top Up OVO,141054.2,EXPENSE,Tagihan,Dompet Tunai
+2024-05-25,Langganan Spotify,131457.97,EXPENSE,Tagihan,Dompet Tunai
+2024-05-25,Sepatu,199677.76,EXPENSE,Belanja,Gopay
+2024-05-25,Gaji Part Time,545978.75,INCOME,Gaji,Gopay
+2024-05-25,Biaya Admin Bank,135601.77,EXPENSE,Tagihan,Dompet Tunai
+2024-05-25,Langganan Spotify,110631.15,EXPENSE,Tagihan,BCA
+2024-05-26,Bakso,41016.04,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-26,Biaya Admin Bank,72080.33,EXPENSE,Tagihan,Dompet Tunai
+2024-05-26,Pulsa,76986.87,EXPENSE,Tagihan,BCA
+2024-05-26,Nasi Padang,27376.18,EXPENSE,Makan & Minum,BCA
+2024-05-26,Listrik Kos,27164.58,EXPENSE,Tagihan,Dompet Tunai
+2024-05-26,Perlengkapan Kamar,114131.49,EXPENSE,Belanja,Gopay
+2024-05-26,Target Gadget,254543.48,INCOME,Goals,BCA
+2024-05-26,Es Teh,36543.61,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-26,Alfamart,117764.63,EXPENSE,Belanja,Dompet Tunai
+2024-05-27,Nasi Padang,8660.7,EXPENSE,Makan & Minum,BCA
+2024-05-27,Martabak,32713.25,EXPENSE,Makan & Minum,BCA
+2024-05-27,Shopee,127115.69,EXPENSE,Belanja,Gopay
+2024-05-27,Martabak,15676.21,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-27,Listrik Kos,100189.4,EXPENSE,Tagihan,Gopay
+2024-05-27,Alfamart Minuman,20671.5,EXPENSE,Makan & Minum,BCA
+2024-05-27,Alat Tulis,168937.09,EXPENSE,Belanja,Gopay
+2024-05-27,Fotokopi,41256.04,EXPENSE,Lain-lain,BCA
+2024-05-28,Tiket Wahana,96742.51,EXPENSE,Hiburan,Gopay
+2024-05-28,Tokopedia,46406.13,EXPENSE,Belanja,Gopay
+2024-05-28,Listrik Kos,21054.49,EXPENSE,Tagihan,Dompet Tunai
+2024-05-28,Minimarket,126659.69,EXPENSE,Belanja,Gopay
+2024-05-28,Parkir,36427.27,EXPENSE,Tagihan,Gopay
+2024-05-29,Streaming Film,139964.6,EXPENSE,Hiburan,Dompet Tunai
+2024-05-29,Jus Buah,21702.76,EXPENSE,Makan & Minum,Gopay
+2024-05-29,Gym,79096.52,EXPENSE,Hiburan,Gopay
+2024-05-29,Perlengkapan Kamar,38837.28,EXPENSE,Belanja,Gopay
+2024-05-29,Gaji Part Time,877698.59,INCOME,Gaji,Gopay
+2024-05-29,Top Up OVO,70726.88,EXPENSE,Tagihan,BCA
+2024-05-30,Sepatu,162825.43,EXPENSE,Belanja,BCA
+2024-05-30,Honor Mengajar,1520211.16,INCOME,Gaji,BCA
+2024-05-30,Indomaret,167811.4,EXPENSE,Belanja,Gopay
+2024-05-31,Buku Kuliah,43506.75,EXPENSE,Belanja,BCA
+2024-05-31,Nasi Padang,5544.88,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-31,Top Up Game,98841.54,EXPENSE,Hiburan,Gopay
+2024-05-31,Kantin Kampus,11247.22,EXPENSE,Makan & Minum,Dompet Tunai
+2024-05-31,Nabung Liburan,494475.08,INCOME,Goals,BCA
+2024-05-31,Alfamart,103984.02,EXPENSE,Belanja,Dompet Tunai
+2024-06-01,Alat Tulis,181064.52,EXPENSE,Belanja,Gopay
+2024-06-01,Alfamart,39197.4,EXPENSE,Belanja,Gopay
+2024-06-01,Wifi Bulanan,143709.12,EXPENSE,Tagihan,BCA
+2024-06-01,Iuran Kebersihan,132114.77,EXPENSE,Tagihan,Dompet Tunai
+2024-06-01,ATM,18349.0,EXPENSE,Lain-lain,Dompet Tunai
+2024-06-01,Netflix,22482.2,EXPENSE,Tagihan,Gopay
+2024-06-02,Alat Tulis,20717.3,EXPENSE,Belanja,BCA
+2024-06-02,Target Gadget,365885.09,INCOME,Goals,BCA
+2024-06-02,Wifi Bulanan,130991.22,EXPENSE,Tagihan,Dompet Tunai
+2024-06-02,Pulsa,23076.09,EXPENSE,Tagihan,BCA
+2024-06-02,Ongkos Angkot,26560.52,EXPENSE,Lain-lain,BCA
+2024-06-02,Martabak,6968.26,EXPENSE,Makan & Minum,BCA
+2024-06-02,Buku Kuliah,30186.09,EXPENSE,Belanja,Gopay
+2024-06-02,Alfamart Minuman,17366.27,EXPENSE,Makan & Minum,BCA
+2024-06-03,Konser,121410.97,EXPENSE,Hiburan,BCA
+2024-06-03,Konser,90974.17,EXPENSE,Hiburan,Dompet Tunai
+2024-06-03,Top Up Game,111637.19,EXPENSE,Hiburan,BCA
+2024-06-03,Minimarket,137125.05,EXPENSE,Belanja,Dompet Tunai
+2024-06-03,Warung Nasi,36168.17,EXPENSE,Makan & Minum,BCA
+2024-06-03,Bakso,7851.87,EXPENSE,Makan & Minum,BCA
+2024-06-03,Listrik Kos,133627.53,EXPENSE,Tagihan,Dompet Tunai
+2024-06-03,Alfamart Minuman,17090.48,EXPENSE,Makan & Minum,Gopay
+2024-06-03,KFC,39027.35,EXPENSE,Makan & Minum,BCA
+2024-06-04,ATM,26607.43,EXPENSE,Lain-lain,Dompet Tunai
+2024-06-04,Warung Nasi,13461.11,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-04,Olahraga,122956.86,EXPENSE,Hiburan,Dompet Tunai
+2024-06-04,Iuran Kebersihan,104818.35,EXPENSE,Tagihan,BCA
+2024-06-04,Indomaret,33753.24,EXPENSE,Belanja,BCA
+2024-06-05,Biaya Admin Bank,131145.53,EXPENSE,Tagihan,BCA
+2024-06-05,Simpanan Bulanan,296930.21,INCOME,Goals,BCA
+2024-06-05,Netflix,97233.93,EXPENSE,Tagihan,BCA
+2024-06-05,Minimarket,53685.26,EXPENSE,Belanja,BCA
+2024-06-05,Bowling,73194.18,EXPENSE,Hiburan,Dompet Tunai
+2024-06-05,Gaji Part Time,1877114.83,INCOME,Gaji,BCA
+2024-06-05,Indomaret Snack,29005.75,EXPENSE,Makan & Minum,Gopay
+2024-06-06,Netflix,51269.57,EXPENSE,Tagihan,BCA
+2024-06-06,Kantin Kampus,28522.98,EXPENSE,Makan & Minum,Gopay
+2024-06-06,Bubble Tea,10762.06,EXPENSE,Makan & Minum,BCA
+2024-06-06,KFC,17988.37,EXPENSE,Makan & Minum,BCA
+2024-06-06,Grab Motor,7857.84,EXPENSE,Lain-lain,Gopay
+2024-06-06,Baju,111606.0,EXPENSE,Belanja,Dompet Tunai
+2024-06-06,Baju,178652.82,EXPENSE,Belanja,BCA
+2024-06-06,Shopee,100076.38,EXPENSE,Belanja,Dompet Tunai
+2024-06-07,Buku Kuliah,154275.02,EXPENSE,Belanja,BCA
+2024-06-07,Top Up Game,29963.18,EXPENSE,Hiburan,Gopay
+2024-06-07,Alfamart Minuman,41651.08,EXPENSE,Makan & Minum,Gopay
+2024-06-07,Gym,136901.24,EXPENSE,Hiburan,Dompet Tunai
+2024-06-07,Bubble Tea,47752.79,EXPENSE,Makan & Minum,Gopay
+2024-06-07,Buku Kuliah,60875.54,EXPENSE,Belanja,Gopay
+2024-06-07,Top Up Game,50910.55,EXPENSE,Hiburan,BCA
+2024-06-08,Alfamart Minuman,41746.97,EXPENSE,Makan & Minum,BCA
+2024-06-08,Sepatu,38102.79,EXPENSE,Belanja,Gopay
+2024-06-08,Bowling,10450.56,EXPENSE,Hiburan,Gopay
+2024-06-08,Tiket Wahana,55946.99,EXPENSE,Hiburan,BCA
+2024-06-08,Perlengkapan Kamar,103945.33,EXPENSE,Belanja,Dompet Tunai
+2024-06-08,Shopee,106216.66,EXPENSE,Belanja,Dompet Tunai
+2024-06-08,Gym,112629.98,EXPENSE,Hiburan,Gopay
+2024-06-09,Sepatu,68395.28,EXPENSE,Belanja,Gopay
+2024-06-09,Alfamart Minuman,45781.46,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-09,Streaming Film,79422.6,EXPENSE,Hiburan,Dompet Tunai
+2024-06-09,Langganan Spotify,66696.53,EXPENSE,Tagihan,Dompet Tunai
+2024-06-09,ATM,40545.24,EXPENSE,Lain-lain,Dompet Tunai
+2024-06-09,Alfamart,88783.08,EXPENSE,Belanja,BCA
+2024-06-09,Wifi Bulanan,90991.43,EXPENSE,Tagihan,BCA
+2024-06-10,Netflix,12535.84,EXPENSE,Tagihan,BCA
+2024-06-10,Bowling,110688.25,EXPENSE,Hiburan,BCA
+2024-06-10,Shopee,25301.38,EXPENSE,Belanja,BCA
+2024-06-10,Netflix,80004.01,EXPENSE,Tagihan,BCA
+2024-06-10,Bioskop,18449.29,EXPENSE,Hiburan,Gopay
+2024-06-10,Tiket Wahana,72426.38,EXPENSE,Hiburan,Gopay
+2024-06-10,Netflix,108815.97,EXPENSE,Tagihan,Dompet Tunai
+2024-06-10,Olahraga,37334.02,EXPENSE,Hiburan,BCA
+2024-06-10,Uang Saku,1002795.86,INCOME,Gaji,BCA
+2024-06-10,Es Teh,8293.82,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-10,Biaya Admin Bank,123508.18,EXPENSE,Tagihan,Dompet Tunai
+2024-06-11,Biaya Admin Bank,31872.88,EXPENSE,Tagihan,Dompet Tunai
+2024-06-11,Gym,126100.15,EXPENSE,Hiburan,Dompet Tunai
+2024-06-11,Skincare,70348.18,EXPENSE,Belanja,Gopay
+2024-06-11,Martabak,38987.17,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-11,Baju,180978.39,EXPENSE,Belanja,BCA
+2024-06-11,Kopi Kenangan,47998.57,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-12,McDonalds,5820.47,EXPENSE,Makan & Minum,BCA
+2024-06-12,Buku Kuliah,196352.93,EXPENSE,Belanja,BCA
+2024-06-12,Streaming Film,101172.62,EXPENSE,Hiburan,Dompet Tunai
+2024-06-12,Pulsa,137745.8,EXPENSE,Tagihan,Dompet Tunai
+2024-06-12,Beasiswa,1851737.02,INCOME,Gaji,Gopay
+2024-06-12,KFC,35999.84,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-13,Sepatu,62611.73,EXPENSE,Belanja,BCA
+2024-06-13,Langganan Spotify,87906.99,EXPENSE,Tagihan,Gopay
+2024-06-13,Alat Tulis,125300.75,EXPENSE,Belanja,Gopay
+2024-06-13,Nasi Padang,31252.63,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-13,Bowling,25407.27,EXPENSE,Hiburan,BCA
+2024-06-13,Wifi Bulanan,77882.38,EXPENSE,Tagihan,Gopay
+2024-06-13,Parkir,29576.45,EXPENSE,Tagihan,Dompet Tunai
+2024-06-13,Perlengkapan Kamar,186497.68,EXPENSE,Belanja,BCA
+2024-06-14,Bubble Tea,30529.05,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-14,Bowling,38817.77,EXPENSE,Hiburan,BCA
+2024-06-14,Gojek,13711.5,EXPENSE,Lain-lain,Gopay
+2024-06-14,Gojek,4791.86,EXPENSE,Lain-lain,Gopay
+2024-06-14,GoFood,45254.85,EXPENSE,Makan & Minum,Gopay
+2024-06-14,Tokopedia,19845.52,EXPENSE,Belanja,BCA
+2024-06-14,Biaya Admin Bank,107811.71,EXPENSE,Tagihan,Gopay
+2024-06-14,Tiket Wahana,140742.5,EXPENSE,Hiburan,Dompet Tunai
+2024-06-15,Tokopedia,109385.48,EXPENSE,Belanja,Dompet Tunai
+2024-06-15,Alat Tulis,186258.18,EXPENSE,Belanja,BCA
+2024-06-15,Alfamart,90332.61,EXPENSE,Belanja,Gopay
+2024-06-15,Skincare,92822.33,EXPENSE,Belanja,Dompet Tunai
+2024-06-15,Karaoke,16740.0,EXPENSE,Hiburan,Gopay
+2024-06-15,GrabFood,5810.3,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-15,Gym,145787.69,EXPENSE,Hiburan,BCA
+2024-06-15,Top Up Game,120457.92,EXPENSE,Hiburan,Gopay
+2024-06-15,Es Teh,28407.36,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-16,Parkir Motor,33628.35,EXPENSE,Lain-lain,BCA
+2024-06-16,Iuran Bulanan,116079.39,EXPENSE,Tagihan,Dompet Tunai
+2024-06-16,Baju,132564.05,EXPENSE,Belanja,Gopay
+2024-06-16,Donasi,48272.84,EXPENSE,Lain-lain,BCA
+2024-06-16,Parkir,115434.84,EXPENSE,Tagihan,BCA
+2024-06-16,Freelance,1379344.75,INCOME,Gaji,BCA
+2024-06-16,Alfamart Minuman,17978.24,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-16,Buku Kuliah,122366.91,EXPENSE,Belanja,Dompet Tunai
+2024-06-17,Baju,51828.4,EXPENSE,Belanja,Dompet Tunai
+2024-06-17,Shopee,176176.87,EXPENSE,Belanja,BCA
+2024-06-17,Donasi,29848.27,EXPENSE,Lain-lain,Dompet Tunai
+2024-06-17,Pulsa,136280.39,EXPENSE,Tagihan,Dompet Tunai
+2024-06-17,Top Up Game,117857.04,EXPENSE,Hiburan,Dompet Tunai
+2024-06-17,Biaya Admin Bank,115233.04,EXPENSE,Tagihan,BCA
+2024-06-18,Es Teh,24178.16,EXPENSE,Makan & Minum,BCA
+2024-06-18,Konser,86228.47,EXPENSE,Hiburan,Dompet Tunai
+2024-06-18,Wifi Bulanan,69874.79,EXPENSE,Tagihan,BCA
+2024-06-18,Freelance,1697570.51,INCOME,Gaji,Gopay
+2024-06-18,Indomaret Snack,35063.83,EXPENSE,Makan & Minum,Gopay
+2024-06-18,Parkir Motor,25467.1,EXPENSE,Lain-lain,Gopay
+2024-06-18,Streaming Film,80380.85,EXPENSE,Hiburan,BCA
+2024-06-18,Iuran Kebersihan,13387.19,EXPENSE,Tagihan,Gopay
+2024-06-18,Parkir,110587.37,EXPENSE,Tagihan,Gopay
+2024-06-18,Tiket Wahana,53312.18,EXPENSE,Hiburan,Gopay
+2024-06-18,ATM,46610.05,EXPENSE,Lain-lain,Dompet Tunai
+2024-06-18,Wifi Bulanan,130950.36,EXPENSE,Tagihan,BCA
+2024-06-19,Es Teh,39604.43,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-19,Streaming Film,54369.08,EXPENSE,Hiburan,Dompet Tunai
+2024-06-19,Alat Tulis,134438.99,EXPENSE,Belanja,Gopay
+2024-06-19,Indomaret,87723.29,EXPENSE,Belanja,Gopay
+2024-06-19,Martabak,5903.2,EXPENSE,Makan & Minum,Gopay
+2024-06-19,Parkir,85878.6,EXPENSE,Tagihan,Dompet Tunai
+2024-06-20,Bioskop,46306.89,EXPENSE,Hiburan,Dompet Tunai
+2024-06-21,Indomaret Snack,43977.93,EXPENSE,Makan & Minum,Gopay
+2024-06-21,Pulsa,34268.75,EXPENSE,Tagihan,Dompet Tunai
+2024-06-21,Martabak,16621.0,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-21,Listrik Kos,65048.81,EXPENSE,Tagihan,BCA
+2024-06-21,Shopee,27127.34,EXPENSE,Belanja,BCA
+2024-06-21,Buku Kuliah,75635.91,EXPENSE,Belanja,Dompet Tunai
+2024-06-22,Buku Kuliah,129103.9,EXPENSE,Belanja,Dompet Tunai
+2024-06-22,Pulsa,136421.39,EXPENSE,Tagihan,Dompet Tunai
+2024-06-22,Listrik Kos,84272.99,EXPENSE,Tagihan,Dompet Tunai
+2024-06-22,Iuran Bulanan,149959.06,EXPENSE,Tagihan,BCA
+2024-06-22,Transfer Orang Tua,597280.39,INCOME,Gaji,Gopay
+2024-06-22,Wifi Bulanan,11557.96,EXPENSE,Tagihan,Gopay
+2024-06-22,Keperluan Lain,36880.21,EXPENSE,Lain-lain,Gopay
+2024-06-22,Top Up OVO,135870.17,EXPENSE,Tagihan,Gopay
+2024-06-23,KFC,14169.49,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-23,Bioskop,95509.21,EXPENSE,Hiburan,BCA
+2024-06-23,Pulsa,98217.88,EXPENSE,Tagihan,Gopay
+2024-06-23,Baju,16326.3,EXPENSE,Belanja,Gopay
+2024-06-23,Tokopedia,190032.68,EXPENSE,Belanja,BCA
+2024-06-23,Print Tugas,42589.01,EXPENSE,Lain-lain,BCA
+2024-06-23,Indomaret,172149.96,EXPENSE,Belanja,Gopay
+2024-06-23,Sepatu,35009.7,EXPENSE,Belanja,Gopay
+2024-06-23,Game Online,52875.51,EXPENSE,Hiburan,BCA
+2024-06-23,Bioskop,41709.41,EXPENSE,Hiburan,BCA
+2024-06-24,Indomaret Snack,10095.71,EXPENSE,Makan & Minum,BCA
+2024-06-24,Gaji Part Time,828820.98,INCOME,Gaji,BCA
+2024-06-24,Warung Nasi,44062.55,EXPENSE,Makan & Minum,BCA
+2024-06-24,Tiket Wahana,145717.73,EXPENSE,Hiburan,BCA
+2024-06-24,Iuran Kebersihan,59039.83,EXPENSE,Tagihan,BCA
+2024-06-24,Print Tugas,22591.71,EXPENSE,Lain-lain,Dompet Tunai
+2024-06-25,Baju,50427.1,EXPENSE,Belanja,Gopay
+2024-06-25,Bioskop,117073.37,EXPENSE,Hiburan,Dompet Tunai
+2024-06-25,Tokopedia,166083.19,EXPENSE,Belanja,Dompet Tunai
+2024-06-25,Biaya Admin Bank,58436.32,EXPENSE,Tagihan,BCA
+2024-06-25,Alfamart,194830.35,EXPENSE,Belanja,BCA
+2024-06-25,Pulsa,68713.72,EXPENSE,Tagihan,BCA
+2024-06-25,Perlengkapan Kamar,164401.49,EXPENSE,Belanja,Dompet Tunai
+2024-06-25,Gym,32570.98,EXPENSE,Hiburan,BCA
+2024-06-25,Karaoke,131180.8,EXPENSE,Hiburan,BCA
+2024-06-25,KFC,33109.86,EXPENSE,Makan & Minum,BCA
+2024-06-25,Netflix,130579.26,EXPENSE,Tagihan,Gopay
+2024-06-26,Buku Kuliah,97553.02,EXPENSE,Belanja,Dompet Tunai
+2024-06-26,Pizza,37921.53,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-26,Streaming Film,144549.84,EXPENSE,Hiburan,Dompet Tunai
+2024-06-26,Shopee,116464.47,EXPENSE,Belanja,Gopay
+2024-06-26,Wifi Bulanan,141398.49,EXPENSE,Tagihan,Dompet Tunai
+2024-06-27,Parkir Motor,35443.38,EXPENSE,Lain-lain,Dompet Tunai
+2024-06-27,Top Up OVO,82695.01,EXPENSE,Tagihan,Dompet Tunai
+2024-06-27,Gym,29498.09,EXPENSE,Hiburan,BCA
+2024-06-27,Freelance,1194013.41,INCOME,Gaji,Gopay
+2024-06-27,Tokopedia,160885.03,EXPENSE,Belanja,Gopay
+2024-06-28,Keperluan Lain,33268.18,EXPENSE,Lain-lain,BCA
+2024-06-28,Mie Ayam,33888.72,EXPENSE,Makan & Minum,Gopay
+2024-06-28,Alfamart Minuman,34289.48,EXPENSE,Makan & Minum,BCA
+2024-06-28,Top Up OVO,103633.1,EXPENSE,Tagihan,Gopay
+2024-06-28,Top Up Game,110805.12,EXPENSE,Hiburan,Dompet Tunai
+2024-06-28,KFC,41353.07,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-29,Top Up Game,144851.16,EXPENSE,Hiburan,BCA
+2024-06-29,Iuran Kebersihan,119554.41,EXPENSE,Tagihan,BCA
+2024-06-29,Karaoke,111704.64,EXPENSE,Hiburan,Gopay
+2024-06-30,Minimarket,79058.23,EXPENSE,Belanja,BCA
+2024-06-30,Tabungan,211009.22,INCOME,Goals,BCA
+2024-06-30,Wifi Bulanan,109051.68,EXPENSE,Tagihan,Gopay
+2024-06-30,McDonalds,22932.71,EXPENSE,Makan & Minum,Dompet Tunai
+2024-06-30,Iuran Kebersihan,85026.49,EXPENSE,Tagihan,Dompet Tunai
+2024-06-30,Tokopedia,46465.65,EXPENSE,Belanja,Gopay
+2024-07-01,Alfamart Minuman,17457.25,EXPENSE,Makan & Minum,BCA
+2024-07-01,Ongkos Angkot,17088.81,EXPENSE,Lain-lain,Gopay
+2024-07-01,Alfamart Minuman,22348.04,EXPENSE,Makan & Minum,Gopay
+2024-07-02,Buku Kuliah,179070.98,EXPENSE,Belanja,Dompet Tunai
+2024-07-02,Buku Kuliah,30488.52,EXPENSE,Belanja,Gopay
+2024-07-02,Langganan Spotify,92161.68,EXPENSE,Tagihan,Dompet Tunai
+2024-07-02,Game Online,101949.21,EXPENSE,Hiburan,BCA
+2024-07-02,Tokopedia,124233.58,EXPENSE,Belanja,Dompet Tunai
+2024-07-02,Bubble Tea,39029.61,EXPENSE,Makan & Minum,Gopay
+2024-07-02,Gym,123955.84,EXPENSE,Hiburan,Dompet Tunai
+2024-07-02,Grab Motor,30401.46,EXPENSE,Lain-lain,Gopay
+2024-07-02,Tokopedia,109123.66,EXPENSE,Belanja,BCA
+2024-07-02,Shopee,129512.56,EXPENSE,Belanja,Gopay
+2024-07-03,Bioskop,80307.3,EXPENSE,Hiburan,BCA
+2024-07-03,GrabFood,11289.76,EXPENSE,Makan & Minum,Gopay
+2024-07-03,Wifi Bulanan,93539.91,EXPENSE,Tagihan,Gopay
+2024-07-03,ATM,49230.93,EXPENSE,Lain-lain,BCA
+2024-07-03,KFC,40480.13,EXPENSE,Makan & Minum,Gopay
+2024-07-03,GoFood,23991.54,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-04,Bioskop,130896.65,EXPENSE,Hiburan,Dompet Tunai
+2024-07-04,Game Online,144809.76,EXPENSE,Hiburan,Dompet Tunai
+2024-07-04,Top Up Game,92648.68,EXPENSE,Hiburan,BCA
+2024-07-05,Alat Tulis,70694.68,EXPENSE,Belanja,BCA
+2024-07-05,Indomaret,40763.88,EXPENSE,Belanja,BCA
+2024-07-05,Print Tugas,22410.25,EXPENSE,Lain-lain,BCA
+2024-07-05,Netflix,143855.67,EXPENSE,Tagihan,Gopay
+2024-07-05,Gym,24437.34,EXPENSE,Hiburan,BCA
+2024-07-05,Skincare,194126.37,EXPENSE,Belanja,Dompet Tunai
+2024-07-05,Tiket Wahana,13667.54,EXPENSE,Hiburan,Gopay
+2024-07-06,Nasi Padang,32803.13,EXPENSE,Makan & Minum,Gopay
+2024-07-06,Skincare,29860.29,EXPENSE,Belanja,Gopay
+2024-07-06,Langganan Spotify,52419.81,EXPENSE,Tagihan,Gopay
+2024-07-06,ATM,21911.34,EXPENSE,Lain-lain,BCA
+2024-07-06,Alat Tulis,58285.61,EXPENSE,Belanja,Gopay
+2024-07-07,Bubble Tea,10134.31,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-07,Bowling,73791.95,EXPENSE,Hiburan,Dompet Tunai
+2024-07-07,McDonalds,34214.46,EXPENSE,Makan & Minum,BCA
+2024-07-07,KFC,11156.84,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-07,Streaming Film,94150.38,EXPENSE,Hiburan,Gopay
+2024-07-07,Simpanan Bulanan,85305.37,INCOME,Goals,BCA
+2024-07-07,Print Tugas,19981.41,EXPENSE,Lain-lain,BCA
+2024-07-07,Shopee,196292.54,EXPENSE,Belanja,Dompet Tunai
+2024-07-07,Indomaret,167883.99,EXPENSE,Belanja,Dompet Tunai
+2024-07-07,Bubble Tea,13914.39,EXPENSE,Makan & Minum,BCA
+2024-07-08,Iuran Kebersihan,89937.46,EXPENSE,Tagihan,Dompet Tunai
+2024-07-08,Donasi,36695.09,EXPENSE,Lain-lain,Gopay
+2024-07-08,Minimarket,62824.44,EXPENSE,Belanja,BCA
+2024-07-08,Bubble Tea,48914.32,EXPENSE,Makan & Minum,BCA
+2024-07-08,Mie Ayam,17187.45,EXPENSE,Makan & Minum,BCA
+2024-07-08,Kopi Kenangan,27220.8,EXPENSE,Makan & Minum,BCA
+2024-07-09,Streaming Film,71814.27,EXPENSE,Hiburan,Gopay
+2024-07-09,Kopi Kenangan,12794.08,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-09,Buku Kuliah,130579.91,EXPENSE,Belanja,Dompet Tunai
+2024-07-09,Print Tugas,6096.68,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-09,Martabak,24014.68,EXPENSE,Makan & Minum,BCA
+2024-07-09,Print Tugas,43073.43,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-10,Buku Kuliah,159871.08,EXPENSE,Belanja,BCA
+2024-07-10,Parkir,94641.62,EXPENSE,Tagihan,BCA
+2024-07-10,Es Teh,30096.9,EXPENSE,Makan & Minum,BCA
+2024-07-10,Game Online,72963.58,EXPENSE,Hiburan,BCA
+2024-07-10,Keperluan Lain,16282.33,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-10,Dana Darurat,95505.2,INCOME,Goals,BCA
+2024-07-10,Bioskop,97624.79,EXPENSE,Hiburan,BCA
+2024-07-10,Baju,21282.64,EXPENSE,Belanja,Dompet Tunai
+2024-07-10,Olahraga,137860.17,EXPENSE,Hiburan,Dompet Tunai
+2024-07-10,Keperluan Lain,32327.05,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-11,Alat Tulis,12951.15,EXPENSE,Belanja,Dompet Tunai
+2024-07-11,Tiket Wahana,13711.58,EXPENSE,Hiburan,BCA
+2024-07-11,Konser,64949.1,EXPENSE,Hiburan,Dompet Tunai
+2024-07-11,Kantin Kampus,45163.55,EXPENSE,Makan & Minum,BCA
+2024-07-11,Bubble Tea,11159.85,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-11,Mie Ayam,20627.47,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-11,Langganan Spotify,75966.62,EXPENSE,Tagihan,BCA
+2024-07-12,Mie Ayam,48016.35,EXPENSE,Makan & Minum,Gopay
+2024-07-12,Jus Buah,44204.2,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-12,Perlengkapan Kamar,25390.73,EXPENSE,Belanja,BCA
+2024-07-12,Wifi Bulanan,112462.49,EXPENSE,Tagihan,BCA
+2024-07-12,Donasi,45716.97,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-12,GrabFood,5926.3,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-13,Perlengkapan Kamar,53185.13,EXPENSE,Belanja,Gopay
+2024-07-13,Iuran Kebersihan,39457.44,EXPENSE,Tagihan,BCA
+2024-07-13,Pulsa,122078.82,EXPENSE,Tagihan,Dompet Tunai
+2024-07-13,Iuran Bulanan,37954.1,EXPENSE,Tagihan,Dompet Tunai
+2024-07-13,Gojek,10727.6,EXPENSE,Lain-lain,BCA
+2024-07-13,Buku Kuliah,28353.62,EXPENSE,Belanja,Dompet Tunai
+2024-07-13,Listrik Kos,121868.92,EXPENSE,Tagihan,Gopay
+2024-07-14,Alat Tulis,133398.11,EXPENSE,Belanja,BCA
+2024-07-14,Perlengkapan Kamar,27634.16,EXPENSE,Belanja,Dompet Tunai
+2024-07-14,Target Gadget,360677.67,INCOME,Goals,BCA
+2024-07-14,KFC,32339.52,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-14,Skincare,101411.96,EXPENSE,Belanja,Dompet Tunai
+2024-07-14,Nasi Padang,46095.82,EXPENSE,Makan & Minum,BCA
+2024-07-14,Konser,102219.09,EXPENSE,Hiburan,Gopay
+2024-07-14,Martabak,10927.79,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-14,Shopee,81803.56,EXPENSE,Belanja,BCA
+2024-07-14,Indomaret,170870.13,EXPENSE,Belanja,BCA
+2024-07-14,Kopi Kenangan,31658.35,EXPENSE,Makan & Minum,Gopay
+2024-07-14,Netflix,57219.78,EXPENSE,Tagihan,BCA
+2024-07-15,Uang Bulanan,978128.75,INCOME,Gaji,BCA
+2024-07-15,Parkir Motor,46130.81,EXPENSE,Lain-lain,Gopay
+2024-07-15,Kopi Kenangan,13164.59,EXPENSE,Makan & Minum,BCA
+2024-07-15,Top Up OVO,122530.23,EXPENSE,Tagihan,BCA
+2024-07-15,Buku Kuliah,48311.02,EXPENSE,Belanja,BCA
+2024-07-15,Nasi Padang,33503.04,EXPENSE,Makan & Minum,BCA
+2024-07-15,Bowling,118697.81,EXPENSE,Hiburan,Dompet Tunai
+2024-07-15,Kopi Kenangan,17817.82,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-15,Karaoke,135727.6,EXPENSE,Hiburan,Gopay
+2024-07-15,Tiket Wahana,108345.1,EXPENSE,Hiburan,Dompet Tunai
+2024-07-15,Parkir,85736.18,EXPENSE,Tagihan,BCA
+2024-07-16,KFC,17332.48,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-16,Biaya Admin Bank,65549.21,EXPENSE,Tagihan,BCA
+2024-07-16,Indomaret,47994.81,EXPENSE,Belanja,Dompet Tunai
+2024-07-16,Sepatu,150478.75,EXPENSE,Belanja,Gopay
+2024-07-17,Jus Buah,47377.66,EXPENSE,Makan & Minum,BCA
+2024-07-17,Jus Buah,15199.54,EXPENSE,Makan & Minum,Gopay
+2024-07-17,Gym,74606.85,EXPENSE,Hiburan,Gopay
+2024-07-17,Parkir Motor,21651.76,EXPENSE,Lain-lain,Gopay
+2024-07-17,Top Up OVO,53561.31,EXPENSE,Tagihan,BCA
+2024-07-17,Shopee,106220.95,EXPENSE,Belanja,Dompet Tunai
+2024-07-18,Baju,175317.53,EXPENSE,Belanja,Gopay
+2024-07-18,Bowling,62676.34,EXPENSE,Hiburan,Gopay
+2024-07-18,Langganan Spotify,90226.56,EXPENSE,Tagihan,Dompet Tunai
+2024-07-18,Buku Kuliah,33542.93,EXPENSE,Belanja,BCA
+2024-07-18,Fotokopi,26128.59,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-18,Alfamart,176332.85,EXPENSE,Belanja,Dompet Tunai
+2024-07-19,Karaoke,32403.49,EXPENSE,Hiburan,Gopay
+2024-07-19,Listrik Kos,65575.34,EXPENSE,Tagihan,BCA
+2024-07-19,Olahraga,85235.38,EXPENSE,Hiburan,Dompet Tunai
+2024-07-19,Bowling,83229.16,EXPENSE,Hiburan,Dompet Tunai
+2024-07-19,Parkir,11619.07,EXPENSE,Tagihan,BCA
+2024-07-20,Bioskop,104796.89,EXPENSE,Hiburan,Gopay
+2024-07-20,Bakso,28958.93,EXPENSE,Makan & Minum,BCA
+2024-07-20,Pulsa,11990.75,EXPENSE,Tagihan,Gopay
+2024-07-20,Top Up Game,147991.06,EXPENSE,Hiburan,Dompet Tunai
+2024-07-20,Biaya Admin Bank,108866.89,EXPENSE,Tagihan,Dompet Tunai
+2024-07-20,KFC,34603.04,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-20,Simpanan Bulanan,332555.18,INCOME,Goals,BCA
+2024-07-20,Shopee,140700.33,EXPENSE,Belanja,Gopay
+2024-07-20,Parkir Motor,41869.73,EXPENSE,Lain-lain,Gopay
+2024-07-20,Tokopedia,9950.34,EXPENSE,Belanja,Dompet Tunai
+2024-07-21,Minimarket,76440.56,EXPENSE,Belanja,BCA
+2024-07-21,Parkir Motor,15236.84,EXPENSE,Lain-lain,BCA
+2024-07-21,Pulsa,56977.53,EXPENSE,Tagihan,Dompet Tunai
+2024-07-21,Listrik Kos,116649.07,EXPENSE,Tagihan,BCA
+2024-07-21,Donasi,16071.09,EXPENSE,Lain-lain,Gopay
+2024-07-21,Top Up OVO,61681.37,EXPENSE,Tagihan,Dompet Tunai
+2024-07-21,Langganan Spotify,103817.89,EXPENSE,Tagihan,Dompet Tunai
+2024-07-22,Iuran Kebersihan,64964.62,EXPENSE,Tagihan,BCA
+2024-07-22,Jus Buah,37636.59,EXPENSE,Makan & Minum,Gopay
+2024-07-22,Biaya Admin Bank,29111.09,EXPENSE,Tagihan,BCA
+2024-07-22,Gym,145702.35,EXPENSE,Hiburan,Dompet Tunai
+2024-07-22,Langganan Spotify,64716.93,EXPENSE,Tagihan,BCA
+2024-07-22,Bioskop,131539.92,EXPENSE,Hiburan,Dompet Tunai
+2024-07-22,Baju,196244.17,EXPENSE,Belanja,Gopay
+2024-07-23,Es Teh,33560.21,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-23,ATM,24760.34,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-23,Parkir Motor,11584.34,EXPENSE,Lain-lain,Gopay
+2024-07-23,Sepatu,85024.67,EXPENSE,Belanja,BCA
+2024-07-23,Langganan Spotify,107813.78,EXPENSE,Tagihan,Gopay
+2024-07-23,Bakso,23310.86,EXPENSE,Makan & Minum,Gopay
+2024-07-23,Parkir,8992.82,EXPENSE,Tagihan,BCA
+2024-07-23,Iuran Kebersihan,72270.05,EXPENSE,Tagihan,Gopay
+2024-07-23,Wifi Bulanan,136836.93,EXPENSE,Tagihan,Gopay
+2024-07-24,Baju,32201.3,EXPENSE,Belanja,Gopay
+2024-07-24,Wifi Bulanan,76429.62,EXPENSE,Tagihan,Gopay
+2024-07-24,Print Tugas,7185.24,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-24,Skincare,101040.95,EXPENSE,Belanja,Gopay
+2024-07-24,Pizza,9023.5,EXPENSE,Makan & Minum,BCA
+2024-07-24,Pulsa,146970.22,EXPENSE,Tagihan,BCA
+2024-07-24,Alfamart Minuman,15892.03,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-24,Wifi Bulanan,30576.11,EXPENSE,Tagihan,Dompet Tunai
+2024-07-24,Buku Kuliah,45823.12,EXPENSE,Belanja,Gopay
+2024-07-25,Jus Buah,37510.35,EXPENSE,Makan & Minum,Gopay
+2024-07-25,Alat Tulis,28985.64,EXPENSE,Belanja,Dompet Tunai
+2024-07-25,Indomaret,120094.98,EXPENSE,Belanja,Dompet Tunai
+2024-07-25,Warung Nasi,47258.05,EXPENSE,Makan & Minum,Gopay
+2024-07-26,ATM,49041.56,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-26,Streaming Film,135452.78,EXPENSE,Hiburan,Gopay
+2024-07-26,Netflix,104035.98,EXPENSE,Tagihan,BCA
+2024-07-26,ATM,35476.17,EXPENSE,Lain-lain,Dompet Tunai
+2024-07-26,Tiket Wahana,140483.93,EXPENSE,Hiburan,BCA
+2024-07-26,Biaya Admin Bank,30139.17,EXPENSE,Tagihan,Dompet Tunai
+2024-07-26,Perlengkapan Kamar,20322.81,EXPENSE,Belanja,Gopay
+2024-07-27,Pulsa,112763.01,EXPENSE,Tagihan,Gopay
+2024-07-27,Iuran Bulanan,121085.07,EXPENSE,Tagihan,Gopay
+2024-07-27,Olahraga,19930.51,EXPENSE,Hiburan,Gopay
+2024-07-28,Game Online,146752.05,EXPENSE,Hiburan,Gopay
+2024-07-28,Gojek,2557.79,EXPENSE,Lain-lain,Gopay
+2024-07-28,Alat Tulis,192748.02,EXPENSE,Belanja,Gopay
+2024-07-28,Sepatu,98588.07,EXPENSE,Belanja,Gopay
+2024-07-28,Tokopedia,176104.87,EXPENSE,Belanja,BCA
+2024-07-28,Beasiswa,1497555.01,INCOME,Gaji,Gopay
+2024-07-28,Langganan Spotify,134421.05,EXPENSE,Tagihan,BCA
+2024-07-29,Perlengkapan Kamar,196094.21,EXPENSE,Belanja,BCA
+2024-07-29,Nabung Liburan,336279.81,INCOME,Goals,BCA
+2024-07-29,Pizza,36751.36,EXPENSE,Makan & Minum,Gopay
+2024-07-29,Kopi Kenangan,32749.26,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-29,Gojek,18043.71,EXPENSE,Lain-lain,BCA
+2024-07-29,Skincare,106460.0,EXPENSE,Belanja,Dompet Tunai
+2024-07-29,Warung Nasi,39691.48,EXPENSE,Makan & Minum,Gopay
+2024-07-29,Grab Motor,32547.7,EXPENSE,Lain-lain,BCA
+2024-07-29,KFC,15425.23,EXPENSE,Makan & Minum,Gopay
+2024-07-29,GoFood,13171.9,EXPENSE,Makan & Minum,BCA
+2024-07-30,Langganan Spotify,128578.26,EXPENSE,Tagihan,BCA
+2024-07-30,Listrik Kos,119429.83,EXPENSE,Tagihan,Dompet Tunai
+2024-07-30,Pizza,7332.06,EXPENSE,Makan & Minum,Gopay
+2024-07-30,ATM,25378.97,EXPENSE,Lain-lain,Gopay
+2024-07-30,Shopee,140553.19,EXPENSE,Belanja,Dompet Tunai
+2024-07-30,Game Online,65435.87,EXPENSE,Hiburan,BCA
+2024-07-31,KFC,17536.57,EXPENSE,Makan & Minum,Dompet Tunai
+2024-07-31,Langganan Spotify,128686.37,EXPENSE,Tagihan,Dompet Tunai
+2024-07-31,Langganan Spotify,113579.82,EXPENSE,Tagihan,Dompet Tunai
+2024-07-31,Pulsa,9422.54,EXPENSE,Tagihan,Gopay
+2024-07-31,McDonalds,6659.91,EXPENSE,Makan & Minum,BCA
+2024-07-31,Bioskop,95339.01,EXPENSE,Hiburan,Gopay
+2024-07-31,Netflix,71990.84,EXPENSE,Tagihan,BCA
+2024-07-31,Bioskop,52177.14,EXPENSE,Hiburan,Dompet Tunai
+2024-08-01,Perlengkapan Kamar,165394.76,EXPENSE,Belanja,Dompet Tunai
+2024-08-01,Donasi,9787.2,EXPENSE,Lain-lain,Gopay
+2024-08-02,Gym,67542.95,EXPENSE,Hiburan,Gopay
+2024-08-02,Karaoke,104020.25,EXPENSE,Hiburan,BCA
+2024-08-02,Grab Motor,21605.75,EXPENSE,Lain-lain,BCA
+2024-08-02,Target Gadget,475751.96,INCOME,Goals,BCA
+2024-08-02,Game Online,17199.61,EXPENSE,Hiburan,BCA
+2024-08-02,Konser,106338.86,EXPENSE,Hiburan,Dompet Tunai
+2024-08-02,Skincare,59336.06,EXPENSE,Belanja,Dompet Tunai
+2024-08-03,Olahraga,63736.61,EXPENSE,Hiburan,Gopay
+2024-08-03,Alfamart Minuman,30207.57,EXPENSE,Makan & Minum,BCA
+2024-08-03,Iuran Bulanan,73511.54,EXPENSE,Tagihan,BCA
+2024-08-04,GrabFood,37965.74,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-04,Olahraga,117691.24,EXPENSE,Hiburan,Gopay
+2024-08-04,Skincare,67266.16,EXPENSE,Belanja,BCA
+2024-08-04,Es Teh,28688.12,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-04,Fotokopi,25068.16,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-04,Olahraga,27064.05,EXPENSE,Hiburan,Dompet Tunai
+2024-08-04,Parkir Motor,15999.8,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-04,Kantin Kampus,39902.53,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-05,Netflix,49415.46,EXPENSE,Tagihan,Dompet Tunai
+2024-08-05,Dana Darurat,448788.1,INCOME,Goals,BCA
+2024-08-05,Netflix,30727.17,EXPENSE,Tagihan,Gopay
+2024-08-05,Parkir,75094.08,EXPENSE,Tagihan,Gopay
+2024-08-05,McDonalds,34924.32,EXPENSE,Makan & Minum,Gopay
+2024-08-05,Es Teh,31099.27,EXPENSE,Makan & Minum,BCA
+2024-08-05,Kopi Kenangan,16712.91,EXPENSE,Makan & Minum,BCA
+2024-08-06,Bakso,34761.68,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-06,Keperluan Lain,19454.22,EXPENSE,Lain-lain,BCA
+2024-08-06,Print Tugas,13891.09,EXPENSE,Lain-lain,BCA
+2024-08-06,Bowling,38183.7,EXPENSE,Hiburan,BCA
+2024-08-06,Kantin Kampus,42889.93,EXPENSE,Makan & Minum,BCA
+2024-08-06,Alfamart Minuman,9402.54,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-06,Pulsa,134968.69,EXPENSE,Tagihan,BCA
+2024-08-06,Sepatu,31736.39,EXPENSE,Belanja,Dompet Tunai
+2024-08-07,Wifi Bulanan,61474.87,EXPENSE,Tagihan,Gopay
+2024-08-07,Tiket Wahana,86097.4,EXPENSE,Hiburan,Gopay
+2024-08-07,Streaming Film,97620.39,EXPENSE,Hiburan,Dompet Tunai
+2024-08-07,Tiket Wahana,120701.24,EXPENSE,Hiburan,BCA
+2024-08-07,ATM,35239.66,EXPENSE,Lain-lain,Gopay
+2024-08-07,Iuran Kebersihan,17375.7,EXPENSE,Tagihan,Dompet Tunai
+2024-08-07,Mie Ayam,36825.74,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-07,Parkir,7625.98,EXPENSE,Tagihan,BCA
+2024-08-07,Warung Nasi,41575.98,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-08,Alfamart Minuman,44533.2,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-08,Uang Bulanan,746398.7,INCOME,Gaji,BCA
+2024-08-08,Iuran Kebersihan,31054.05,EXPENSE,Tagihan,Dompet Tunai
+2024-08-08,Sepatu,23310.64,EXPENSE,Belanja,Dompet Tunai
+2024-08-08,Shopee,153393.2,EXPENSE,Belanja,Gopay
+2024-08-08,Mie Ayam,15763.1,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-09,Tiket Wahana,26878.18,EXPENSE,Hiburan,BCA
+2024-08-09,Game Online,40669.63,EXPENSE,Hiburan,Gopay
+2024-08-09,Iuran Kebersihan,20293.69,EXPENSE,Tagihan,Dompet Tunai
+2024-08-09,Indomaret,95147.63,EXPENSE,Belanja,BCA
+2024-08-10,Karaoke,31861.36,EXPENSE,Hiburan,Gopay
+2024-08-10,ATM,12352.41,EXPENSE,Lain-lain,Gopay
+2024-08-10,Perlengkapan Kamar,185799.67,EXPENSE,Belanja,BCA
+2024-08-10,Pulsa,131259.25,EXPENSE,Tagihan,Gopay
+2024-08-10,Print Tugas,38529.34,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-10,Tokopedia,141984.4,EXPENSE,Belanja,Dompet Tunai
+2024-08-10,Indomaret Snack,33451.89,EXPENSE,Makan & Minum,BCA
+2024-08-10,Warung Nasi,21539.05,EXPENSE,Makan & Minum,BCA
+2024-08-10,Langganan Spotify,67478.69,EXPENSE,Tagihan,Gopay
+2024-08-11,Baju,199439.28,EXPENSE,Belanja,BCA
+2024-08-11,Es Teh,15780.29,EXPENSE,Makan & Minum,Gopay
+2024-08-11,Karaoke,18718.23,EXPENSE,Hiburan,BCA
+2024-08-11,Tiket Wahana,32247.14,EXPENSE,Hiburan,Dompet Tunai
+2024-08-11,Uang Saku,1312451.32,INCOME,Gaji,Gopay
+2024-08-11,Wifi Bulanan,119963.89,EXPENSE,Tagihan,BCA
+2024-08-11,Iuran Bulanan,55057.36,EXPENSE,Tagihan,Dompet Tunai
+2024-08-12,Bowling,62772.22,EXPENSE,Hiburan,BCA
+2024-08-12,Pulsa,10654.42,EXPENSE,Tagihan,BCA
+2024-08-12,Streaming Film,115636.0,EXPENSE,Hiburan,Dompet Tunai
+2024-08-12,Grab Motor,44557.0,EXPENSE,Lain-lain,Gopay
+2024-08-12,Es Teh,16554.95,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-12,Shopee,178772.91,EXPENSE,Belanja,Gopay
+2024-08-12,Iuran Bulanan,14215.96,EXPENSE,Tagihan,Dompet Tunai
+2024-08-12,Top Up OVO,142744.37,EXPENSE,Tagihan,BCA
+2024-08-12,Jus Buah,9184.58,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-13,Wifi Bulanan,38888.25,EXPENSE,Tagihan,BCA
+2024-08-13,Skincare,82471.02,EXPENSE,Belanja,Gopay
+2024-08-13,Buku Kuliah,26642.95,EXPENSE,Belanja,Dompet Tunai
+2024-08-13,Wifi Bulanan,113839.14,EXPENSE,Tagihan,BCA
+2024-08-13,Print Tugas,6664.47,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-13,Sepatu,106173.42,EXPENSE,Belanja,Dompet Tunai
+2024-08-14,Top Up Game,108422.65,EXPENSE,Hiburan,Dompet Tunai
+2024-08-14,GoFood,5344.88,EXPENSE,Makan & Minum,BCA
+2024-08-14,Beasiswa,957126.64,INCOME,Gaji,Gopay
+2024-08-14,Baju,32738.63,EXPENSE,Belanja,Gopay
+2024-08-14,Iuran Kebersihan,28317.17,EXPENSE,Tagihan,Dompet Tunai
+2024-08-14,Alfamart,93488.96,EXPENSE,Belanja,Dompet Tunai
+2024-08-14,Sepatu,130933.11,EXPENSE,Belanja,Dompet Tunai
+2024-08-14,Nabung Liburan,353044.59,INCOME,Goals,BCA
+2024-08-14,Alfamart Minuman,16088.09,EXPENSE,Makan & Minum,BCA
+2024-08-14,Grab Motor,36001.42,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-14,Baju,147957.04,EXPENSE,Belanja,BCA
+2024-08-14,Nasi Padang,7989.97,EXPENSE,Makan & Minum,BCA
+2024-08-15,Listrik Kos,120813.56,EXPENSE,Tagihan,BCA
+2024-08-15,Kopi Kenangan,7351.6,EXPENSE,Makan & Minum,Gopay
+2024-08-15,Buku Kuliah,103515.32,EXPENSE,Belanja,BCA
+2024-08-15,Buku Kuliah,175969.3,EXPENSE,Belanja,Gopay
+2024-08-15,Print Tugas,30047.09,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-15,Tokopedia,74414.67,EXPENSE,Belanja,Gopay
+2024-08-15,Shopee,27647.1,EXPENSE,Belanja,Dompet Tunai
+2024-08-15,Langganan Spotify,58800.62,EXPENSE,Tagihan,Dompet Tunai
+2024-08-15,McDonalds,34527.28,EXPENSE,Makan & Minum,BCA
+2024-08-15,Karaoke,148947.69,EXPENSE,Hiburan,BCA
+2024-08-16,GrabFood,16350.85,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-16,Alfamart,6245.24,EXPENSE,Belanja,Dompet Tunai
+2024-08-16,Iuran Kebersihan,96806.95,EXPENSE,Tagihan,Dompet Tunai
+2024-08-16,Iuran Bulanan,117584.88,EXPENSE,Tagihan,Gopay
+2024-08-16,Fotokopi,10108.88,EXPENSE,Lain-lain,BCA
+2024-08-16,Top Up OVO,130946.87,EXPENSE,Tagihan,Dompet Tunai
+2024-08-16,Game Online,91592.96,EXPENSE,Hiburan,Dompet Tunai
+2024-08-16,Listrik Kos,92457.06,EXPENSE,Tagihan,BCA
+2024-08-17,Kantin Kampus,38205.36,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-17,ATM,11341.94,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-17,ATM,5272.27,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-17,Jus Buah,11946.32,EXPENSE,Makan & Minum,BCA
+2024-08-17,Tokopedia,185911.7,EXPENSE,Belanja,BCA
+2024-08-17,Konser,120821.07,EXPENSE,Hiburan,Dompet Tunai
+2024-08-18,Es Teh,37048.06,EXPENSE,Makan & Minum,BCA
+2024-08-18,Minimarket,161956.82,EXPENSE,Belanja,BCA
+2024-08-18,Kantin Kampus,8320.85,EXPENSE,Makan & Minum,BCA
+2024-08-18,Bioskop,61486.31,EXPENSE,Hiburan,Gopay
+2024-08-18,Nasi Padang,48520.7,EXPENSE,Makan & Minum,Gopay
+2024-08-18,KFC,15398.37,EXPENSE,Makan & Minum,BCA
+2024-08-18,Tiket Wahana,148270.94,EXPENSE,Hiburan,Gopay
+2024-08-18,Bowling,143791.21,EXPENSE,Hiburan,Dompet Tunai
+2024-08-19,Bakso,7941.04,EXPENSE,Makan & Minum,Gopay
+2024-08-19,Print Tugas,26963.27,EXPENSE,Lain-lain,Gopay
+2024-08-19,Iuran Kebersihan,137912.11,EXPENSE,Tagihan,Gopay
+2024-08-19,Skincare,126599.21,EXPENSE,Belanja,BCA
+2024-08-19,Tokopedia,48644.43,EXPENSE,Belanja,Gopay
+2024-08-19,Donasi,5460.05,EXPENSE,Lain-lain,Gopay
+2024-08-19,Streaming Film,87609.57,EXPENSE,Hiburan,Gopay
+2024-08-19,Bowling,53583.08,EXPENSE,Hiburan,Gopay
+2024-08-20,Parkir Motor,41159.99,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-20,Gym,40214.94,EXPENSE,Hiburan,Dompet Tunai
+2024-08-20,Bioskop,145188.48,EXPENSE,Hiburan,Dompet Tunai
+2024-08-20,Alat Tulis,161504.21,EXPENSE,Belanja,BCA
+2024-08-20,Gojek,8764.36,EXPENSE,Lain-lain,BCA
+2024-08-20,Bioskop,80877.25,EXPENSE,Hiburan,BCA
+2024-08-20,Honor Mengajar,1534197.45,INCOME,Gaji,BCA
+2024-08-20,Uang Bulanan,1943972.62,INCOME,Gaji,BCA
+2024-08-20,Bowling,54346.63,EXPENSE,Hiburan,Dompet Tunai
+2024-08-20,Listrik Kos,134352.28,EXPENSE,Tagihan,Gopay
+2024-08-21,Top Up Game,39492.71,EXPENSE,Hiburan,BCA
+2024-08-21,Sepatu,129195.95,EXPENSE,Belanja,Dompet Tunai
+2024-08-21,Pulsa,23573.88,EXPENSE,Tagihan,Dompet Tunai
+2024-08-22,Sepatu,51935.08,EXPENSE,Belanja,Gopay
+2024-08-22,Tokopedia,20917.85,EXPENSE,Belanja,Dompet Tunai
+2024-08-22,Parkir,83504.1,EXPENSE,Tagihan,Gopay
+2024-08-22,Tokopedia,197394.72,EXPENSE,Belanja,Gopay
+2024-08-22,ATM,32560.14,EXPENSE,Lain-lain,Gopay
+2024-08-22,Print Tugas,31520.62,EXPENSE,Lain-lain,Gopay
+2024-08-22,Karaoke,74450.16,EXPENSE,Hiburan,Dompet Tunai
+2024-08-22,Game Online,45649.69,EXPENSE,Hiburan,Gopay
+2024-08-22,Shopee,7213.96,EXPENSE,Belanja,BCA
+2024-08-22,Keperluan Lain,18914.0,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-22,Parkir,46306.57,EXPENSE,Tagihan,BCA
+2024-08-22,Sepatu,27594.47,EXPENSE,Belanja,Gopay
+2024-08-22,Wifi Bulanan,141275.66,EXPENSE,Tagihan,BCA
+2024-08-23,Warung Nasi,38187.88,EXPENSE,Makan & Minum,BCA
+2024-08-23,Baju,102795.68,EXPENSE,Belanja,Dompet Tunai
+2024-08-23,Alfamart Minuman,11139.79,EXPENSE,Makan & Minum,BCA
+2024-08-23,Indomaret,39001.45,EXPENSE,Belanja,BCA
+2024-08-23,Shopee,140846.91,EXPENSE,Belanja,Gopay
+2024-08-23,Parkir Motor,45563.19,EXPENSE,Lain-lain,BCA
+2024-08-23,Netflix,126771.33,EXPENSE,Tagihan,Dompet Tunai
+2024-08-23,Kantin Kampus,27372.86,EXPENSE,Makan & Minum,Gopay
+2024-08-23,Es Teh,15745.83,EXPENSE,Makan & Minum,BCA
+2024-08-24,Bioskop,29677.42,EXPENSE,Hiburan,Gopay
+2024-08-24,Grab Motor,48656.26,EXPENSE,Lain-lain,BCA
+2024-08-24,Bubble Tea,35246.1,EXPENSE,Makan & Minum,Gopay
+2024-08-24,Kopi Kenangan,12416.67,EXPENSE,Makan & Minum,Gopay
+2024-08-24,Martabak,12965.47,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-24,Olahraga,113240.73,EXPENSE,Hiburan,Gopay
+2024-08-24,Konser,145215.1,EXPENSE,Hiburan,Dompet Tunai
+2024-08-25,Olahraga,12759.48,EXPENSE,Hiburan,Gopay
+2024-08-25,Pulsa,132950.37,EXPENSE,Tagihan,BCA
+2024-08-25,Karaoke,103600.17,EXPENSE,Hiburan,BCA
+2024-08-25,Martabak,29328.58,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-25,Konser,124489.95,EXPENSE,Hiburan,Gopay
+2024-08-25,Beasiswa,1810367.94,INCOME,Gaji,Gopay
+2024-08-25,Martabak,7863.84,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-25,Top Up OVO,54454.62,EXPENSE,Tagihan,Dompet Tunai
+2024-08-26,Wifi Bulanan,8823.21,EXPENSE,Tagihan,BCA
+2024-08-26,Alfamart,70176.47,EXPENSE,Belanja,BCA
+2024-08-26,Indomaret Snack,9307.15,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-26,Iuran Kebersihan,37075.37,EXPENSE,Tagihan,Dompet Tunai
+2024-08-26,Martabak,7956.89,EXPENSE,Makan & Minum,BCA
+2024-08-26,Buku Kuliah,54606.36,EXPENSE,Belanja,BCA
+2024-08-26,Martabak,40923.28,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-27,Listrik Kos,17831.41,EXPENSE,Tagihan,Dompet Tunai
+2024-08-27,Perlengkapan Kamar,81942.33,EXPENSE,Belanja,Dompet Tunai
+2024-08-27,Target Gadget,317358.82,INCOME,Goals,BCA
+2024-08-27,Kopi Kenangan,27025.37,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-27,Olahraga,23114.47,EXPENSE,Hiburan,Dompet Tunai
+2024-08-28,Sepatu,137424.95,EXPENSE,Belanja,Gopay
+2024-08-28,Grab Motor,26411.39,EXPENSE,Lain-lain,Gopay
+2024-08-28,Sepatu,107842.93,EXPENSE,Belanja,BCA
+2024-08-28,Jus Buah,8815.64,EXPENSE,Makan & Minum,Gopay
+2024-08-28,Parkir,119494.63,EXPENSE,Tagihan,BCA
+2024-08-28,Bowling,32628.02,EXPENSE,Hiburan,BCA
+2024-08-28,Top Up Game,122829.56,EXPENSE,Hiburan,Dompet Tunai
+2024-08-28,Fotokopi,3776.37,EXPENSE,Lain-lain,Dompet Tunai
+2024-08-28,Parkir Motor,4892.83,EXPENSE,Lain-lain,Gopay
+2024-08-28,Parkir,119623.92,EXPENSE,Tagihan,Gopay
+2024-08-29,Kopi Kenangan,24068.22,EXPENSE,Makan & Minum,Gopay
+2024-08-29,Jus Buah,22086.16,EXPENSE,Makan & Minum,BCA
+2024-08-29,ATM,25946.63,EXPENSE,Lain-lain,Gopay
+2024-08-29,Skincare,72405.12,EXPENSE,Belanja,Dompet Tunai
+2024-08-29,Pulsa,73761.06,EXPENSE,Tagihan,Dompet Tunai
+2024-08-29,Gaji Part Time,1187450.96,INCOME,Gaji,BCA
+2024-08-29,GoFood,35126.91,EXPENSE,Makan & Minum,Gopay
+2024-08-29,Perlengkapan Kamar,7151.1,EXPENSE,Belanja,Gopay
+2024-08-30,GoFood,29599.17,EXPENSE,Makan & Minum,Dompet Tunai
+2024-08-30,Donasi,20934.86,EXPENSE,Lain-lain,Gopay
+2024-08-30,Pizza,47126.96,EXPENSE,Makan & Minum,BCA
+2024-08-30,Streaming Film,23034.39,EXPENSE,Hiburan,Dompet Tunai
+2024-08-30,Freelance,1157923.13,INCOME,Gaji,BCA
+2024-08-30,Gaji Part Time,1042879.99,INCOME,Gaji,Gopay
+2024-08-30,Netflix,91695.5,EXPENSE,Tagihan,Gopay
+2024-08-30,Freelance,777699.39,INCOME,Gaji,Gopay
+2024-08-31,Print Tugas,48790.07,EXPENSE,Lain-lain,BCA
+2024-08-31,Minimarket,194356.36,EXPENSE,Belanja,BCA
+2024-08-31,Indomaret,111852.1,EXPENSE,Belanja,Gopay
+2024-08-31,Gojek,16261.84,EXPENSE,Lain-lain,Gopay
+2024-08-31,Olahraga,80359.25,EXPENSE,Hiburan,BCA
+2024-08-31,Buku Kuliah,181310.95,EXPENSE,Belanja,Dompet Tunai
+2024-08-31,Bubble Tea,45919.42,EXPENSE,Makan & Minum,BCA
+2024-08-31,Konser,118739.48,EXPENSE,Hiburan,BCA
+2024-08-31,Listrik Kos,64507.54,EXPENSE,Tagihan,Dompet Tunai
+2024-08-31,Top Up OVO,146690.26,EXPENSE,Tagihan,Dompet Tunai
+2024-08-31,Perlengkapan Kamar,142821.56,EXPENSE,Belanja,Gopay
+2024-08-31,Streaming Film,108516.04,EXPENSE,Hiburan,Gopay
+2024-08-31,Top Up OVO,79058.36,EXPENSE,Tagihan,Gopay
+2024-08-31,Jus Buah,49310.14,EXPENSE,Makan & Minum,BCA
+2024-08-31,Parkir Motor,19063.66,EXPENSE,Lain-lain,Gopay
+2024-08-31,Donasi,48645.54,EXPENSE,Lain-lain,BCA
+2024-08-31,Bowling,41931.17,EXPENSE,Hiburan,BCA
+2024-09-01,Nabung Liburan,197938.22,INCOME,Goals,BCA
+2024-09-01,Tokopedia,197044.03,EXPENSE,Belanja,Gopay
+2024-09-01,Indomaret,185771.74,EXPENSE,Belanja,Dompet Tunai
+2024-09-02,KFC,14042.02,EXPENSE,Makan & Minum,Gopay
+2024-09-02,Iuran Bulanan,45220.27,EXPENSE,Tagihan,BCA
+2024-09-02,Nasi Padang,42338.38,EXPENSE,Makan & Minum,Gopay
+2024-09-02,Alfamart,156436.39,EXPENSE,Belanja,Dompet Tunai
+2024-09-02,GoFood,17865.81,EXPENSE,Makan & Minum,Gopay
+2024-09-02,Dana Darurat,145151.6,INCOME,Goals,BCA
+2024-09-02,Simpanan Bulanan,308512.9,INCOME,Goals,BCA
+2024-09-03,Sepatu,39422.97,EXPENSE,Belanja,Dompet Tunai
+2024-09-03,Gojek,19289.15,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-03,Keperluan Lain,32314.89,EXPENSE,Lain-lain,Gopay
+2024-09-03,Tiket Wahana,103087.64,EXPENSE,Hiburan,Gopay
+2024-09-03,Print Tugas,28065.18,EXPENSE,Lain-lain,BCA
+2024-09-03,Fotokopi,45653.82,EXPENSE,Lain-lain,BCA
+2024-09-03,Martabak,20165.14,EXPENSE,Makan & Minum,Gopay
+2024-09-03,Netflix,44004.04,EXPENSE,Tagihan,BCA
+2024-09-03,Tokopedia,142587.16,EXPENSE,Belanja,BCA
+2024-09-04,Bowling,68554.03,EXPENSE,Hiburan,Gopay
+2024-09-04,Jus Buah,8854.62,EXPENSE,Makan & Minum,Gopay
+2024-09-04,Jus Buah,45238.59,EXPENSE,Makan & Minum,BCA
+2024-09-04,Bakso,20714.43,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-04,Biaya Admin Bank,67086.7,EXPENSE,Tagihan,Gopay
+2024-09-04,Tabungan,444740.24,INCOME,Goals,BCA
+2024-09-04,Pulsa,9406.12,EXPENSE,Tagihan,BCA
+2024-09-04,Transfer Orang Tua,1588579.26,INCOME,Gaji,Gopay
+2024-09-04,Listrik Kos,16450.53,EXPENSE,Tagihan,BCA
+2024-09-04,Wifi Bulanan,51741.31,EXPENSE,Tagihan,BCA
+2024-09-04,Tabungan,443250.53,INCOME,Goals,BCA
+2024-09-05,Listrik Kos,11093.58,EXPENSE,Tagihan,Gopay
+2024-09-05,Skincare,158446.16,EXPENSE,Belanja,Gopay
+2024-09-05,Transfer Orang Tua,550298.65,INCOME,Gaji,BCA
+2024-09-05,Mie Ayam,6870.78,EXPENSE,Makan & Minum,Gopay
+2024-09-05,Parkir,142838.04,EXPENSE,Tagihan,Gopay
+2024-09-05,Perlengkapan Kamar,130441.2,EXPENSE,Belanja,BCA
+2024-09-06,Buku Kuliah,55248.16,EXPENSE,Belanja,Gopay
+2024-09-06,Skincare,149449.88,EXPENSE,Belanja,Gopay
+2024-09-06,GrabFood,26953.43,EXPENSE,Makan & Minum,Gopay
+2024-09-06,Sepatu,9314.09,EXPENSE,Belanja,BCA
+2024-09-06,Iuran Bulanan,26992.86,EXPENSE,Tagihan,Dompet Tunai
+2024-09-06,McDonalds,22864.17,EXPENSE,Makan & Minum,Gopay
+2024-09-06,Skincare,188585.64,EXPENSE,Belanja,Dompet Tunai
+2024-09-07,Warung Nasi,17601.68,EXPENSE,Makan & Minum,Gopay
+2024-09-07,Skincare,127403.07,EXPENSE,Belanja,Dompet Tunai
+2024-09-07,Es Teh,41224.5,EXPENSE,Makan & Minum,Gopay
+2024-09-07,Skincare,164358.33,EXPENSE,Belanja,Gopay
+2024-09-07,Indomaret Snack,13301.43,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-07,Minimarket,89173.61,EXPENSE,Belanja,Dompet Tunai
+2024-09-07,Bioskop,71621.35,EXPENSE,Hiburan,Gopay
+2024-09-07,McDonalds,40783.38,EXPENSE,Makan & Minum,BCA
+2024-09-07,Grab Motor,9208.11,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-07,Nabung Liburan,288021.71,INCOME,Goals,BCA
+2024-09-07,Transfer Orang Tua,620270.02,INCOME,Gaji,BCA
+2024-09-07,Bowling,125094.44,EXPENSE,Hiburan,BCA
+2024-09-08,Indomaret,104938.02,EXPENSE,Belanja,Dompet Tunai
+2024-09-08,Langganan Spotify,114481.08,EXPENSE,Tagihan,Dompet Tunai
+2024-09-08,Bioskop,75627.52,EXPENSE,Hiburan,BCA
+2024-09-08,Listrik Kos,115722.84,EXPENSE,Tagihan,Gopay
+2024-09-08,Skincare,158054.91,EXPENSE,Belanja,BCA
+2024-09-08,Tabungan,233412.89,INCOME,Goals,BCA
+2024-09-08,GrabFood,33053.27,EXPENSE,Makan & Minum,Gopay
+2024-09-08,Donasi,46852.93,EXPENSE,Lain-lain,Gopay
+2024-09-08,Ongkos Angkot,23711.28,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-08,Print Tugas,6038.72,EXPENSE,Lain-lain,Gopay
+2024-09-09,Listrik Kos,134088.25,EXPENSE,Tagihan,BCA
+2024-09-09,Langganan Spotify,39427.85,EXPENSE,Tagihan,Gopay
+2024-09-09,Konser,133788.9,EXPENSE,Hiburan,Gopay
+2024-09-09,Konser,71706.78,EXPENSE,Hiburan,Dompet Tunai
+2024-09-09,Wifi Bulanan,110283.24,EXPENSE,Tagihan,Gopay
+2024-09-09,Indomaret,173245.43,EXPENSE,Belanja,Dompet Tunai
+2024-09-09,Ongkos Angkot,6391.37,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-09,Baju,110454.78,EXPENSE,Belanja,Gopay
+2024-09-10,Print Tugas,12815.21,EXPENSE,Lain-lain,Gopay
+2024-09-11,Martabak,6527.57,EXPENSE,Makan & Minum,BCA
+2024-09-11,Bowling,93102.94,EXPENSE,Hiburan,Gopay
+2024-09-11,Kopi Kenangan,18647.38,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-11,McDonalds,13810.6,EXPENSE,Makan & Minum,Gopay
+2024-09-11,Parkir,110029.13,EXPENSE,Tagihan,BCA
+2024-09-11,Streaming Film,113162.32,EXPENSE,Hiburan,Dompet Tunai
+2024-09-11,Gym,91671.63,EXPENSE,Hiburan,Dompet Tunai
+2024-09-11,Karaoke,48123.03,EXPENSE,Hiburan,BCA
+2024-09-11,Streaming Film,73307.86,EXPENSE,Hiburan,Gopay
+2024-09-12,Keperluan Lain,19965.0,EXPENSE,Lain-lain,Gopay
+2024-09-12,GrabFood,20585.57,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-12,Streaming Film,124686.44,EXPENSE,Hiburan,Gopay
+2024-09-12,Kopi Kenangan,29991.36,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-12,Sepatu,55336.02,EXPENSE,Belanja,BCA
+2024-09-13,Nasi Padang,11699.96,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-13,Iuran Kebersihan,130183.38,EXPENSE,Tagihan,Gopay
+2024-09-13,Print Tugas,13040.42,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-13,Karaoke,60236.27,EXPENSE,Hiburan,BCA
+2024-09-13,Skincare,104698.72,EXPENSE,Belanja,Dompet Tunai
+2024-09-13,Game Online,49506.19,EXPENSE,Hiburan,Dompet Tunai
+2024-09-14,Martabak,6098.04,EXPENSE,Makan & Minum,Gopay
+2024-09-14,Olahraga,38021.03,EXPENSE,Hiburan,BCA
+2024-09-14,Nasi Padang,9796.69,EXPENSE,Makan & Minum,Gopay
+2024-09-14,Biaya Admin Bank,128246.43,EXPENSE,Tagihan,BCA
+2024-09-14,Fotokopi,24616.06,EXPENSE,Lain-lain,Gopay
+2024-09-15,Tiket Wahana,105979.14,EXPENSE,Hiburan,Gopay
+2024-09-15,Gojek,14446.24,EXPENSE,Lain-lain,BCA
+2024-09-15,Warung Nasi,31939.63,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-15,Tiket Wahana,134922.35,EXPENSE,Hiburan,Gopay
+2024-09-15,Bubble Tea,49907.03,EXPENSE,Makan & Minum,Gopay
+2024-09-15,Pulsa,70300.89,EXPENSE,Tagihan,Gopay
+2024-09-15,Pizza,26811.33,EXPENSE,Makan & Minum,BCA
+2024-09-15,Top Up OVO,11670.38,EXPENSE,Tagihan,BCA
+2024-09-15,Karaoke,130697.87,EXPENSE,Hiburan,BCA
+2024-09-16,Bowling,24089.25,EXPENSE,Hiburan,Dompet Tunai
+2024-09-16,Mie Ayam,33579.21,EXPENSE,Makan & Minum,Gopay
+2024-09-16,GrabFood,49572.73,EXPENSE,Makan & Minum,BCA
+2024-09-16,Olahraga,97261.74,EXPENSE,Hiburan,Gopay
+2024-09-17,Karaoke,101733.88,EXPENSE,Hiburan,Dompet Tunai
+2024-09-17,Gojek,17850.32,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-17,Ongkos Angkot,48253.76,EXPENSE,Lain-lain,Gopay
+2024-09-17,McDonalds,28205.57,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-17,Iuran Bulanan,70328.9,EXPENSE,Tagihan,BCA
+2024-09-18,Uang Bulanan,563139.78,INCOME,Gaji,BCA
+2024-09-18,Game Online,140157.67,EXPENSE,Hiburan,BCA
+2024-09-18,Perlengkapan Kamar,99291.4,EXPENSE,Belanja,Gopay
+2024-09-18,Kantin Kampus,47482.67,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-18,Game Online,31148.1,EXPENSE,Hiburan,BCA
+2024-09-18,Pizza,40191.26,EXPENSE,Makan & Minum,Gopay
+2024-09-19,Baju,146066.92,EXPENSE,Belanja,Dompet Tunai
+2024-09-19,Keperluan Lain,8822.58,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-19,Gaji Part Time,751223.87,INCOME,Gaji,Gopay
+2024-09-19,Ongkos Angkot,48506.14,EXPENSE,Lain-lain,Gopay
+2024-09-20,Indomaret,189005.1,EXPENSE,Belanja,BCA
+2024-09-20,Skincare,13817.64,EXPENSE,Belanja,Gopay
+2024-09-20,Honor Mengajar,584454.91,INCOME,Gaji,Gopay
+2024-09-20,Beasiswa,1018543.99,INCOME,Gaji,BCA
+2024-09-20,GrabFood,33530.26,EXPENSE,Makan & Minum,Gopay
+2024-09-20,Bowling,18720.85,EXPENSE,Hiburan,BCA
+2024-09-21,Listrik Kos,86901.96,EXPENSE,Tagihan,BCA
+2024-09-21,Indomaret,41289.78,EXPENSE,Belanja,Dompet Tunai
+2024-09-21,Tokopedia,178102.32,EXPENSE,Belanja,BCA
+2024-09-21,Tokopedia,96901.0,EXPENSE,Belanja,Gopay
+2024-09-21,Gym,59469.31,EXPENSE,Hiburan,Gopay
+2024-09-21,Top Up Game,76647.06,EXPENSE,Hiburan,Dompet Tunai
+2024-09-21,Gym,107257.51,EXPENSE,Hiburan,Gopay
+2024-09-22,Kantin Kampus,6094.22,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-22,Pizza,33322.94,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-22,Uang Bulanan,1273394.04,INCOME,Gaji,BCA
+2024-09-22,Keperluan Lain,26609.05,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-23,Top Up Game,12977.72,EXPENSE,Hiburan,Dompet Tunai
+2024-09-23,Uang Bulanan,1615262.38,INCOME,Gaji,BCA
+2024-09-23,Minimarket,71543.33,EXPENSE,Belanja,Dompet Tunai
+2024-09-23,Buku Kuliah,90631.31,EXPENSE,Belanja,BCA
+2024-09-23,KFC,13653.01,EXPENSE,Makan & Minum,Gopay
+2024-09-24,Bakso,36092.2,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-24,Top Up Game,124442.96,EXPENSE,Hiburan,Gopay
+2024-09-25,Sepatu,54225.2,EXPENSE,Belanja,Dompet Tunai
+2024-09-25,Wifi Bulanan,68729.19,EXPENSE,Tagihan,Dompet Tunai
+2024-09-25,Dana Darurat,382302.14,INCOME,Goals,BCA
+2024-09-25,Top Up Game,111633.8,EXPENSE,Hiburan,BCA
+2024-09-25,Indomaret,154152.24,EXPENSE,Belanja,BCA
+2024-09-26,Jus Buah,38902.02,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-26,Buku Kuliah,137340.64,EXPENSE,Belanja,Dompet Tunai
+2024-09-26,McDonalds,11806.11,EXPENSE,Makan & Minum,BCA
+2024-09-26,Streaming Film,122009.94,EXPENSE,Hiburan,Dompet Tunai
+2024-09-26,Bubble Tea,23977.44,EXPENSE,Makan & Minum,Gopay
+2024-09-26,Bakso,10236.49,EXPENSE,Makan & Minum,BCA
+2024-09-26,Tokopedia,191198.73,EXPENSE,Belanja,Dompet Tunai
+2024-09-26,Perlengkapan Kamar,27325.09,EXPENSE,Belanja,BCA
+2024-09-26,Nasi Padang,31236.87,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-26,Fotokopi,23525.39,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-27,Game Online,131038.91,EXPENSE,Hiburan,Dompet Tunai
+2024-09-27,Ongkos Angkot,34943.71,EXPENSE,Lain-lain,Dompet Tunai
+2024-09-27,Shopee,176975.91,EXPENSE,Belanja,BCA
+2024-09-27,GoFood,43790.65,EXPENSE,Makan & Minum,BCA
+2024-09-28,Karaoke,37820.2,EXPENSE,Hiburan,Gopay
+2024-09-28,Wifi Bulanan,115362.62,EXPENSE,Tagihan,Dompet Tunai
+2024-09-28,Warung Nasi,44145.34,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-28,Skincare,118572.42,EXPENSE,Belanja,BCA
+2024-09-28,Skincare,28042.14,EXPENSE,Belanja,Gopay
+2024-09-28,Nasi Padang,20776.44,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-28,Alfamart,177765.66,EXPENSE,Belanja,Gopay
+2024-09-28,Listrik Kos,8742.73,EXPENSE,Tagihan,Gopay
+2024-09-28,Indomaret Snack,19610.42,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-28,Martabak,32877.07,EXPENSE,Makan & Minum,BCA
+2024-09-29,Baju,53210.06,EXPENSE,Belanja,BCA
+2024-09-29,Alat Tulis,100325.08,EXPENSE,Belanja,Gopay
+2024-09-29,Olahraga,38796.22,EXPENSE,Hiburan,BCA
+2024-09-29,Bubble Tea,29331.43,EXPENSE,Makan & Minum,Gopay
+2024-09-29,Streaming Film,38073.46,EXPENSE,Hiburan,Gopay
+2024-09-29,Uang Saku,1187280.33,INCOME,Gaji,Gopay
+2024-09-29,Nasi Padang,8121.26,EXPENSE,Makan & Minum,Dompet Tunai
+2024-09-29,Alfamart,82739.29,EXPENSE,Belanja,BCA
+2024-09-30,Warung Nasi,17460.7,EXPENSE,Makan & Minum,Gopay
+2024-09-30,GrabFood,9223.58,EXPENSE,Makan & Minum,BCA
+2024-09-30,Tokopedia,147476.85,EXPENSE,Belanja,BCA
+2024-09-30,ATM,44113.91,EXPENSE,Lain-lain,BCA
+2024-10-01,Biaya Admin Bank,109261.66,EXPENSE,Tagihan,Dompet Tunai
+2024-10-01,KFC,19639.86,EXPENSE,Makan & Minum,Gopay
+2024-10-01,Netflix,28310.18,EXPENSE,Tagihan,Gopay
+2024-10-01,Indomaret,27795.12,EXPENSE,Belanja,BCA
+2024-10-01,Transfer Orang Tua,1600421.57,INCOME,Gaji,BCA
+2024-10-01,Langganan Spotify,102424.45,EXPENSE,Tagihan,Gopay
+2024-10-02,Pizza,10494.95,EXPENSE,Makan & Minum,Gopay
+2024-10-02,Pulsa,83695.04,EXPENSE,Tagihan,BCA
+2024-10-02,Indomaret,191290.26,EXPENSE,Belanja,Gopay
+2024-10-02,Warung Nasi,29299.34,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-02,Grab Motor,6006.28,EXPENSE,Lain-lain,Gopay
+2024-10-02,Es Teh,45284.31,EXPENSE,Makan & Minum,Gopay
+2024-10-02,Fotokopi,49824.05,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-02,Buku Kuliah,80413.39,EXPENSE,Belanja,BCA
+2024-10-02,Pulsa,146498.55,EXPENSE,Tagihan,BCA
+2024-10-03,Iuran Bulanan,111916.78,EXPENSE,Tagihan,Gopay
+2024-10-03,Bakso,36236.78,EXPENSE,Makan & Minum,Gopay
+2024-10-03,Donasi,17984.09,EXPENSE,Lain-lain,Gopay
+2024-10-03,Iuran Kebersihan,33220.26,EXPENSE,Tagihan,BCA
+2024-10-03,Iuran Kebersihan,147272.0,EXPENSE,Tagihan,Gopay
+2024-10-03,Olahraga,92929.05,EXPENSE,Hiburan,Dompet Tunai
+2024-10-03,Kantin Kampus,6680.67,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-03,Donasi,33416.54,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-03,Wifi Bulanan,48627.35,EXPENSE,Tagihan,Gopay
+2024-10-03,Skincare,138425.44,EXPENSE,Belanja,Gopay
+2024-10-03,Streaming Film,109075.33,EXPENSE,Hiburan,Gopay
+2024-10-04,Buku Kuliah,59750.61,EXPENSE,Belanja,BCA
+2024-10-04,Transfer Orang Tua,1952733.17,INCOME,Gaji,Gopay
+2024-10-04,GoFood,29641.66,EXPENSE,Makan & Minum,BCA
+2024-10-04,Fotokopi,19427.95,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-04,Transfer Orang Tua,945856.71,INCOME,Gaji,Gopay
+2024-10-04,Alat Tulis,61295.28,EXPENSE,Belanja,Dompet Tunai
+2024-10-04,Parkir Motor,4740.17,EXPENSE,Lain-lain,BCA
+2024-10-04,Freelance,777793.35,INCOME,Gaji,BCA
+2024-10-05,Tabungan,239641.05,INCOME,Goals,BCA
+2024-10-06,Parkir,102527.31,EXPENSE,Tagihan,BCA
+2024-10-06,Top Up OVO,128456.62,EXPENSE,Tagihan,BCA
+2024-10-06,Iuran Kebersihan,89414.72,EXPENSE,Tagihan,Dompet Tunai
+2024-10-06,Jus Buah,10467.56,EXPENSE,Makan & Minum,BCA
+2024-10-06,Es Teh,17769.92,EXPENSE,Makan & Minum,Gopay
+2024-10-07,Indomaret,169177.05,EXPENSE,Belanja,Gopay
+2024-10-07,Buku Kuliah,68294.24,EXPENSE,Belanja,Dompet Tunai
+2024-10-07,Iuran Kebersihan,93592.24,EXPENSE,Tagihan,Dompet Tunai
+2024-10-08,Biaya Admin Bank,8847.17,EXPENSE,Tagihan,Gopay
+2024-10-08,Olahraga,131061.13,EXPENSE,Hiburan,Dompet Tunai
+2024-10-08,Skincare,13862.04,EXPENSE,Belanja,BCA
+2024-10-08,Sepatu,30129.62,EXPENSE,Belanja,Gopay
+2024-10-08,Warung Nasi,22830.89,EXPENSE,Makan & Minum,Gopay
+2024-10-08,Kopi Kenangan,12969.98,EXPENSE,Makan & Minum,BCA
+2024-10-08,Game Online,116156.85,EXPENSE,Hiburan,BCA
+2024-10-08,Bubble Tea,24686.37,EXPENSE,Makan & Minum,BCA
+2024-10-08,Shopee,29237.96,EXPENSE,Belanja,Dompet Tunai
+2024-10-08,Langganan Spotify,135096.28,EXPENSE,Tagihan,BCA
+2024-10-08,Tiket Wahana,145674.37,EXPENSE,Hiburan,BCA
+2024-10-09,Gym,46716.97,EXPENSE,Hiburan,BCA
+2024-10-09,Warung Nasi,46168.9,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-09,Bowling,101320.83,EXPENSE,Hiburan,Dompet Tunai
+2024-10-09,Alfamart,171814.81,EXPENSE,Belanja,BCA
+2024-10-09,Alat Tulis,114449.05,EXPENSE,Belanja,Dompet Tunai
+2024-10-09,Wifi Bulanan,37519.05,EXPENSE,Tagihan,Gopay
+2024-10-09,Ongkos Angkot,30015.49,EXPENSE,Lain-lain,Gopay
+2024-10-10,Ongkos Angkot,32602.76,EXPENSE,Lain-lain,BCA
+2024-10-10,Nasi Padang,7301.09,EXPENSE,Makan & Minum,Gopay
+2024-10-10,Indomaret,110171.74,EXPENSE,Belanja,Gopay
+2024-10-10,Tabungan,494616.18,INCOME,Goals,BCA
+2024-10-10,Netflix,51933.49,EXPENSE,Tagihan,BCA
+2024-10-10,Listrik Kos,29726.0,EXPENSE,Tagihan,Dompet Tunai
+2024-10-10,Mie Ayam,23402.88,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-10,Game Online,69848.56,EXPENSE,Hiburan,BCA
+2024-10-10,Biaya Admin Bank,117451.5,EXPENSE,Tagihan,Gopay
+2024-10-10,Baju,68410.75,EXPENSE,Belanja,Dompet Tunai
+2024-10-10,Karaoke,84674.13,EXPENSE,Hiburan,BCA
+2024-10-11,Karaoke,96928.17,EXPENSE,Hiburan,Gopay
+2024-10-11,Keperluan Lain,6773.19,EXPENSE,Lain-lain,Gopay
+2024-10-11,Honor Mengajar,1282168.53,INCOME,Gaji,BCA
+2024-10-11,Minimarket,161428.41,EXPENSE,Belanja,Dompet Tunai
+2024-10-11,Pizza,47163.1,EXPENSE,Makan & Minum,BCA
+2024-10-11,Biaya Admin Bank,118078.39,EXPENSE,Tagihan,BCA
+2024-10-11,Iuran Kebersihan,27997.74,EXPENSE,Tagihan,Gopay
+2024-10-12,Shopee,85461.26,EXPENSE,Belanja,Gopay
+2024-10-12,McDonalds,33760.4,EXPENSE,Makan & Minum,BCA
+2024-10-12,Beasiswa,1195898.73,INCOME,Gaji,BCA
+2024-10-12,Biaya Admin Bank,129717.75,EXPENSE,Tagihan,Gopay
+2024-10-12,Iuran Bulanan,109127.85,EXPENSE,Tagihan,Dompet Tunai
+2024-10-12,Netflix,124836.33,EXPENSE,Tagihan,BCA
+2024-10-12,Bioskop,70190.35,EXPENSE,Hiburan,BCA
+2024-10-13,Shopee,12160.67,EXPENSE,Belanja,BCA
+2024-10-13,Alfamart,70637.83,EXPENSE,Belanja,Dompet Tunai
+2024-10-13,Uang Bulanan,1918547.22,INCOME,Gaji,BCA
+2024-10-13,Olahraga,28762.13,EXPENSE,Hiburan,BCA
+2024-10-13,Listrik Kos,148958.44,EXPENSE,Tagihan,BCA
+2024-10-13,Top Up Game,28580.21,EXPENSE,Hiburan,BCA
+2024-10-13,Pulsa,129996.18,EXPENSE,Tagihan,Dompet Tunai
+2024-10-13,Freelance,1820118.63,INCOME,Gaji,BCA
+2024-10-13,Kantin Kampus,22118.02,EXPENSE,Makan & Minum,Gopay
+2024-10-13,Baju,119144.1,EXPENSE,Belanja,Dompet Tunai
+2024-10-13,McDonalds,6143.86,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-14,McDonalds,48712.78,EXPENSE,Makan & Minum,BCA
+2024-10-14,ATM,27541.45,EXPENSE,Lain-lain,BCA
+2024-10-14,Keperluan Lain,29354.7,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-14,Grab Motor,35408.99,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-14,Beasiswa,1502319.2,INCOME,Gaji,BCA
+2024-10-14,Alfamart Minuman,24523.32,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-14,Bioskop,81045.48,EXPENSE,Hiburan,Gopay
+2024-10-14,Karaoke,40885.67,EXPENSE,Hiburan,Dompet Tunai
+2024-10-15,Martabak,9566.22,EXPENSE,Makan & Minum,Gopay
+2024-10-15,Alfamart,22606.51,EXPENSE,Belanja,BCA
+2024-10-15,Top Up Game,63258.8,EXPENSE,Hiburan,BCA
+2024-10-16,Skincare,155397.72,EXPENSE,Belanja,BCA
+2024-10-16,Bowling,140496.56,EXPENSE,Hiburan,BCA
+2024-10-16,Kopi Kenangan,23887.73,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-16,Konser,95083.15,EXPENSE,Hiburan,Dompet Tunai
+2024-10-16,Ongkos Angkot,28410.87,EXPENSE,Lain-lain,Gopay
+2024-10-16,Buku Kuliah,26573.19,EXPENSE,Belanja,Dompet Tunai
+2024-10-16,Shopee,8234.63,EXPENSE,Belanja,BCA
+2024-10-16,Parkir Motor,10517.1,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-17,Listrik Kos,38125.94,EXPENSE,Tagihan,BCA
+2024-10-17,Alfamart Minuman,18146.51,EXPENSE,Makan & Minum,Gopay
+2024-10-17,Karaoke,114730.25,EXPENSE,Hiburan,BCA
+2024-10-17,Listrik Kos,148979.9,EXPENSE,Tagihan,Dompet Tunai
+2024-10-17,Fotokopi,27233.13,EXPENSE,Lain-lain,Gopay
+2024-10-17,Iuran Bulanan,48315.21,EXPENSE,Tagihan,BCA
+2024-10-17,Perlengkapan Kamar,62420.82,EXPENSE,Belanja,Gopay
+2024-10-17,Tiket Wahana,103610.05,EXPENSE,Hiburan,Dompet Tunai
+2024-10-17,Indomaret Snack,43806.37,EXPENSE,Makan & Minum,BCA
+2024-10-17,Wifi Bulanan,76800.65,EXPENSE,Tagihan,Gopay
+2024-10-17,Top Up OVO,141333.39,EXPENSE,Tagihan,Gopay
+2024-10-17,Indomaret Snack,27336.48,EXPENSE,Makan & Minum,Gopay
+2024-10-18,Transfer Orang Tua,1658018.71,INCOME,Gaji,BCA
+2024-10-18,Keperluan Lain,20456.54,EXPENSE,Lain-lain,BCA
+2024-10-18,Biaya Admin Bank,8689.93,EXPENSE,Tagihan,BCA
+2024-10-18,Nasi Padang,36808.58,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-18,McDonalds,38187.56,EXPENSE,Makan & Minum,BCA
+2024-10-18,Indomaret,153570.85,EXPENSE,Belanja,BCA
+2024-10-18,Parkir,90091.96,EXPENSE,Tagihan,BCA
+2024-10-18,Minimarket,89633.78,EXPENSE,Belanja,BCA
+2024-10-18,Baju,183442.56,EXPENSE,Belanja,BCA
+2024-10-18,Biaya Admin Bank,105961.87,EXPENSE,Tagihan,Gopay
+2024-10-19,Top Up Game,105654.72,EXPENSE,Hiburan,Gopay
+2024-10-19,Grab Motor,29135.85,EXPENSE,Lain-lain,Gopay
+2024-10-19,Es Teh,46148.54,EXPENSE,Makan & Minum,Gopay
+2024-10-19,Top Up Game,135275.83,EXPENSE,Hiburan,BCA
+2024-10-19,Karaoke,35496.51,EXPENSE,Hiburan,Dompet Tunai
+2024-10-19,Warung Nasi,11301.08,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-19,Freelance,1308741.92,INCOME,Gaji,BCA
+2024-10-19,Jus Buah,33073.67,EXPENSE,Makan & Minum,Gopay
+2024-10-19,Buku Kuliah,22785.19,EXPENSE,Belanja,BCA
+2024-10-19,Perlengkapan Kamar,155327.88,EXPENSE,Belanja,BCA
+2024-10-19,Netflix,142351.04,EXPENSE,Tagihan,Gopay
+2024-10-20,Pizza,7058.39,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-20,Game Online,128503.32,EXPENSE,Hiburan,BCA
+2024-10-20,Bubble Tea,43015.25,EXPENSE,Makan & Minum,Gopay
+2024-10-20,Iuran Kebersihan,108542.61,EXPENSE,Tagihan,Gopay
+2024-10-20,Beasiswa,1830387.35,INCOME,Gaji,BCA
+2024-10-21,Olahraga,57319.32,EXPENSE,Hiburan,Dompet Tunai
+2024-10-21,Alfamart,77275.22,EXPENSE,Belanja,Dompet Tunai
+2024-10-21,Tokopedia,41683.63,EXPENSE,Belanja,Gopay
+2024-10-22,Fotokopi,20868.69,EXPENSE,Lain-lain,Gopay
+2024-10-22,Biaya Admin Bank,17923.04,EXPENSE,Tagihan,Gopay
+2024-10-22,Nabung Liburan,67828.47,INCOME,Goals,BCA
+2024-10-22,Gaji Part Time,1866390.78,INCOME,Gaji,BCA
+2024-10-23,Pulsa,46438.62,EXPENSE,Tagihan,Gopay
+2024-10-23,Uang Bulanan,1277118.15,INCOME,Gaji,Gopay
+2024-10-23,Beasiswa,1980330.4,INCOME,Gaji,BCA
+2024-10-23,Gaji Part Time,1670788.27,INCOME,Gaji,BCA
+2024-10-23,Keperluan Lain,34060.16,EXPENSE,Lain-lain,BCA
+2024-10-23,Buku Kuliah,59996.74,EXPENSE,Belanja,Dompet Tunai
+2024-10-23,Baju,176204.99,EXPENSE,Belanja,Dompet Tunai
+2024-10-23,Donasi,13610.9,EXPENSE,Lain-lain,Gopay
+2024-10-23,Top Up OVO,66165.09,EXPENSE,Tagihan,BCA
+2024-10-24,Pizza,8707.15,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-24,Top Up Game,103127.61,EXPENSE,Hiburan,Gopay
+2024-10-24,Kopi Kenangan,41620.78,EXPENSE,Makan & Minum,Gopay
+2024-10-24,Skincare,56032.61,EXPENSE,Belanja,BCA
+2024-10-24,Perlengkapan Kamar,114489.49,EXPENSE,Belanja,BCA
+2024-10-24,Alfamart,193732.71,EXPENSE,Belanja,Dompet Tunai
+2024-10-24,Listrik Kos,121222.88,EXPENSE,Tagihan,Gopay
+2024-10-24,Simpanan Bulanan,343923.26,INCOME,Goals,BCA
+2024-10-24,Biaya Admin Bank,139936.31,EXPENSE,Tagihan,Dompet Tunai
+2024-10-25,Pulsa,134850.87,EXPENSE,Tagihan,BCA
+2024-10-25,Minimarket,120763.85,EXPENSE,Belanja,Gopay
+2024-10-25,Listrik Kos,98171.95,EXPENSE,Tagihan,Dompet Tunai
+2024-10-25,Buku Kuliah,12969.38,EXPENSE,Belanja,Gopay
+2024-10-25,Top Up Game,129168.97,EXPENSE,Hiburan,Dompet Tunai
+2024-10-26,Pulsa,104077.83,EXPENSE,Tagihan,Dompet Tunai
+2024-10-26,Tokopedia,48284.57,EXPENSE,Belanja,Gopay
+2024-10-26,Iuran Kebersihan,125192.74,EXPENSE,Tagihan,BCA
+2024-10-26,Top Up Game,22168.84,EXPENSE,Hiburan,Dompet Tunai
+2024-10-26,Grab Motor,38324.07,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-26,Es Teh,6729.19,EXPENSE,Makan & Minum,Gopay
+2024-10-26,McDonalds,33401.24,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-26,Pizza,24144.64,EXPENSE,Makan & Minum,Gopay
+2024-10-27,Gojek,25631.62,EXPENSE,Lain-lain,Dompet Tunai
+2024-10-27,Mie Ayam,21977.79,EXPENSE,Makan & Minum,BCA
+2024-10-27,Top Up OVO,60839.17,EXPENSE,Tagihan,Dompet Tunai
+2024-10-27,Alfamart,86694.82,EXPENSE,Belanja,Dompet Tunai
+2024-10-27,Bioskop,108906.6,EXPENSE,Hiburan,BCA
+2024-10-27,Nasi Padang,5654.51,EXPENSE,Makan & Minum,Gopay
+2024-10-27,Konser,51088.44,EXPENSE,Hiburan,Gopay
+2024-10-28,Shopee,116515.09,EXPENSE,Belanja,BCA
+2024-10-28,Streaming Film,103902.52,EXPENSE,Hiburan,Dompet Tunai
+2024-10-28,McDonalds,38295.69,EXPENSE,Makan & Minum,Gopay
+2024-10-28,Konser,35879.62,EXPENSE,Hiburan,Gopay
+2024-10-28,Netflix,8374.43,EXPENSE,Tagihan,Dompet Tunai
+2024-10-28,Gojek,47641.45,EXPENSE,Lain-lain,Gopay
+2024-10-29,Mie Ayam,9809.46,EXPENSE,Makan & Minum,BCA
+2024-10-29,Tiket Wahana,46835.76,EXPENSE,Hiburan,Dompet Tunai
+2024-10-29,Wifi Bulanan,74741.07,EXPENSE,Tagihan,Dompet Tunai
+2024-10-29,Biaya Admin Bank,72773.22,EXPENSE,Tagihan,Dompet Tunai
+2024-10-29,Shopee,90044.67,EXPENSE,Belanja,Dompet Tunai
+2024-10-29,Pizza,47182.46,EXPENSE,Makan & Minum,Gopay
+2024-10-30,Olahraga,141142.2,EXPENSE,Hiburan,BCA
+2024-10-30,Alfamart Minuman,29842.12,EXPENSE,Makan & Minum,Dompet Tunai
+2024-10-30,Nasi Padang,31590.18,EXPENSE,Makan & Minum,Gopay
+2024-10-30,Mie Ayam,32929.72,EXPENSE,Makan & Minum,Gopay
+2024-10-30,Indomaret,7363.55,EXPENSE,Belanja,BCA
+2024-10-31,Biaya Admin Bank,69670.84,EXPENSE,Tagihan,Gopay
+2024-10-31,Listrik Kos,101801.04,EXPENSE,Tagihan,BCA
+2024-10-31,Perlengkapan Kamar,115820.18,EXPENSE,Belanja,BCA
+2024-10-31,Wifi Bulanan,23617.17,EXPENSE,Tagihan,BCA
+2024-10-31,GoFood,38671.69,EXPENSE,Makan & Minum,BCA
+2024-10-31,Alat Tulis,155051.12,EXPENSE,Belanja,BCA
+2024-10-31,GrabFood,46928.92,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-01,Iuran Kebersihan,83813.04,EXPENSE,Tagihan,Gopay
+2024-11-01,Fotokopi,3403.87,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-01,KFC,34782.76,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-01,Shopee,35505.22,EXPENSE,Belanja,BCA
+2024-11-01,Alat Tulis,110291.64,EXPENSE,Belanja,BCA
+2024-11-01,Keperluan Lain,31567.3,EXPENSE,Lain-lain,BCA
+2024-11-01,Top Up OVO,91017.13,EXPENSE,Tagihan,Gopay
+2024-11-01,Shopee,168016.12,EXPENSE,Belanja,Gopay
+2024-11-01,KFC,11858.72,EXPENSE,Makan & Minum,BCA
+2024-11-02,Gym,82442.49,EXPENSE,Hiburan,Gopay
+2024-11-02,Biaya Admin Bank,83547.2,EXPENSE,Tagihan,Gopay
+2024-11-02,KFC,31121.04,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-02,Alfamart Minuman,28966.52,EXPENSE,Makan & Minum,BCA
+2024-11-02,Keperluan Lain,7372.14,EXPENSE,Lain-lain,Gopay
+2024-11-02,Print Tugas,28161.29,EXPENSE,Lain-lain,Gopay
+2024-11-02,Jus Buah,28297.02,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-02,Freelance,696867.32,INCOME,Gaji,BCA
+2024-11-03,Grab Motor,28938.69,EXPENSE,Lain-lain,BCA
+2024-11-03,Top Up Game,10648.48,EXPENSE,Hiburan,BCA
+2024-11-03,Buku Kuliah,48765.91,EXPENSE,Belanja,Dompet Tunai
+2024-11-03,Top Up Game,39686.28,EXPENSE,Hiburan,Gopay
+2024-11-03,Olahraga,58930.89,EXPENSE,Hiburan,Gopay
+2024-11-03,Gaji Part Time,1750474.94,INCOME,Gaji,Gopay
+2024-11-04,Parkir,73378.55,EXPENSE,Tagihan,BCA
+2024-11-04,Alfamart,182111.85,EXPENSE,Belanja,BCA
+2024-11-04,Biaya Admin Bank,134087.42,EXPENSE,Tagihan,Gopay
+2024-11-04,Shopee,57502.43,EXPENSE,Belanja,Gopay
+2024-11-04,Beasiswa,803023.5,INCOME,Gaji,Gopay
+2024-11-04,Indomaret Snack,13348.65,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-04,Tiket Wahana,94488.27,EXPENSE,Hiburan,BCA
+2024-11-04,Alfamart,191824.33,EXPENSE,Belanja,Dompet Tunai
+2024-11-04,Donasi,17305.61,EXPENSE,Lain-lain,Gopay
+2024-11-04,Konser,107646.0,EXPENSE,Hiburan,Dompet Tunai
+2024-11-04,Nasi Padang,11305.09,EXPENSE,Makan & Minum,Gopay
+2024-11-05,Bakso,45776.45,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-05,Kopi Kenangan,34259.05,EXPENSE,Makan & Minum,BCA
+2024-11-05,Indomaret,129989.56,EXPENSE,Belanja,Dompet Tunai
+2024-11-05,Minimarket,164724.95,EXPENSE,Belanja,Gopay
+2024-11-05,Warung Nasi,27363.36,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-05,Sepatu,138522.58,EXPENSE,Belanja,Dompet Tunai
+2024-11-05,Grab Motor,9414.07,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-06,Es Teh,46438.15,EXPENSE,Makan & Minum,BCA
+2024-11-06,Sepatu,7418.79,EXPENSE,Belanja,BCA
+2024-11-06,Streaming Film,142267.2,EXPENSE,Hiburan,Gopay
+2024-11-06,Tiket Wahana,46229.2,EXPENSE,Hiburan,Gopay
+2024-11-06,Sepatu,21962.42,EXPENSE,Belanja,Dompet Tunai
+2024-11-06,Gym,35463.21,EXPENSE,Hiburan,BCA
+2024-11-06,Biaya Admin Bank,23944.59,EXPENSE,Tagihan,Gopay
+2024-11-06,Uang Bulanan,550420.4,INCOME,Gaji,BCA
+2024-11-07,Langganan Spotify,90058.23,EXPENSE,Tagihan,BCA
+2024-11-07,Konser,43428.8,EXPENSE,Hiburan,BCA
+2024-11-07,Baju,12688.23,EXPENSE,Belanja,BCA
+2024-11-08,Parkir,82046.42,EXPENSE,Tagihan,Dompet Tunai
+2024-11-08,Netflix,144784.18,EXPENSE,Tagihan,Gopay
+2024-11-09,Iuran Kebersihan,28133.98,EXPENSE,Tagihan,Gopay
+2024-11-09,Iuran Kebersihan,76380.29,EXPENSE,Tagihan,BCA
+2024-11-09,Konser,34035.1,EXPENSE,Hiburan,Dompet Tunai
+2024-11-09,Bowling,33233.69,EXPENSE,Hiburan,Gopay
+2024-11-09,Shopee,37571.62,EXPENSE,Belanja,Dompet Tunai
+2024-11-09,Top Up OVO,110439.52,EXPENSE,Tagihan,BCA
+2024-11-09,Bakso,34136.36,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-09,Langganan Spotify,128198.87,EXPENSE,Tagihan,Gopay
+2024-11-09,GoFood,14073.23,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-09,Fotokopi,10949.04,EXPENSE,Lain-lain,Gopay
+2024-11-10,Baju,150000.81,EXPENSE,Belanja,Dompet Tunai
+2024-11-10,Parkir Motor,14378.61,EXPENSE,Lain-lain,Gopay
+2024-11-10,Indomaret,22133.97,EXPENSE,Belanja,Dompet Tunai
+2024-11-11,Bakso,38734.33,EXPENSE,Makan & Minum,Gopay
+2024-11-11,Karaoke,79771.49,EXPENSE,Hiburan,BCA
+2024-11-11,ATM,3134.65,EXPENSE,Lain-lain,BCA
+2024-11-11,Buku Kuliah,123126.09,EXPENSE,Belanja,Dompet Tunai
+2024-11-11,Konser,116440.58,EXPENSE,Hiburan,Gopay
+2024-11-11,Iuran Kebersihan,40865.47,EXPENSE,Tagihan,Dompet Tunai
+2024-11-11,Beasiswa,1603494.67,INCOME,Gaji,Gopay
+2024-11-11,Langganan Spotify,31712.6,EXPENSE,Tagihan,Dompet Tunai
+2024-11-11,Pulsa,97966.41,EXPENSE,Tagihan,Gopay
+2024-11-12,Buku Kuliah,67200.25,EXPENSE,Belanja,Dompet Tunai
+2024-11-12,Minimarket,39101.88,EXPENSE,Belanja,BCA
+2024-11-12,Minimarket,152856.5,EXPENSE,Belanja,BCA
+2024-11-12,Baju,80768.83,EXPENSE,Belanja,Gopay
+2024-11-12,McDonalds,23433.3,EXPENSE,Makan & Minum,BCA
+2024-11-12,GoFood,10066.12,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-12,GrabFood,47175.28,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-12,Pulsa,47515.56,EXPENSE,Tagihan,Dompet Tunai
+2024-11-12,Listrik Kos,115834.04,EXPENSE,Tagihan,BCA
+2024-11-12,Konser,10708.62,EXPENSE,Hiburan,Dompet Tunai
+2024-11-12,Kopi Kenangan,26900.1,EXPENSE,Makan & Minum,Gopay
+2024-11-13,Bowling,96389.31,EXPENSE,Hiburan,Gopay
+2024-11-13,Perlengkapan Kamar,116549.49,EXPENSE,Belanja,Gopay
+2024-11-13,Fotokopi,37709.42,EXPENSE,Lain-lain,BCA
+2024-11-13,Game Online,93477.78,EXPENSE,Hiburan,BCA
+2024-11-13,Iuran Bulanan,32052.22,EXPENSE,Tagihan,BCA
+2024-11-13,Game Online,112061.0,EXPENSE,Hiburan,BCA
+2024-11-14,Gym,111356.23,EXPENSE,Hiburan,BCA
+2024-11-14,Konser,50185.34,EXPENSE,Hiburan,Gopay
+2024-11-14,Indomaret Snack,43839.65,EXPENSE,Makan & Minum,Gopay
+2024-11-15,Tiket Wahana,148273.52,EXPENSE,Hiburan,Dompet Tunai
+2024-11-15,Alfamart,192421.42,EXPENSE,Belanja,Dompet Tunai
+2024-11-15,Top Up Game,148128.22,EXPENSE,Hiburan,BCA
+2024-11-15,Parkir,93146.26,EXPENSE,Tagihan,Gopay
+2024-11-15,Iuran Bulanan,131545.89,EXPENSE,Tagihan,BCA
+2024-11-15,Gym,33521.99,EXPENSE,Hiburan,Gopay
+2024-11-16,Wifi Bulanan,53045.32,EXPENSE,Tagihan,Gopay
+2024-11-16,Uang Bulanan,555007.14,INCOME,Gaji,BCA
+2024-11-16,Gojek,35726.42,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-16,Konser,76642.54,EXPENSE,Hiburan,BCA
+2024-11-16,Perlengkapan Kamar,150565.82,EXPENSE,Belanja,Dompet Tunai
+2024-11-16,Uang Bulanan,1224453.31,INCOME,Gaji,BCA
+2024-11-16,Alfamart,125093.32,EXPENSE,Belanja,Gopay
+2024-11-16,Wifi Bulanan,105583.92,EXPENSE,Tagihan,Dompet Tunai
+2024-11-16,Buku Kuliah,130867.1,EXPENSE,Belanja,Gopay
+2024-11-17,Bubble Tea,12203.22,EXPENSE,Makan & Minum,Gopay
+2024-11-17,Print Tugas,28046.94,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-17,Karaoke,40091.65,EXPENSE,Hiburan,Dompet Tunai
+2024-11-17,Uang Saku,1232361.71,INCOME,Gaji,Gopay
+2024-11-17,Martabak,47741.0,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-17,Honor Mengajar,1705221.4,INCOME,Gaji,Gopay
+2024-11-17,Top Up OVO,145636.93,EXPENSE,Tagihan,BCA
+2024-11-17,Tokopedia,113888.83,EXPENSE,Belanja,Dompet Tunai
+2024-11-17,Iuran Kebersihan,65725.03,EXPENSE,Tagihan,BCA
+2024-11-18,McDonalds,48401.45,EXPENSE,Makan & Minum,Gopay
+2024-11-18,Bioskop,48167.36,EXPENSE,Hiburan,Gopay
+2024-11-18,Nasi Padang,47926.79,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-18,GoFood,5413.87,EXPENSE,Makan & Minum,Gopay
+2024-11-18,Parkir,87762.85,EXPENSE,Tagihan,Gopay
+2024-11-18,Pizza,32815.77,EXPENSE,Makan & Minum,Gopay
+2024-11-18,Top Up Game,68437.54,EXPENSE,Hiburan,Gopay
+2024-11-18,Wifi Bulanan,60190.38,EXPENSE,Tagihan,Dompet Tunai
+2024-11-18,McDonalds,49284.96,EXPENSE,Makan & Minum,BCA
+2024-11-19,Pizza,48180.95,EXPENSE,Makan & Minum,Gopay
+2024-11-19,Jus Buah,10681.91,EXPENSE,Makan & Minum,BCA
+2024-11-19,GoFood,48631.31,EXPENSE,Makan & Minum,Gopay
+2024-11-20,Iuran Kebersihan,90976.29,EXPENSE,Tagihan,Dompet Tunai
+2024-11-20,Buku Kuliah,73029.31,EXPENSE,Belanja,Dompet Tunai
+2024-11-20,Top Up OVO,7087.06,EXPENSE,Tagihan,Dompet Tunai
+2024-11-20,Wifi Bulanan,57547.12,EXPENSE,Tagihan,BCA
+2024-11-20,Indomaret,27393.18,EXPENSE,Belanja,Dompet Tunai
+2024-11-21,Langganan Spotify,97262.25,EXPENSE,Tagihan,Gopay
+2024-11-21,Listrik Kos,25661.85,EXPENSE,Tagihan,Gopay
+2024-11-21,Konser,76576.45,EXPENSE,Hiburan,BCA
+2024-11-21,Honor Mengajar,1258779.04,INCOME,Gaji,BCA
+2024-11-21,Konser,26943.5,EXPENSE,Hiburan,Gopay
+2024-11-22,Biaya Admin Bank,69569.26,EXPENSE,Tagihan,Dompet Tunai
+2024-11-22,Pizza,9690.12,EXPENSE,Makan & Minum,Gopay
+2024-11-22,Uang Bulanan,1429381.93,INCOME,Gaji,BCA
+2024-11-22,Jus Buah,28902.63,EXPENSE,Makan & Minum,BCA
+2024-11-22,Iuran Kebersihan,33387.81,EXPENSE,Tagihan,Gopay
+2024-11-22,Baju,192677.22,EXPENSE,Belanja,Dompet Tunai
+2024-11-22,Indomaret,123219.32,EXPENSE,Belanja,Gopay
+2024-11-22,Parkir Motor,8487.98,EXPENSE,Lain-lain,BCA
+2024-11-22,Bubble Tea,7999.34,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-23,Alfamart,18184.45,EXPENSE,Belanja,BCA
+2024-11-23,Grab Motor,36273.57,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-23,Streaming Film,97215.32,EXPENSE,Hiburan,BCA
+2024-11-23,Nabung Liburan,466361.74,INCOME,Goals,BCA
+2024-11-23,Bakso,6942.82,EXPENSE,Makan & Minum,BCA
+2024-11-23,Iuran Bulanan,47228.23,EXPENSE,Tagihan,Gopay
+2024-11-24,Iuran Bulanan,142680.49,EXPENSE,Tagihan,Dompet Tunai
+2024-11-24,Top Up Game,132792.68,EXPENSE,Hiburan,Gopay
+2024-11-24,McDonalds,25124.11,EXPENSE,Makan & Minum,BCA
+2024-11-24,Pizza,11675.44,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-24,Uang Bulanan,1195547.61,INCOME,Gaji,Gopay
+2024-11-25,Grab Motor,2857.95,EXPENSE,Lain-lain,BCA
+2024-11-25,Netflix,135475.84,EXPENSE,Tagihan,Gopay
+2024-11-25,Bioskop,115192.51,EXPENSE,Hiburan,Dompet Tunai
+2024-11-25,Parkir,15097.97,EXPENSE,Tagihan,Dompet Tunai
+2024-11-25,Alat Tulis,114328.72,EXPENSE,Belanja,BCA
+2024-11-25,Gojek,3304.04,EXPENSE,Lain-lain,BCA
+2024-11-25,Streaming Film,80439.08,EXPENSE,Hiburan,Gopay
+2024-11-25,Skincare,175187.0,EXPENSE,Belanja,Gopay
+2024-11-26,KFC,22873.26,EXPENSE,Makan & Minum,Gopay
+2024-11-26,Uang Saku,1443414.27,INCOME,Gaji,BCA
+2024-11-26,Gym,11765.05,EXPENSE,Hiburan,BCA
+2024-11-26,Buku Kuliah,113264.16,EXPENSE,Belanja,BCA
+2024-11-26,Kantin Kampus,28746.55,EXPENSE,Makan & Minum,BCA
+2024-11-26,GrabFood,12363.07,EXPENSE,Makan & Minum,BCA
+2024-11-26,Tokopedia,43216.66,EXPENSE,Belanja,Gopay
+2024-11-26,Wifi Bulanan,121413.75,EXPENSE,Tagihan,Gopay
+2024-11-26,Indomaret,197618.18,EXPENSE,Belanja,BCA
+2024-11-26,Parkir Motor,7377.87,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-26,Honor Mengajar,1255125.91,INCOME,Gaji,Gopay
+2024-11-26,Bowling,105356.5,EXPENSE,Hiburan,Gopay
+2024-11-26,Netflix,31241.66,EXPENSE,Tagihan,BCA
+2024-11-27,Streaming Film,50199.31,EXPENSE,Hiburan,Gopay
+2024-11-27,Uang Saku,523184.92,INCOME,Gaji,BCA
+2024-11-27,Karaoke,128891.28,EXPENSE,Hiburan,BCA
+2024-11-27,Print Tugas,16466.14,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-27,Perlengkapan Kamar,34644.85,EXPENSE,Belanja,Gopay
+2024-11-27,Parkir,22228.6,EXPENSE,Tagihan,BCA
+2024-11-27,Uang Bulanan,1287134.65,INCOME,Gaji,BCA
+2024-11-27,Iuran Bulanan,43431.73,EXPENSE,Tagihan,Dompet Tunai
+2024-11-27,Baju,100962.68,EXPENSE,Belanja,Dompet Tunai
+2024-11-27,Ongkos Angkot,35229.28,EXPENSE,Lain-lain,Dompet Tunai
+2024-11-27,Sepatu,168217.6,EXPENSE,Belanja,Dompet Tunai
+2024-11-27,Sepatu,103524.21,EXPENSE,Belanja,Gopay
+2024-11-28,Alfamart,124983.11,EXPENSE,Belanja,BCA
+2024-11-28,Shopee,128650.29,EXPENSE,Belanja,BCA
+2024-11-28,Game Online,118343.15,EXPENSE,Hiburan,Dompet Tunai
+2024-11-28,Streaming Film,20107.78,EXPENSE,Hiburan,Gopay
+2024-11-28,Karaoke,112314.94,EXPENSE,Hiburan,Dompet Tunai
+2024-11-28,Pulsa,65342.33,EXPENSE,Tagihan,Gopay
+2024-11-28,Tokopedia,106074.28,EXPENSE,Belanja,BCA
+2024-11-28,Gojek,9321.87,EXPENSE,Lain-lain,Gopay
+2024-11-28,McDonalds,12020.84,EXPENSE,Makan & Minum,Gopay
+2024-11-28,Alat Tulis,171868.77,EXPENSE,Belanja,Gopay
+2024-11-29,Olahraga,144836.12,EXPENSE,Hiburan,BCA
+2024-11-29,Listrik Kos,55853.21,EXPENSE,Tagihan,BCA
+2024-11-29,Top Up Game,93389.42,EXPENSE,Hiburan,Gopay
+2024-11-29,Shopee,128299.64,EXPENSE,Belanja,Gopay
+2024-11-29,Bakso,32000.92,EXPENSE,Makan & Minum,BCA
+2024-11-29,Warung Nasi,42293.19,EXPENSE,Makan & Minum,Gopay
+2024-11-29,Bowling,134886.52,EXPENSE,Hiburan,BCA
+2024-11-29,Dana Darurat,363213.41,INCOME,Goals,BCA
+2024-11-29,Indomaret,11760.7,EXPENSE,Belanja,BCA
+2024-11-30,Kantin Kampus,42793.76,EXPENSE,Makan & Minum,Gopay
+2024-11-30,Pulsa,77182.81,EXPENSE,Tagihan,Gopay
+2024-11-30,Bowling,127366.02,EXPENSE,Hiburan,BCA
+2024-11-30,Pizza,14589.71,EXPENSE,Makan & Minum,BCA
+2024-11-30,Kopi Kenangan,29012.11,EXPENSE,Makan & Minum,Dompet Tunai
+2024-11-30,Jus Buah,42239.21,EXPENSE,Makan & Minum,BCA
+2024-11-30,Iuran Bulanan,50092.44,EXPENSE,Tagihan,Gopay
+2024-11-30,Alfamart Minuman,20317.42,EXPENSE,Makan & Minum,Gopay
+2024-12-01,Listrik Kos,22380.48,EXPENSE,Tagihan,Gopay
+2024-12-01,Print Tugas,42538.37,EXPENSE,Lain-lain,Gopay
+2024-12-01,Gojek,35795.83,EXPENSE,Lain-lain,Dompet Tunai
+2024-12-01,Alfamart Minuman,47422.93,EXPENSE,Makan & Minum,Gopay
+2024-12-01,Nasi Padang,19562.46,EXPENSE,Makan & Minum,Gopay
+2024-12-01,Netflix,61434.24,EXPENSE,Tagihan,Gopay
+2024-12-01,Top Up Game,42009.99,EXPENSE,Hiburan,Dompet Tunai
+2024-12-02,Ongkos Angkot,3230.82,EXPENSE,Lain-lain,Gopay
+2024-12-02,Karaoke,108316.23,EXPENSE,Hiburan,Gopay
+2024-12-02,Nasi Padang,35008.89,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-02,Donasi,40707.37,EXPENSE,Lain-lain,Gopay
+2024-12-02,Minimarket,160077.13,EXPENSE,Belanja,BCA
+2024-12-02,Top Up OVO,51407.19,EXPENSE,Tagihan,Gopay
+2024-12-02,Olahraga,129908.58,EXPENSE,Hiburan,Gopay
+2024-12-02,Pizza,13186.77,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-02,Uang Saku,824057.27,INCOME,Gaji,BCA
+2024-12-03,McDonalds,46484.34,EXPENSE,Makan & Minum,BCA
+2024-12-03,Buku Kuliah,165383.71,EXPENSE,Belanja,BCA
+2024-12-03,Tokopedia,98698.85,EXPENSE,Belanja,Dompet Tunai
+2024-12-03,Pulsa,14641.96,EXPENSE,Tagihan,Dompet Tunai
+2024-12-03,Pulsa,50126.54,EXPENSE,Tagihan,Dompet Tunai
+2024-12-03,Kantin Kampus,17392.15,EXPENSE,Makan & Minum,BCA
+2024-12-03,Netflix,59459.53,EXPENSE,Tagihan,BCA
+2024-12-03,Tokopedia,180516.22,EXPENSE,Belanja,BCA
+2024-12-03,Jus Buah,6589.01,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-03,Kopi Kenangan,27121.75,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-04,GrabFood,34338.26,EXPENSE,Makan & Minum,Gopay
+2024-12-04,Gojek,3561.26,EXPENSE,Lain-lain,Gopay
+2024-12-04,Bowling,122370.06,EXPENSE,Hiburan,BCA
+2024-12-04,Bioskop,127884.66,EXPENSE,Hiburan,Gopay
+2024-12-04,Top Up OVO,60555.09,EXPENSE,Tagihan,BCA
+2024-12-04,Gym,81693.03,EXPENSE,Hiburan,Gopay
+2024-12-04,Olahraga,125614.35,EXPENSE,Hiburan,BCA
+2024-12-04,Wifi Bulanan,118210.43,EXPENSE,Tagihan,Dompet Tunai
+2024-12-04,Listrik Kos,107684.95,EXPENSE,Tagihan,BCA
+2024-12-04,KFC,12107.97,EXPENSE,Makan & Minum,Gopay
+2024-12-05,Perlengkapan Kamar,74180.4,EXPENSE,Belanja,Gopay
+2024-12-05,Top Up OVO,123612.14,EXPENSE,Tagihan,BCA
+2024-12-05,Iuran Bulanan,62445.04,EXPENSE,Tagihan,Gopay
+2024-12-05,Ongkos Angkot,12476.19,EXPENSE,Lain-lain,BCA
+2024-12-05,Alat Tulis,9381.52,EXPENSE,Belanja,Dompet Tunai
+2024-12-05,Buku Kuliah,179489.25,EXPENSE,Belanja,Dompet Tunai
+2024-12-05,Minimarket,51321.11,EXPENSE,Belanja,BCA
+2024-12-05,Skincare,154813.32,EXPENSE,Belanja,BCA
+2024-12-06,Sepatu,39184.07,EXPENSE,Belanja,BCA
+2024-12-06,Gym,122514.09,EXPENSE,Hiburan,Dompet Tunai
+2024-12-06,Donasi,22665.41,EXPENSE,Lain-lain,Gopay
+2024-12-07,Parkir Motor,18056.54,EXPENSE,Lain-lain,Gopay
+2024-12-07,Game Online,61043.12,EXPENSE,Hiburan,Dompet Tunai
+2024-12-07,Skincare,106164.17,EXPENSE,Belanja,Dompet Tunai
+2024-12-07,Biaya Admin Bank,44836.07,EXPENSE,Tagihan,Dompet Tunai
+2024-12-07,Warung Nasi,14111.63,EXPENSE,Makan & Minum,Gopay
+2024-12-08,Gym,24108.92,EXPENSE,Hiburan,Gopay
+2024-12-08,Netflix,26009.76,EXPENSE,Tagihan,Dompet Tunai
+2024-12-08,Donasi,13213.17,EXPENSE,Lain-lain,Gopay
+2024-12-09,GoFood,10853.88,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-09,Alfamart,17217.37,EXPENSE,Belanja,BCA
+2024-12-09,Alfamart,174934.82,EXPENSE,Belanja,BCA
+2024-12-09,Parkir,75451.41,EXPENSE,Tagihan,Gopay
+2024-12-09,Mie Ayam,40093.04,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-09,KFC,32086.55,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-09,Gaji Part Time,748661.81,INCOME,Gaji,BCA
+2024-12-09,Print Tugas,5309.98,EXPENSE,Lain-lain,BCA
+2024-12-09,Iuran Kebersihan,49115.13,EXPENSE,Tagihan,Dompet Tunai
+2024-12-09,Streaming Film,82282.05,EXPENSE,Hiburan,BCA
+2024-12-09,Langganan Spotify,50198.11,EXPENSE,Tagihan,BCA
+2024-12-10,Pulsa,36926.56,EXPENSE,Tagihan,Dompet Tunai
+2024-12-10,Gym,96555.67,EXPENSE,Hiburan,Gopay
+2024-12-10,Donasi,25844.81,EXPENSE,Lain-lain,BCA
+2024-12-10,Tokopedia,28670.35,EXPENSE,Belanja,Gopay
+2024-12-10,Parkir Motor,37111.83,EXPENSE,Lain-lain,BCA
+2024-12-10,Wifi Bulanan,143337.4,EXPENSE,Tagihan,BCA
+2024-12-10,Olahraga,121163.53,EXPENSE,Hiburan,Dompet Tunai
+2024-12-10,Karaoke,96810.19,EXPENSE,Hiburan,BCA
+2024-12-10,Indomaret Snack,9612.94,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-10,GoFood,26243.01,EXPENSE,Makan & Minum,Gopay
+2024-12-11,Es Teh,40738.88,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-11,ATM,13805.97,EXPENSE,Lain-lain,Gopay
+2024-12-11,Skincare,94411.99,EXPENSE,Belanja,Gopay
+2024-12-11,Warung Nasi,48785.47,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-11,Nasi Padang,17016.27,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-11,Skincare,101553.57,EXPENSE,Belanja,BCA
+2024-12-11,Buku Kuliah,99689.99,EXPENSE,Belanja,BCA
+2024-12-11,Listrik Kos,79336.82,EXPENSE,Tagihan,BCA
+2024-12-11,Bubble Tea,24394.33,EXPENSE,Makan & Minum,Gopay
+2024-12-11,Uang Bulanan,1691867.42,INCOME,Gaji,BCA
+2024-12-12,Kantin Kampus,20564.74,EXPENSE,Makan & Minum,Gopay
+2024-12-12,Pizza,6295.22,EXPENSE,Makan & Minum,BCA
+2024-12-12,Parkir,114094.31,EXPENSE,Tagihan,BCA
+2024-12-12,Kopi Kenangan,7678.61,EXPENSE,Makan & Minum,BCA
+2024-12-12,Langganan Spotify,60727.36,EXPENSE,Tagihan,BCA
+2024-12-12,Target Gadget,123645.17,INCOME,Goals,BCA
+2024-12-13,Streaming Film,42031.74,EXPENSE,Hiburan,BCA
+2024-12-13,Warung Nasi,32029.3,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-13,Baju,29904.13,EXPENSE,Belanja,BCA
+2024-12-13,Skincare,131681.1,EXPENSE,Belanja,Dompet Tunai
+2024-12-13,Langganan Spotify,63626.22,EXPENSE,Tagihan,Dompet Tunai
+2024-12-13,Minimarket,95791.61,EXPENSE,Belanja,Dompet Tunai
+2024-12-14,Alat Tulis,14057.83,EXPENSE,Belanja,Dompet Tunai
+2024-12-14,Netflix,105772.37,EXPENSE,Tagihan,Gopay
+2024-12-14,Biaya Admin Bank,70371.71,EXPENSE,Tagihan,Gopay
+2024-12-14,Karaoke,62546.19,EXPENSE,Hiburan,BCA
+2024-12-14,Print Tugas,30941.26,EXPENSE,Lain-lain,Gopay
+2024-12-14,Tokopedia,176518.46,EXPENSE,Belanja,BCA
+2024-12-14,Iuran Bulanan,103045.75,EXPENSE,Tagihan,BCA
+2024-12-14,Tiket Wahana,20519.29,EXPENSE,Hiburan,Gopay
+2024-12-15,Skincare,17685.06,EXPENSE,Belanja,BCA
+2024-12-15,Transfer Orang Tua,1702592.12,INCOME,Gaji,Gopay
+2024-12-15,Iuran Kebersihan,75470.07,EXPENSE,Tagihan,Gopay
+2024-12-15,Nabung Liburan,206514.14,INCOME,Goals,BCA
+2024-12-15,Iuran Bulanan,10700.26,EXPENSE,Tagihan,Gopay
+2024-12-16,Bowling,134613.58,EXPENSE,Hiburan,BCA
+2024-12-16,Gojek,2447.92,EXPENSE,Lain-lain,BCA
+2024-12-16,Bioskop,148132.76,EXPENSE,Hiburan,Gopay
+2024-12-16,Gaji Part Time,1775872.59,INCOME,Gaji,BCA
+2024-12-16,Skincare,22800.9,EXPENSE,Belanja,Gopay
+2024-12-16,Skincare,22277.08,EXPENSE,Belanja,Dompet Tunai
+2024-12-16,Bowling,18419.93,EXPENSE,Hiburan,BCA
+2024-12-16,Tiket Wahana,28818.05,EXPENSE,Hiburan,Gopay
+2024-12-16,Gym,114361.53,EXPENSE,Hiburan,BCA
+2024-12-16,Bowling,116744.22,EXPENSE,Hiburan,BCA
+2024-12-17,GoFood,9229.19,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-17,Top Up Game,33466.69,EXPENSE,Hiburan,BCA
+2024-12-17,Alfamart Minuman,26668.51,EXPENSE,Makan & Minum,BCA
+2024-12-17,Martabak,9684.89,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-17,Pulsa,80882.8,EXPENSE,Tagihan,BCA
+2024-12-17,Pulsa,131831.74,EXPENSE,Tagihan,BCA
+2024-12-17,Grab Motor,20249.39,EXPENSE,Lain-lain,BCA
+2024-12-18,Alfamart Minuman,18605.0,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-18,GrabFood,30054.33,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-18,Sepatu,53102.38,EXPENSE,Belanja,Gopay
+2024-12-18,Konser,112592.22,EXPENSE,Hiburan,Gopay
+2024-12-18,Bioskop,94864.45,EXPENSE,Hiburan,Dompet Tunai
+2024-12-18,Es Teh,49851.36,EXPENSE,Makan & Minum,Gopay
+2024-12-18,Top Up Game,73247.48,EXPENSE,Hiburan,Dompet Tunai
+2024-12-18,Pizza,42987.67,EXPENSE,Makan & Minum,BCA
+2024-12-19,Keperluan Lain,10695.17,EXPENSE,Lain-lain,Gopay
+2024-12-19,Baju,189199.77,EXPENSE,Belanja,Dompet Tunai
+2024-12-19,Print Tugas,46685.54,EXPENSE,Lain-lain,Dompet Tunai
+2024-12-19,Keperluan Lain,25722.2,EXPENSE,Lain-lain,Dompet Tunai
+2024-12-19,Netflix,45138.07,EXPENSE,Tagihan,Gopay
+2024-12-19,Langganan Spotify,117324.76,EXPENSE,Tagihan,Dompet Tunai
+2024-12-19,Indomaret,71110.81,EXPENSE,Belanja,Gopay
+2024-12-19,Biaya Admin Bank,37421.4,EXPENSE,Tagihan,BCA
+2024-12-19,Gojek,34544.78,EXPENSE,Lain-lain,Gopay
+2024-12-19,Grab Motor,33801.07,EXPENSE,Lain-lain,Dompet Tunai
+2024-12-19,Shopee,70032.34,EXPENSE,Belanja,Dompet Tunai
+2024-12-19,Minimarket,179327.99,EXPENSE,Belanja,BCA
+2024-12-19,Baju,123383.34,EXPENSE,Belanja,BCA
+2024-12-20,Tokopedia,187976.39,EXPENSE,Belanja,BCA
+2024-12-20,Tiket Wahana,29699.61,EXPENSE,Hiburan,Dompet Tunai
+2024-12-20,Top Up OVO,145573.21,EXPENSE,Tagihan,BCA
+2024-12-20,Tiket Wahana,127856.03,EXPENSE,Hiburan,Dompet Tunai
+2024-12-21,Wifi Bulanan,5798.34,EXPENSE,Tagihan,Gopay
+2024-12-21,Sepatu,34903.52,EXPENSE,Belanja,BCA
+2024-12-21,Martabak,18710.56,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-21,Indomaret,90886.06,EXPENSE,Belanja,BCA
+2024-12-21,Biaya Admin Bank,88651.06,EXPENSE,Tagihan,BCA
+2024-12-21,Top Up OVO,120340.24,EXPENSE,Tagihan,BCA
+2024-12-21,Gym,61667.42,EXPENSE,Hiburan,BCA
+2024-12-21,Shopee,35271.85,EXPENSE,Belanja,BCA
+2024-12-22,Ongkos Angkot,4944.78,EXPENSE,Lain-lain,BCA
+2024-12-22,Freelance,1287745.08,INCOME,Gaji,BCA
+2024-12-22,Print Tugas,22871.71,EXPENSE,Lain-lain,Gopay
+2024-12-22,Top Up Game,121658.27,EXPENSE,Hiburan,Gopay
+2024-12-22,Warung Nasi,24952.1,EXPENSE,Makan & Minum,Gopay
+2024-12-22,Parkir,135030.99,EXPENSE,Tagihan,BCA
+2024-12-22,Baju,160498.07,EXPENSE,Belanja,Dompet Tunai
+2024-12-22,Gaji Part Time,704557.21,INCOME,Gaji,BCA
+2024-12-22,Bowling,70843.43,EXPENSE,Hiburan,BCA
+2024-12-22,Bowling,25567.65,EXPENSE,Hiburan,Dompet Tunai
+2024-12-22,Pizza,24173.75,EXPENSE,Makan & Minum,Gopay
+2024-12-22,ATM,30828.53,EXPENSE,Lain-lain,Dompet Tunai
+2024-12-23,Streaming Film,137730.87,EXPENSE,Hiburan,Gopay
+2024-12-23,Bowling,141664.2,EXPENSE,Hiburan,Gopay
+2024-12-23,Gojek,48242.93,EXPENSE,Lain-lain,Dompet Tunai
+2024-12-23,Karaoke,99884.43,EXPENSE,Hiburan,Dompet Tunai
+2024-12-23,Indomaret Snack,45933.21,EXPENSE,Makan & Minum,Gopay
+2024-12-23,Top Up Game,72805.49,EXPENSE,Hiburan,Gopay
+2024-12-24,Top Up Game,82074.43,EXPENSE,Hiburan,BCA
+2024-12-24,Indomaret,86464.52,EXPENSE,Belanja,BCA
+2024-12-24,Langganan Spotify,105363.39,EXPENSE,Tagihan,BCA
+2024-12-24,Pulsa,20214.88,EXPENSE,Tagihan,Gopay
+2024-12-24,Alfamart,148606.63,EXPENSE,Belanja,BCA
+2024-12-24,Game Online,106304.0,EXPENSE,Hiburan,BCA
+2024-12-25,Perlengkapan Kamar,196958.43,EXPENSE,Belanja,BCA
+2024-12-25,Shopee,39717.01,EXPENSE,Belanja,Gopay
+2024-12-25,Indomaret Snack,6832.8,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-25,Martabak,34641.21,EXPENSE,Makan & Minum,BCA
+2024-12-25,Game Online,91212.07,EXPENSE,Hiburan,Gopay
+2024-12-25,Indomaret Snack,19146.02,EXPENSE,Makan & Minum,BCA
+2024-12-25,Gojek,14381.2,EXPENSE,Lain-lain,Dompet Tunai
+2024-12-25,Minimarket,65046.34,EXPENSE,Belanja,BCA
+2024-12-26,Tokopedia,187201.57,EXPENSE,Belanja,Gopay
+2024-12-26,Kopi Kenangan,40993.49,EXPENSE,Makan & Minum,Gopay
+2024-12-26,Game Online,126541.97,EXPENSE,Hiburan,Gopay
+2024-12-26,Martabak,28983.1,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-26,Es Teh,23156.73,EXPENSE,Makan & Minum,BCA
+2024-12-26,Baju,34621.03,EXPENSE,Belanja,Dompet Tunai
+2024-12-26,Bioskop,35832.94,EXPENSE,Hiburan,Gopay
+2024-12-26,Iuran Bulanan,134644.38,EXPENSE,Tagihan,Dompet Tunai
+2024-12-26,Gym,76354.63,EXPENSE,Hiburan,Gopay
+2024-12-26,Game Online,65569.26,EXPENSE,Hiburan,Gopay
+2024-12-26,Top Up OVO,79292.75,EXPENSE,Tagihan,Gopay
+2024-12-26,Iuran Kebersihan,120022.9,EXPENSE,Tagihan,BCA
+2024-12-27,Shopee,166508.6,EXPENSE,Belanja,BCA
+2024-12-27,Donasi,5492.62,EXPENSE,Lain-lain,BCA
+2024-12-28,Baju,59896.63,EXPENSE,Belanja,Dompet Tunai
+2024-12-28,Biaya Admin Bank,132451.94,EXPENSE,Tagihan,BCA
+2024-12-28,Mie Ayam,18380.71,EXPENSE,Makan & Minum,BCA
+2024-12-28,GoFood,24443.46,EXPENSE,Makan & Minum,Dompet Tunai
+2024-12-28,Konser,112321.45,EXPENSE,Hiburan,BCA
+2024-12-29,Streaming Film,38190.93,EXPENSE,Hiburan,BCA
+2024-12-29,Mie Ayam,5942.52,EXPENSE,Makan & Minum,Gopay
+2024-12-30,Perlengkapan Kamar,82866.6,EXPENSE,Belanja,BCA
+2024-12-30,Nasi Padang,13034.51,EXPENSE,Makan & Minum,BCA
+2024-12-30,GrabFood,49859.34,EXPENSE,Makan & Minum,BCA
+2024-12-30,Iuran Bulanan,25424.27,EXPENSE,Tagihan,BCA
+2024-12-30,Keperluan Lain,18236.84,EXPENSE,Lain-lain,BCA
+2024-12-30,Iuran Kebersihan,31183.43,EXPENSE,Tagihan,Gopay
+2024-12-30,ATM,5811.52,EXPENSE,Lain-lain,BCA
+2024-12-31,Listrik Kos,87128.67,EXPENSE,Tagihan,Dompet Tunai
+2024-12-31,Nasi Padang,48641.95,EXPENSE,Makan & Minum,BCA
+2024-12-31,Wifi Bulanan,94944.88,EXPENSE,Tagihan,BCA

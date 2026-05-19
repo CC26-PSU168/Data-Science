@@ -1,0 +1,1201 @@
+Date,Title,Amount,Type,Category,Account
+2025-07-01,Parkir,15907.28,EXPENSE,Tagihan,Gopay
+2025-07-01,Iuran Bulanan,12793.08,EXPENSE,Tagihan,BCA
+2025-07-01,Lain-lain,695.24,EXPENSE,Uncategorized,Gopay
+2025-07-01,Streaming,13464.1,EXPENSE,Hiburan,Dompet Tunai
+2025-07-01,Warung Nasi,17475.95,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-02,Internet,11967.09,EXPENSE,Tagihan,Gopay
+2025-07-02,Gofood,12037.66,EXPENSE,Makan & Minum,BCA
+2025-07-02,Tissue,12307.09,EXPENSE,Belanja,BCA
+2025-07-02,Alfamart,16031.74,EXPENSE,Belanja,Dompet Tunai
+2025-07-02,Bioskop,8930.56,EXPENSE,Hiburan,Dompet Tunai
+2025-07-02,Iuran Bulanan,1011.65,EXPENSE,Tagihan,BCA
+2025-07-03,Streaming,4068.55,EXPENSE,Hiburan,BCA
+2025-07-03,Makan Siang,17301.34,EXPENSE,Makan & Minum,BCA
+2025-07-03,Tissue,273.11,EXPENSE,Belanja,Dompet Tunai
+2025-07-03,Belanja Mingguan,8251.71,EXPENSE,Belanja,BCA
+2025-07-03,Lain-lain,14623.24,EXPENSE,Uncategorized,Gopay
+2025-07-04,Parkir,8722.01,EXPENSE,Tagihan,Dompet Tunai
+2025-07-04,Streaming,5265.33,EXPENSE,Hiburan,Gopay
+2025-07-04,Cemilan,13467.9,EXPENSE,Makan & Minum,BCA
+2025-07-04,Belanja Mingguan,224.99,EXPENSE,Belanja,BCA
+2025-07-04,Bonus,223016.47,INCOME,Gaji,Gopay
+2025-07-04,Biaya Admin,8005.71,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-05,Internet,12773.71,EXPENSE,Tagihan,Dompet Tunai
+2025-07-05,Jajan Sore,6691.51,EXPENSE,Makan & Minum,BCA
+2025-07-05,Top up Game,11737.77,EXPENSE,Hiburan,Dompet Tunai
+2025-07-05,Biaya Admin,18706.61,EXPENSE,Uncategorized,Gopay
+2025-07-05,Investasi,138872.97,INCOME,Goals,Gopay
+2025-07-06,Lain-lain,717.18,EXPENSE,Uncategorized,Gopay
+2025-07-06,Cemilan,12173.07,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-06,Cashback,152411.12,INCOME,Goals,Gopay
+2025-07-06,Gofood,15600.68,EXPENSE,Makan & Minum,Gopay
+2025-07-06,Bunga Bank,2515.05,INCOME,Goals,BCA
+2025-07-06,Biaya Admin,12878.13,EXPENSE,Uncategorized,Gopay
+2025-07-06,Air,10279.4,EXPENSE,Tagihan,Dompet Tunai
+2025-07-07,BPJS,1421.23,EXPENSE,Tagihan,Dompet Tunai
+2025-07-07,Tissue,7053.63,EXPENSE,Belanja,Gopay
+2025-07-07,Streaming,6590.45,EXPENSE,Hiburan,Gopay
+2025-07-07,Jajan Sore,5344.78,EXPENSE,Makan & Minum,BCA
+2025-07-08,Bonus,182199.91,INCOME,Gaji,Dompet Tunai
+2025-07-08,Lain-lain,17626.93,EXPENSE,Uncategorized,BCA
+2025-07-08,Belanja Mingguan,17338.67,EXPENSE,Belanja,Dompet Tunai
+2025-07-08,Pulsa,9727.48,EXPENSE,Tagihan,Gopay
+2025-07-08,Lain-lain,14529.19,EXPENSE,Uncategorized,BCA
+2025-07-08,Insentif,288724.05,INCOME,Gaji,Gopay
+2025-07-08,Kopi Pagi,2260.95,EXPENSE,Makan & Minum,Gopay
+2025-07-08,Tabungan,301345.76,INCOME,Goals,Gopay
+2025-07-09,Pulsa,707.91,EXPENSE,Tagihan,Gopay
+2025-07-09,Biaya Admin,18167.82,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-09,Main Ke Mall,674.53,EXPENSE,Hiburan,Dompet Tunai
+2025-07-09,Cashback,96762.6,INCOME,Goals,Dompet Tunai
+2025-07-09,Top up Game,4435.15,EXPENSE,Hiburan,Gopay
+2025-07-09,Indomaret,14087.36,EXPENSE,Belanja,Dompet Tunai
+2025-07-09,Makan Malam,8125.51,EXPENSE,Makan & Minum,BCA
+2025-07-09,Lain-lain,9163.92,EXPENSE,Uncategorized,Gopay
+2025-07-09,Main Ke Mall,6245.77,EXPENSE,Hiburan,Gopay
+2025-07-09,Bioskop,14796.85,EXPENSE,Hiburan,Gopay
+2025-07-09,Kopi Pagi,13736.55,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-10,Top up Game,1011.87,EXPENSE,Hiburan,Dompet Tunai
+2025-07-10,Alfamart,7142.81,EXPENSE,Belanja,BCA
+2025-07-10,Makan Siang,15052.57,EXPENSE,Makan & Minum,BCA
+2025-07-10,Biaya Admin,14808.78,EXPENSE,Uncategorized,BCA
+2025-07-10,Listrik,14867.81,EXPENSE,Tagihan,Dompet Tunai
+2025-07-10,Makan Siang,2406.07,EXPENSE,Makan & Minum,Gopay
+2025-07-11,Kebutuhan Pokok,13097.64,EXPENSE,Belanja,Gopay
+2025-07-11,Makan Siang,2889.72,EXPENSE,Makan & Minum,Gopay
+2025-07-11,Bioskop,18422.46,EXPENSE,Hiburan,Gopay
+2025-07-11,Cemilan,17876.34,EXPENSE,Makan & Minum,BCA
+2025-07-11,Parkir,12010.23,EXPENSE,Tagihan,BCA
+2025-07-11,Makan Malam,9932.47,EXPENSE,Makan & Minum,BCA
+2025-07-11,Cemilan,31.42,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-11,Kopi Pagi,10863.05,EXPENSE,Makan & Minum,BCA
+2025-07-11,Jajan Sore,9234.28,EXPENSE,Makan & Minum,Gopay
+2025-07-11,Iuran Bulanan,18799.88,EXPENSE,Tagihan,BCA
+2025-07-12,Main Ke Mall,9528.9,EXPENSE,Hiburan,Dompet Tunai
+2025-07-12,Lain-lain,9805.56,EXPENSE,Uncategorized,Gopay
+2025-07-12,Cemilan,301.06,EXPENSE,Makan & Minum,Gopay
+2025-07-12,Indomaret,17346.89,EXPENSE,Belanja,Dompet Tunai
+2025-07-13,Lain-lain,10264.86,EXPENSE,Uncategorized,Gopay
+2025-07-13,Biaya Admin,17274.22,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-13,Lain-lain,1429.26,EXPENSE,Uncategorized,Gopay
+2025-07-13,Makan Siang,18556.96,EXPENSE,Makan & Minum,Gopay
+2025-07-13,Biaya Admin,18583.68,EXPENSE,Uncategorized,BCA
+2025-07-14,Internet,3361.5,EXPENSE,Tagihan,BCA
+2025-07-14,Lain-lain,12253.81,EXPENSE,Uncategorized,BCA
+2025-07-14,Kopi Pagi,10746.73,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-14,Lain-lain,729.13,EXPENSE,Uncategorized,BCA
+2025-07-14,Top up Game,10919.66,EXPENSE,Hiburan,Dompet Tunai
+2025-07-14,Top up Game,17562.86,EXPENSE,Hiburan,Dompet Tunai
+2025-07-14,Biaya Admin,15815.72,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-14,Biaya Admin,14941.64,EXPENSE,Uncategorized,BCA
+2025-07-15,Cemilan,1891.3,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-15,Streaming,7325.01,EXPENSE,Hiburan,Dompet Tunai
+2025-07-15,Streaming,570.76,EXPENSE,Hiburan,Dompet Tunai
+2025-07-16,Internet,15954.78,EXPENSE,Tagihan,Dompet Tunai
+2025-07-16,Kebutuhan Pokok,4316.24,EXPENSE,Belanja,BCA
+2025-07-16,Lain-lain,7812.34,EXPENSE,Uncategorized,Gopay
+2025-07-16,Makan Siang,2246.5,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-16,Tabungan,138679.77,INCOME,Goals,BCA
+2025-07-17,Internet,2469.25,EXPENSE,Tagihan,BCA
+2025-07-17,Lain-lain,13946.07,EXPENSE,Uncategorized,Gopay
+2025-07-17,Alfamart,17649.41,EXPENSE,Belanja,Gopay
+2025-07-18,Top up Game,14347.37,EXPENSE,Hiburan,BCA
+2025-07-18,Indomaret,2296.74,EXPENSE,Belanja,BCA
+2025-07-18,Sabun,6171.08,EXPENSE,Belanja,Dompet Tunai
+2025-07-19,Iuran Bulanan,7542.59,EXPENSE,Tagihan,BCA
+2025-07-19,Lain-lain,19106.26,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-19,Cemilan,4188.52,EXPENSE,Makan & Minum,Gopay
+2025-07-19,Listrik,9261.0,EXPENSE,Tagihan,BCA
+2025-07-19,Jajan Sore,17760.26,EXPENSE,Makan & Minum,BCA
+2025-07-19,Gaji Bulanan,128828.96,INCOME,Gaji,Gopay
+2025-07-19,Kebutuhan Pokok,13358.49,EXPENSE,Belanja,Gopay
+2025-07-19,Lain-lain,6173.27,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-19,Gaji Bulanan,124085.27,INCOME,Gaji,Gopay
+2025-07-19,Bioskop,1442.17,EXPENSE,Hiburan,Gopay
+2025-07-19,Insentif,218738.66,INCOME,Gaji,Gopay
+2025-07-20,Biaya Admin,18063.03,EXPENSE,Uncategorized,Gopay
+2025-07-20,Bioskop,6889.57,EXPENSE,Hiburan,Gopay
+2025-07-20,Kebutuhan Pokok,6079.85,EXPENSE,Belanja,BCA
+2025-07-20,Makan Siang,9116.48,EXPENSE,Makan & Minum,BCA
+2025-07-20,Bunga Bank,132353.74,INCOME,Goals,BCA
+2025-07-20,Biaya Admin,419.35,EXPENSE,Uncategorized,BCA
+2025-07-20,Gofood,709.78,EXPENSE,Makan & Minum,BCA
+2025-07-20,Lain-lain,7559.83,EXPENSE,Uncategorized,BCA
+2025-07-20,Top up Game,8068.47,EXPENSE,Hiburan,Gopay
+2025-07-20,Kopi Pagi,2334.42,EXPENSE,Makan & Minum,Gopay
+2025-07-21,Streaming,1128.87,EXPENSE,Hiburan,Dompet Tunai
+2025-07-21,BPJS,14183.93,EXPENSE,Tagihan,BCA
+2025-07-21,Kebutuhan Pokok,2704.31,EXPENSE,Belanja,Dompet Tunai
+2025-07-21,Jajan Sore,10284.89,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-21,Kopi Pagi,9134.68,EXPENSE,Makan & Minum,BCA
+2025-07-22,Parkir,17551.74,EXPENSE,Tagihan,BCA
+2025-07-22,Kopi Pagi,2747.46,EXPENSE,Makan & Minum,Gopay
+2025-07-22,Lain-lain,9218.47,EXPENSE,Uncategorized,BCA
+2025-07-23,Gofood,16075.49,EXPENSE,Makan & Minum,BCA
+2025-07-23,Sabun,16401.48,EXPENSE,Belanja,BCA
+2025-07-23,Listrik,17022.26,EXPENSE,Tagihan,Gopay
+2025-07-23,Gofood,13011.41,EXPENSE,Makan & Minum,Gopay
+2025-07-23,Jajan Sore,12790.89,EXPENSE,Makan & Minum,BCA
+2025-07-23,Streaming,1653.61,EXPENSE,Hiburan,Gopay
+2025-07-23,Makan Malam,7293.68,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-23,Top up Game,1808.95,EXPENSE,Hiburan,BCA
+2025-07-23,Tabungan,48359.63,INCOME,Goals,BCA
+2025-07-23,Lain-lain,615.13,EXPENSE,Uncategorized,Gopay
+2025-07-23,Tissue,19053.65,EXPENSE,Belanja,BCA
+2025-07-23,Lain-lain,14206.7,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-24,Tissue,7132.51,EXPENSE,Belanja,Dompet Tunai
+2025-07-24,Warung Nasi,12076.34,EXPENSE,Makan & Minum,Gopay
+2025-07-24,Listrik,18747.02,EXPENSE,Tagihan,BCA
+2025-07-24,Kopi Pagi,1637.82,EXPENSE,Makan & Minum,BCA
+2025-07-24,Tissue,2022.79,EXPENSE,Belanja,BCA
+2025-07-24,Sabun,15758.15,EXPENSE,Belanja,Gopay
+2025-07-24,Makan Siang,2800.91,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-24,Main Ke Mall,17419.85,EXPENSE,Hiburan,Gopay
+2025-07-25,Cemilan,17538.28,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-25,Indomaret,16142.74,EXPENSE,Belanja,Gopay
+2025-07-25,Biaya Admin,13495.11,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-25,Cemilan,14250.07,EXPENSE,Makan & Minum,Gopay
+2025-07-26,Pulsa,7639.64,EXPENSE,Tagihan,BCA
+2025-07-26,Warung Nasi,12248.51,EXPENSE,Makan & Minum,Gopay
+2025-07-26,Lain-lain,5320.55,EXPENSE,Uncategorized,BCA
+2025-07-26,Warung Nasi,12941.95,EXPENSE,Makan & Minum,Gopay
+2025-07-26,Bioskop,4773.07,EXPENSE,Hiburan,BCA
+2025-07-26,Alfamart,8256.44,EXPENSE,Belanja,Gopay
+2025-07-26,Investasi,223898.38,INCOME,Goals,Gopay
+2025-07-27,Kebutuhan Pokok,12583.36,EXPENSE,Belanja,BCA
+2025-07-27,Belanja Mingguan,10389.19,EXPENSE,Belanja,Gopay
+2025-07-27,Lain-lain,6198.8,EXPENSE,Uncategorized,Gopay
+2025-07-27,Jajan Sore,12085.53,EXPENSE,Makan & Minum,Gopay
+2025-07-27,Iuran Bulanan,2122.05,EXPENSE,Tagihan,Dompet Tunai
+2025-07-27,Gaji Bulanan,115132.4,INCOME,Gaji,Gopay
+2025-07-27,Lain-lain,5612.07,EXPENSE,Uncategorized,Gopay
+2025-07-27,Tabungan,14409.77,INCOME,Goals,Dompet Tunai
+2025-07-28,Biaya Admin,13984.68,EXPENSE,Uncategorized,Gopay
+2025-07-28,Makan Malam,9095.79,EXPENSE,Makan & Minum,Gopay
+2025-07-28,Makan Siang,7556.6,EXPENSE,Makan & Minum,BCA
+2025-07-28,Indomaret,9393.82,EXPENSE,Belanja,Gopay
+2025-07-28,Top up Game,3516.29,EXPENSE,Hiburan,Dompet Tunai
+2025-07-28,Tabungan,17381.75,INCOME,Goals,BCA
+2025-07-28,Sabun,11283.95,EXPENSE,Belanja,Gopay
+2025-07-28,Biaya Admin,11689.73,EXPENSE,Uncategorized,Gopay
+2025-07-29,Jajan Sore,11011.28,EXPENSE,Makan & Minum,Dompet Tunai
+2025-07-29,Lain-lain,15697.22,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-29,Kebutuhan Pokok,15394.34,EXPENSE,Belanja,BCA
+2025-07-29,Top up Game,17746.39,EXPENSE,Hiburan,Dompet Tunai
+2025-07-29,Biaya Admin,12306.93,EXPENSE,Uncategorized,Gopay
+2025-07-29,Lain-lain,1807.59,EXPENSE,Uncategorized,BCA
+2025-07-29,Alfamart,18939.21,EXPENSE,Belanja,Dompet Tunai
+2025-07-30,Belanja Mingguan,14987.46,EXPENSE,Belanja,Gopay
+2025-07-30,Streaming,18292.12,EXPENSE,Hiburan,Gopay
+2025-07-30,Kopi Pagi,5669.72,EXPENSE,Makan & Minum,Gopay
+2025-07-30,Jajan Sore,11955.43,EXPENSE,Makan & Minum,Gopay
+2025-07-31,Listrik,17679.71,EXPENSE,Tagihan,BCA
+2025-07-31,Makan Malam,9108.32,EXPENSE,Makan & Minum,Gopay
+2025-07-31,Main Ke Mall,14284.37,EXPENSE,Hiburan,Dompet Tunai
+2025-07-31,Gaji Bulanan,18931.45,INCOME,Gaji,Dompet Tunai
+2025-07-31,Gaji Bulanan,256997.29,INCOME,Gaji,Dompet Tunai
+2025-07-31,BPJS,854.04,EXPENSE,Tagihan,Gopay
+2025-07-31,Lain-lain,6929.34,EXPENSE,Uncategorized,Dompet Tunai
+2025-07-31,Biaya Admin,12801.47,EXPENSE,Uncategorized,Gopay
+2025-07-31,Belanja Mingguan,16193.75,EXPENSE,Belanja,BCA
+2025-08-01,Belanja Mingguan,105.0,EXPENSE,Belanja,Gopay
+2025-08-01,Bioskop,14562.48,EXPENSE,Hiburan,Gopay
+2025-08-01,Cemilan,18354.22,EXPENSE,Makan & Minum,Gopay
+2025-08-01,Alfamart,2929.25,EXPENSE,Belanja,Gopay
+2025-08-01,Top up Game,12574.83,EXPENSE,Hiburan,Dompet Tunai
+2025-08-01,Cashback,46114.13,INCOME,Goals,Gopay
+2025-08-01,Biaya Admin,17342.64,EXPENSE,Uncategorized,BCA
+2025-08-01,BPJS,13388.68,EXPENSE,Tagihan,Gopay
+2025-08-01,Gaji Bulanan,169104.93,INCOME,Gaji,Gopay
+2025-08-02,Jajan Sore,16767.87,EXPENSE,Makan & Minum,BCA
+2025-08-02,Pulsa,17295.57,EXPENSE,Tagihan,BCA
+2025-08-02,Gofood,3121.83,EXPENSE,Makan & Minum,Gopay
+2025-08-02,Gaji Bulanan,150535.06,INCOME,Gaji,Dompet Tunai
+2025-08-02,Alfamart,9738.21,EXPENSE,Belanja,BCA
+2025-08-02,Gofood,8464.99,EXPENSE,Makan & Minum,Gopay
+2025-08-02,Parkir,15950.43,EXPENSE,Tagihan,Dompet Tunai
+2025-08-03,Bioskop,10176.85,EXPENSE,Hiburan,Gopay
+2025-08-03,Alfamart,2208.25,EXPENSE,Belanja,Dompet Tunai
+2025-08-03,Lain-lain,4647.73,EXPENSE,Uncategorized,Gopay
+2025-08-03,Internet,8444.67,EXPENSE,Tagihan,BCA
+2025-08-03,Lain-lain,4905.02,EXPENSE,Uncategorized,Gopay
+2025-08-03,Alfamart,4522.27,EXPENSE,Belanja,Dompet Tunai
+2025-08-04,Makan Malam,11035.25,EXPENSE,Makan & Minum,Dompet Tunai
+2025-08-04,Internet,17376.82,EXPENSE,Tagihan,Gopay
+2025-08-04,Main Ke Mall,3797.41,EXPENSE,Hiburan,BCA
+2025-08-04,Main Ke Mall,10222.52,EXPENSE,Hiburan,Dompet Tunai
+2025-08-05,Parkir,4869.68,EXPENSE,Tagihan,BCA
+2025-08-05,Lain-lain,16216.67,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-05,Lain-lain,1293.11,EXPENSE,Uncategorized,BCA
+2025-08-05,Bunga Bank,56791.0,INCOME,Goals,BCA
+2025-08-05,Bonus,172129.47,INCOME,Gaji,Gopay
+2025-08-05,Internet,11136.38,EXPENSE,Tagihan,Gopay
+2025-08-05,Biaya Admin,6669.6,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-06,Freelance Project,39796.51,INCOME,Gaji,BCA
+2025-08-06,Top up Game,4465.51,EXPENSE,Hiburan,Gopay
+2025-08-06,Top up Game,1951.49,EXPENSE,Hiburan,BCA
+2025-08-06,Cemilan,7021.27,EXPENSE,Makan & Minum,Dompet Tunai
+2025-08-06,Indomaret,14050.51,EXPENSE,Belanja,BCA
+2025-08-07,Bioskop,7885.37,EXPENSE,Hiburan,BCA
+2025-08-07,Air,3415.65,EXPENSE,Tagihan,Dompet Tunai
+2025-08-07,BPJS,1812.02,EXPENSE,Tagihan,Gopay
+2025-08-07,Tissue,12042.71,EXPENSE,Belanja,BCA
+2025-08-07,Main Ke Mall,11786.71,EXPENSE,Hiburan,Gopay
+2025-08-07,Sabun,15604.96,EXPENSE,Belanja,BCA
+2025-08-07,Iuran Bulanan,7314.4,EXPENSE,Tagihan,Gopay
+2025-08-07,Jajan Sore,4020.02,EXPENSE,Makan & Minum,Dompet Tunai
+2025-08-07,Listrik,8685.0,EXPENSE,Tagihan,BCA
+2025-08-08,Pulsa,11227.91,EXPENSE,Tagihan,Dompet Tunai
+2025-08-08,Iuran Bulanan,6957.84,EXPENSE,Tagihan,Dompet Tunai
+2025-08-08,Kopi Pagi,9176.42,EXPENSE,Makan & Minum,Gopay
+2025-08-08,Iuran Bulanan,258.77,EXPENSE,Tagihan,BCA
+2025-08-08,Iuran Bulanan,7602.71,EXPENSE,Tagihan,BCA
+2025-08-08,Kebutuhan Pokok,12152.85,EXPENSE,Belanja,Gopay
+2025-08-09,Biaya Admin,9565.17,EXPENSE,Uncategorized,BCA
+2025-08-09,Biaya Admin,2641.09,EXPENSE,Uncategorized,Gopay
+2025-08-09,Lain-lain,8818.28,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-09,Biaya Admin,9520.22,EXPENSE,Uncategorized,BCA
+2025-08-09,Streaming,10691.42,EXPENSE,Hiburan,Dompet Tunai
+2025-08-09,Tissue,14950.3,EXPENSE,Belanja,Dompet Tunai
+2025-08-09,Listrik,1703.39,EXPENSE,Tagihan,BCA
+2025-08-09,Insentif,74822.24,INCOME,Gaji,Gopay
+2025-08-10,Sabun,13182.23,EXPENSE,Belanja,Gopay
+2025-08-10,Iuran Bulanan,5753.76,EXPENSE,Tagihan,Gopay
+2025-08-10,Parkir,14602.32,EXPENSE,Tagihan,Gopay
+2025-08-10,Warung Nasi,16972.88,EXPENSE,Makan & Minum,Gopay
+2025-08-11,Bioskop,7691.1,EXPENSE,Hiburan,BCA
+2025-08-11,Lain-lain,4990.95,EXPENSE,Uncategorized,BCA
+2025-08-11,Bioskop,10760.35,EXPENSE,Hiburan,Gopay
+2025-08-11,Pulsa,14978.41,EXPENSE,Tagihan,Dompet Tunai
+2025-08-12,Tissue,2060.57,EXPENSE,Belanja,BCA
+2025-08-12,Kebutuhan Pokok,17387.97,EXPENSE,Belanja,Dompet Tunai
+2025-08-12,Main Ke Mall,4649.97,EXPENSE,Hiburan,Dompet Tunai
+2025-08-12,Biaya Admin,89.19,EXPENSE,Uncategorized,BCA
+2025-08-12,Biaya Admin,11234.14,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-12,Cemilan,19256.55,EXPENSE,Makan & Minum,Gopay
+2025-08-12,Biaya Admin,16610.85,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-13,Kebutuhan Pokok,18831.99,EXPENSE,Belanja,Gopay
+2025-08-13,Air,5376.59,EXPENSE,Tagihan,Dompet Tunai
+2025-08-13,Streaming,14405.99,EXPENSE,Hiburan,Gopay
+2025-08-13,Makan Siang,4647.96,EXPENSE,Makan & Minum,BCA
+2025-08-13,Kebutuhan Pokok,16084.27,EXPENSE,Belanja,Gopay
+2025-08-13,Lain-lain,16966.75,EXPENSE,Uncategorized,Gopay
+2025-08-13,Warung Nasi,16966.9,EXPENSE,Makan & Minum,BCA
+2025-08-13,Main Ke Mall,2072.89,EXPENSE,Hiburan,Gopay
+2025-08-13,Top up Game,12984.33,EXPENSE,Hiburan,BCA
+2025-08-14,Pulsa,9913.27,EXPENSE,Tagihan,Gopay
+2025-08-14,Iuran Bulanan,2187.09,EXPENSE,Tagihan,BCA
+2025-08-14,Investasi,133487.03,INCOME,Goals,BCA
+2025-08-14,Insentif,216602.46,INCOME,Gaji,Gopay
+2025-08-14,Makan Malam,324.71,EXPENSE,Makan & Minum,BCA
+2025-08-15,Indomaret,7086.98,EXPENSE,Belanja,BCA
+2025-08-15,BPJS,1748.92,EXPENSE,Tagihan,Dompet Tunai
+2025-08-15,Lain-lain,17898.71,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-15,Kebutuhan Pokok,16298.94,EXPENSE,Belanja,Gopay
+2025-08-15,Jajan Sore,16884.69,EXPENSE,Makan & Minum,Gopay
+2025-08-15,Gaji Bulanan,233267.01,INCOME,Gaji,Gopay
+2025-08-15,Main Ke Mall,10761.04,EXPENSE,Hiburan,Dompet Tunai
+2025-08-15,Investasi,143405.42,INCOME,Goals,BCA
+2025-08-15,Listrik,8590.96,EXPENSE,Tagihan,Gopay
+2025-08-16,Listrik,1423.52,EXPENSE,Tagihan,Dompet Tunai
+2025-08-16,Biaya Admin,1358.48,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-16,Indomaret,17042.85,EXPENSE,Belanja,Dompet Tunai
+2025-08-16,Alfamart,12520.56,EXPENSE,Belanja,Dompet Tunai
+2025-08-17,Parkir,11989.36,EXPENSE,Tagihan,Dompet Tunai
+2025-08-17,Bonus,46272.32,INCOME,Gaji,Gopay
+2025-08-17,Freelance Project,210925.7,INCOME,Gaji,Gopay
+2025-08-17,Top up Game,15847.47,EXPENSE,Hiburan,BCA
+2025-08-17,Bioskop,12028.03,EXPENSE,Hiburan,BCA
+2025-08-18,Alfamart,8809.7,EXPENSE,Belanja,Dompet Tunai
+2025-08-18,Cemilan,10395.92,EXPENSE,Makan & Minum,Dompet Tunai
+2025-08-18,Iuran Bulanan,11153.35,EXPENSE,Tagihan,BCA
+2025-08-19,Biaya Admin,16056.65,EXPENSE,Uncategorized,Gopay
+2025-08-19,Pulsa,5311.01,EXPENSE,Tagihan,Gopay
+2025-08-19,Makan Malam,9519.11,EXPENSE,Makan & Minum,Gopay
+2025-08-19,Top up Game,9797.79,EXPENSE,Hiburan,Gopay
+2025-08-19,Streaming,3867.09,EXPENSE,Hiburan,BCA
+2025-08-19,Parkir,15073.63,EXPENSE,Tagihan,BCA
+2025-08-19,Bioskop,6218.75,EXPENSE,Hiburan,BCA
+2025-08-19,Gofood,13446.29,EXPENSE,Makan & Minum,BCA
+2025-08-20,Makan Siang,18573.25,EXPENSE,Makan & Minum,BCA
+2025-08-20,Lain-lain,15405.97,EXPENSE,Uncategorized,Gopay
+2025-08-20,Makan Siang,3228.53,EXPENSE,Makan & Minum,Gopay
+2025-08-20,Top up Game,8221.2,EXPENSE,Hiburan,Gopay
+2025-08-20,Bioskop,3849.1,EXPENSE,Hiburan,Gopay
+2025-08-20,Pulsa,3666.51,EXPENSE,Tagihan,Gopay
+2025-08-21,Belanja Mingguan,15942.75,EXPENSE,Belanja,Dompet Tunai
+2025-08-21,Tissue,306.97,EXPENSE,Belanja,Dompet Tunai
+2025-08-21,Biaya Admin,15293.46,EXPENSE,Uncategorized,BCA
+2025-08-21,Kebutuhan Pokok,11084.71,EXPENSE,Belanja,BCA
+2025-08-21,Makan Siang,16766.15,EXPENSE,Makan & Minum,BCA
+2025-08-21,Biaya Admin,17130.23,EXPENSE,Uncategorized,BCA
+2025-08-22,Tissue,1066.5,EXPENSE,Belanja,BCA
+2025-08-22,Lain-lain,13019.96,EXPENSE,Uncategorized,Gopay
+2025-08-22,Indomaret,1863.54,EXPENSE,Belanja,Dompet Tunai
+2025-08-22,Parkir,4380.98,EXPENSE,Tagihan,BCA
+2025-08-22,Streaming,4189.67,EXPENSE,Hiburan,Gopay
+2025-08-22,Alfamart,8503.48,EXPENSE,Belanja,Gopay
+2025-08-23,Tissue,11113.33,EXPENSE,Belanja,Gopay
+2025-08-23,Parkir,8162.81,EXPENSE,Tagihan,Gopay
+2025-08-23,Top up Game,2905.22,EXPENSE,Hiburan,BCA
+2025-08-23,Cashback,111281.52,INCOME,Goals,Dompet Tunai
+2025-08-23,Sabun,5096.28,EXPENSE,Belanja,BCA
+2025-08-24,Main Ke Mall,13861.42,EXPENSE,Hiburan,BCA
+2025-08-24,Gofood,6140.68,EXPENSE,Makan & Minum,BCA
+2025-08-24,Gofood,7424.93,EXPENSE,Makan & Minum,Gopay
+2025-08-24,Kopi Pagi,8906.85,EXPENSE,Makan & Minum,Gopay
+2025-08-25,Biaya Admin,7598.29,EXPENSE,Uncategorized,BCA
+2025-08-25,Belanja Mingguan,7239.63,EXPENSE,Belanja,Dompet Tunai
+2025-08-25,Bioskop,8995.27,EXPENSE,Hiburan,Dompet Tunai
+2025-08-25,Air,1848.28,EXPENSE,Tagihan,BCA
+2025-08-25,Alfamart,7376.56,EXPENSE,Belanja,Dompet Tunai
+2025-08-25,Makan Siang,13909.85,EXPENSE,Makan & Minum,Gopay
+2025-08-25,Parkir,8501.8,EXPENSE,Tagihan,Gopay
+2025-08-25,Main Ke Mall,2620.47,EXPENSE,Hiburan,BCA
+2025-08-25,Investasi,226017.29,INCOME,Goals,BCA
+2025-08-25,Air,4003.08,EXPENSE,Tagihan,Gopay
+2025-08-25,Bunga Bank,109813.07,INCOME,Goals,Gopay
+2025-08-25,Lain-lain,8467.74,EXPENSE,Uncategorized,BCA
+2025-08-26,Pulsa,13558.14,EXPENSE,Tagihan,Dompet Tunai
+2025-08-26,Belanja Mingguan,11063.17,EXPENSE,Belanja,BCA
+2025-08-26,Kebutuhan Pokok,17481.86,EXPENSE,Belanja,Gopay
+2025-08-26,Main Ke Mall,15639.66,EXPENSE,Hiburan,Dompet Tunai
+2025-08-27,Bioskop,14804.23,EXPENSE,Hiburan,BCA
+2025-08-27,Listrik,17238.33,EXPENSE,Tagihan,Gopay
+2025-08-27,Lain-lain,8492.08,EXPENSE,Uncategorized,Gopay
+2025-08-27,Iuran Bulanan,10879.46,EXPENSE,Tagihan,BCA
+2025-08-27,Kopi Pagi,3846.03,EXPENSE,Makan & Minum,BCA
+2025-08-27,Top up Game,10668.52,EXPENSE,Hiburan,Gopay
+2025-08-27,Indomaret,3414.72,EXPENSE,Belanja,BCA
+2025-08-28,Internet,6134.18,EXPENSE,Tagihan,Dompet Tunai
+2025-08-28,Alfamart,8589.22,EXPENSE,Belanja,Gopay
+2025-08-28,Parkir,5718.72,EXPENSE,Tagihan,Gopay
+2025-08-28,Biaya Admin,5140.27,EXPENSE,Uncategorized,Dompet Tunai
+2025-08-28,Pulsa,19129.36,EXPENSE,Tagihan,Gopay
+2025-08-28,Air,3026.55,EXPENSE,Tagihan,Dompet Tunai
+2025-08-28,Alfamart,11592.37,EXPENSE,Belanja,BCA
+2025-08-28,Cemilan,14553.32,EXPENSE,Makan & Minum,Gopay
+2025-08-28,Lain-lain,6333.46,EXPENSE,Uncategorized,BCA
+2025-08-28,Cemilan,74.31,EXPENSE,Makan & Minum,BCA
+2025-08-28,Bioskop,12988.67,EXPENSE,Hiburan,BCA
+2025-08-28,Sabun,18564.47,EXPENSE,Belanja,Gopay
+2025-08-28,Bunga Bank,29715.98,INCOME,Goals,BCA
+2025-08-28,Kebutuhan Pokok,9269.68,EXPENSE,Belanja,Dompet Tunai
+2025-08-28,Listrik,5677.23,EXPENSE,Tagihan,BCA
+2025-08-29,Investasi,215183.23,INCOME,Goals,BCA
+2025-08-29,Gaji Bulanan,198201.54,INCOME,Gaji,Dompet Tunai
+2025-08-29,Biaya Admin,17698.72,EXPENSE,Uncategorized,Gopay
+2025-08-29,Bioskop,2867.03,EXPENSE,Hiburan,BCA
+2025-08-29,Kebutuhan Pokok,3008.47,EXPENSE,Belanja,BCA
+2025-08-29,Top up Game,7535.41,EXPENSE,Hiburan,BCA
+2025-08-30,Top up Game,11497.42,EXPENSE,Hiburan,Gopay
+2025-08-30,Kebutuhan Pokok,10698.08,EXPENSE,Belanja,Dompet Tunai
+2025-08-30,Parkir,13608.49,EXPENSE,Tagihan,Gopay
+2025-08-30,Belanja Mingguan,11241.57,EXPENSE,Belanja,BCA
+2025-08-30,Top up Game,9993.29,EXPENSE,Hiburan,BCA
+2025-08-30,Bunga Bank,221643.09,INCOME,Goals,Gopay
+2025-08-30,Streaming,17890.38,EXPENSE,Hiburan,Dompet Tunai
+2025-08-30,Main Ke Mall,13299.59,EXPENSE,Hiburan,Dompet Tunai
+2025-08-30,Lain-lain,7851.17,EXPENSE,Uncategorized,Gopay
+2025-08-31,Tissue,17796.92,EXPENSE,Belanja,BCA
+2025-09-01,Alfamart,18468.1,EXPENSE,Belanja,Dompet Tunai
+2025-09-01,Warung Nasi,15353.53,EXPENSE,Makan & Minum,BCA
+2025-09-01,Indomaret,6397.89,EXPENSE,Belanja,Gopay
+2025-09-01,Top up Game,6432.84,EXPENSE,Hiburan,Gopay
+2025-09-01,Makan Siang,6088.51,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-01,Main Ke Mall,1658.73,EXPENSE,Hiburan,BCA
+2025-09-01,Streaming,3889.43,EXPENSE,Hiburan,Dompet Tunai
+2025-09-01,Pulsa,4782.99,EXPENSE,Tagihan,Gopay
+2025-09-01,Makan Malam,6882.53,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-02,Alfamart,780.66,EXPENSE,Belanja,Gopay
+2025-09-02,Indomaret,18912.29,EXPENSE,Belanja,Dompet Tunai
+2025-09-02,Main Ke Mall,17189.13,EXPENSE,Hiburan,BCA
+2025-09-02,Pulsa,5367.87,EXPENSE,Tagihan,Gopay
+2025-09-02,Warung Nasi,17614.27,EXPENSE,Makan & Minum,BCA
+2025-09-02,Lain-lain,19245.97,EXPENSE,Uncategorized,Gopay
+2025-09-03,Top up Game,12044.28,EXPENSE,Hiburan,BCA
+2025-09-03,Listrik,18464.68,EXPENSE,Tagihan,Gopay
+2025-09-03,Lain-lain,5723.09,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-03,Makan Siang,4839.9,EXPENSE,Makan & Minum,Gopay
+2025-09-03,Air,10188.89,EXPENSE,Tagihan,Gopay
+2025-09-03,Investasi,17700.05,INCOME,Goals,BCA
+2025-09-03,Main Ke Mall,15482.29,EXPENSE,Hiburan,BCA
+2025-09-03,Bioskop,12199.91,EXPENSE,Hiburan,Gopay
+2025-09-04,Biaya Admin,16998.93,EXPENSE,Uncategorized,BCA
+2025-09-04,Sabun,1649.6,EXPENSE,Belanja,Gopay
+2025-09-04,Main Ke Mall,9721.87,EXPENSE,Hiburan,Gopay
+2025-09-05,Lain-lain,13139.61,EXPENSE,Uncategorized,BCA
+2025-09-05,Bioskop,18624.97,EXPENSE,Hiburan,Dompet Tunai
+2025-09-05,Tabungan,194567.69,INCOME,Goals,Gopay
+2025-09-05,Bioskop,8799.23,EXPENSE,Hiburan,Dompet Tunai
+2025-09-05,Cemilan,6306.74,EXPENSE,Makan & Minum,BCA
+2025-09-05,Streaming,20664.51,EXPENSE,Hiburan,Dompet Tunai
+2025-09-05,Parkir,964.0,EXPENSE,Tagihan,BCA
+2025-09-05,Parkir,17426.0,EXPENSE,Tagihan,BCA
+2025-09-06,Lain-lain,17183.78,EXPENSE,Uncategorized,Gopay
+2025-09-06,Listrik,18349.53,EXPENSE,Tagihan,Gopay
+2025-09-06,Bonus,163234.92,INCOME,Gaji,Dompet Tunai
+2025-09-06,Streaming,19171.76,EXPENSE,Hiburan,Gopay
+2025-09-06,BPJS,8264.14,EXPENSE,Tagihan,Dompet Tunai
+2025-09-07,Makan Malam,10418.89,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-07,Air,15517.72,EXPENSE,Tagihan,Gopay
+2025-09-07,Biaya Admin,13786.14,EXPENSE,Uncategorized,Gopay
+2025-09-07,Iuran Bulanan,11172.78,EXPENSE,Tagihan,Dompet Tunai
+2025-09-07,Air,7644.3,EXPENSE,Tagihan,Gopay
+2025-09-07,Iuran Bulanan,11725.33,EXPENSE,Tagihan,BCA
+2025-09-07,Lain-lain,14139.3,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-07,Streaming,3383.71,EXPENSE,Hiburan,Dompet Tunai
+2025-09-07,Main Ke Mall,554.86,EXPENSE,Hiburan,BCA
+2025-09-07,Parkir,14638.47,EXPENSE,Tagihan,Dompet Tunai
+2025-09-08,Tissue,9273.22,EXPENSE,Belanja,Dompet Tunai
+2025-09-08,Kebutuhan Pokok,15201.23,EXPENSE,Belanja,Dompet Tunai
+2025-09-08,Kopi Pagi,9638.72,EXPENSE,Makan & Minum,BCA
+2025-09-08,Kebutuhan Pokok,15851.24,EXPENSE,Belanja,Gopay
+2025-09-08,Warung Nasi,20467.3,EXPENSE,Makan & Minum,Gopay
+2025-09-09,Warung Nasi,11152.96,EXPENSE,Makan & Minum,Gopay
+2025-09-09,Belanja Mingguan,9876.27,EXPENSE,Belanja,Dompet Tunai
+2025-09-10,Makan Siang,12532.8,EXPENSE,Makan & Minum,Gopay
+2025-09-10,Lain-lain,5076.37,EXPENSE,Uncategorized,Gopay
+2025-09-10,Indomaret,15264.22,EXPENSE,Belanja,BCA
+2025-09-10,Lain-lain,14408.11,EXPENSE,Uncategorized,BCA
+2025-09-10,Listrik,17274.54,EXPENSE,Tagihan,Gopay
+2025-09-11,Internet,1326.42,EXPENSE,Tagihan,Dompet Tunai
+2025-09-11,Insentif,128683.4,INCOME,Gaji,BCA
+2025-09-11,Kopi Pagi,11798.03,EXPENSE,Makan & Minum,Gopay
+2025-09-11,Gofood,15010.83,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-12,Cemilan,775.42,EXPENSE,Makan & Minum,BCA
+2025-09-12,Warung Nasi,9594.08,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-12,Gofood,12777.29,EXPENSE,Makan & Minum,BCA
+2025-09-12,Gaji Bulanan,107282.68,INCOME,Gaji,Gopay
+2025-09-12,Makan Malam,1587.94,EXPENSE,Makan & Minum,BCA
+2025-09-12,Bioskop,839.45,EXPENSE,Hiburan,Gopay
+2025-09-12,Makan Siang,2867.17,EXPENSE,Makan & Minum,Gopay
+2025-09-12,Indomaret,700.22,EXPENSE,Belanja,Dompet Tunai
+2025-09-12,Investasi,175638.68,INCOME,Goals,BCA
+2025-09-12,BPJS,9898.38,EXPENSE,Tagihan,Gopay
+2025-09-13,Internet,3134.38,EXPENSE,Tagihan,BCA
+2025-09-13,Lain-lain,14676.65,EXPENSE,Uncategorized,BCA
+2025-09-13,Sabun,10321.21,EXPENSE,Belanja,Gopay
+2025-09-13,Kopi Pagi,9811.96,EXPENSE,Makan & Minum,BCA
+2025-09-13,Bioskop,14816.2,EXPENSE,Hiburan,Dompet Tunai
+2025-09-13,Indomaret,8153.59,EXPENSE,Belanja,BCA
+2025-09-13,Alfamart,20202.79,EXPENSE,Belanja,BCA
+2025-09-13,Iuran Bulanan,18283.32,EXPENSE,Tagihan,Gopay
+2025-09-13,Cemilan,19260.44,EXPENSE,Makan & Minum,Gopay
+2025-09-14,Insentif,156984.77,INCOME,Gaji,BCA
+2025-09-14,Tabungan,46202.53,INCOME,Goals,Gopay
+2025-09-14,Investasi,202507.96,INCOME,Goals,BCA
+2025-09-15,Pulsa,2093.34,EXPENSE,Tagihan,BCA
+2025-09-15,Sabun,3091.76,EXPENSE,Belanja,BCA
+2025-09-15,Top up Game,14036.77,EXPENSE,Hiburan,Dompet Tunai
+2025-09-15,Air,6140.4,EXPENSE,Tagihan,BCA
+2025-09-15,Lain-lain,17629.49,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-15,Tissue,4118.37,EXPENSE,Belanja,Dompet Tunai
+2025-09-16,BPJS,4106.31,EXPENSE,Tagihan,Gopay
+2025-09-17,Bunga Bank,50424.71,INCOME,Goals,Gopay
+2025-09-17,Iuran Bulanan,17500.85,EXPENSE,Tagihan,Dompet Tunai
+2025-09-17,Internet,8019.57,EXPENSE,Tagihan,Dompet Tunai
+2025-09-17,Freelance Project,195274.3,INCOME,Gaji,Gopay
+2025-09-17,Kebutuhan Pokok,5544.34,EXPENSE,Belanja,BCA
+2025-09-17,Pulsa,18320.97,EXPENSE,Tagihan,BCA
+2025-09-17,Parkir,13159.87,EXPENSE,Tagihan,BCA
+2025-09-17,Tissue,11179.24,EXPENSE,Belanja,Gopay
+2025-09-17,Gaji Bulanan,49343.05,INCOME,Gaji,Gopay
+2025-09-18,Biaya Admin,11917.86,EXPENSE,Uncategorized,BCA
+2025-09-18,Indomaret,20273.17,EXPENSE,Belanja,Dompet Tunai
+2025-09-18,Investasi,154591.15,INCOME,Goals,Gopay
+2025-09-18,Kebutuhan Pokok,14648.32,EXPENSE,Belanja,BCA
+2025-09-18,Indomaret,14067.63,EXPENSE,Belanja,Gopay
+2025-09-18,Internet,1569.7,EXPENSE,Tagihan,BCA
+2025-09-18,Streaming,607.59,EXPENSE,Hiburan,Gopay
+2025-09-18,Lain-lain,11712.03,EXPENSE,Uncategorized,BCA
+2025-09-19,Alfamart,6618.75,EXPENSE,Belanja,Gopay
+2025-09-19,Lain-lain,1888.47,EXPENSE,Uncategorized,BCA
+2025-09-19,Main Ke Mall,17034.35,EXPENSE,Hiburan,BCA
+2025-09-19,BPJS,15561.9,EXPENSE,Tagihan,Dompet Tunai
+2025-09-19,Lain-lain,10070.26,EXPENSE,Uncategorized,BCA
+2025-09-19,Jajan Sore,11711.46,EXPENSE,Makan & Minum,BCA
+2025-09-19,Parkir,9411.88,EXPENSE,Tagihan,Dompet Tunai
+2025-09-19,Internet,3773.35,EXPENSE,Tagihan,Dompet Tunai
+2025-09-20,Biaya Admin,4104.85,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-20,Alfamart,11257.99,EXPENSE,Belanja,Dompet Tunai
+2025-09-20,Iuran Bulanan,12217.35,EXPENSE,Tagihan,Dompet Tunai
+2025-09-20,Cemilan,9636.7,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-20,Indomaret,13382.23,EXPENSE,Belanja,Dompet Tunai
+2025-09-20,Lain-lain,10567.57,EXPENSE,Uncategorized,BCA
+2025-09-20,Gofood,3557.63,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-20,Tissue,3164.57,EXPENSE,Belanja,Gopay
+2025-09-20,Streaming,18977.06,EXPENSE,Hiburan,Dompet Tunai
+2025-09-21,Biaya Admin,10534.11,EXPENSE,Uncategorized,BCA
+2025-09-21,Tissue,12726.53,EXPENSE,Belanja,BCA
+2025-09-21,Streaming,20104.03,EXPENSE,Hiburan,Dompet Tunai
+2025-09-21,Biaya Admin,6738.81,EXPENSE,Uncategorized,BCA
+2025-09-21,Pulsa,9656.39,EXPENSE,Tagihan,Gopay
+2025-09-21,Main Ke Mall,873.13,EXPENSE,Hiburan,BCA
+2025-09-22,Cemilan,11897.59,EXPENSE,Makan & Minum,BCA
+2025-09-22,Sabun,7801.35,EXPENSE,Belanja,Gopay
+2025-09-22,Bioskop,10787.96,EXPENSE,Hiburan,BCA
+2025-09-22,Gofood,13444.74,EXPENSE,Makan & Minum,BCA
+2025-09-22,Bioskop,9946.29,EXPENSE,Hiburan,BCA
+2025-09-22,Streaming,16574.15,EXPENSE,Hiburan,Dompet Tunai
+2025-09-22,Investasi,210374.21,INCOME,Goals,Gopay
+2025-09-22,Lain-lain,6419.8,EXPENSE,Uncategorized,BCA
+2025-09-22,BPJS,15958.59,EXPENSE,Tagihan,BCA
+2025-09-23,Lain-lain,18806.39,EXPENSE,Uncategorized,Gopay
+2025-09-23,Air,1834.44,EXPENSE,Tagihan,Gopay
+2025-09-23,Biaya Admin,19130.43,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-23,Lain-lain,9672.9,EXPENSE,Uncategorized,Gopay
+2025-09-23,Gofood,4939.85,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-23,Top up Game,1913.78,EXPENSE,Hiburan,Dompet Tunai
+2025-09-23,Lain-lain,7381.08,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-23,Lain-lain,19247.16,EXPENSE,Uncategorized,BCA
+2025-09-23,Main Ke Mall,20327.08,EXPENSE,Hiburan,Dompet Tunai
+2025-09-24,Lain-lain,5398.13,EXPENSE,Uncategorized,Gopay
+2025-09-24,Makan Malam,1295.78,EXPENSE,Makan & Minum,BCA
+2025-09-24,Main Ke Mall,3589.11,EXPENSE,Hiburan,Gopay
+2025-09-24,Tabungan,87914.21,INCOME,Goals,Dompet Tunai
+2025-09-24,Top up Game,661.75,EXPENSE,Hiburan,Gopay
+2025-09-24,Lain-lain,8050.76,EXPENSE,Uncategorized,Gopay
+2025-09-24,Streaming,7632.49,EXPENSE,Hiburan,Dompet Tunai
+2025-09-25,Biaya Admin,12855.08,EXPENSE,Uncategorized,BCA
+2025-09-25,Tabungan,140892.2,INCOME,Goals,Dompet Tunai
+2025-09-25,Streaming,15589.27,EXPENSE,Hiburan,Gopay
+2025-09-25,Tissue,9949.53,EXPENSE,Belanja,Dompet Tunai
+2025-09-25,Gofood,19655.52,EXPENSE,Makan & Minum,BCA
+2025-09-25,Air,12234.09,EXPENSE,Tagihan,Gopay
+2025-09-25,Makan Malam,10460.09,EXPENSE,Makan & Minum,BCA
+2025-09-25,Iuran Bulanan,356.56,EXPENSE,Tagihan,BCA
+2025-09-25,Biaya Admin,11081.33,EXPENSE,Uncategorized,Gopay
+2025-09-25,Iuran Bulanan,10197.98,EXPENSE,Tagihan,BCA
+2025-09-25,Bioskop,12898.68,EXPENSE,Hiburan,Dompet Tunai
+2025-09-25,Tabungan,218191.41,INCOME,Goals,BCA
+2025-09-26,Tissue,7648.24,EXPENSE,Belanja,BCA
+2025-09-26,Biaya Admin,15297.21,EXPENSE,Uncategorized,Gopay
+2025-09-26,Jajan Sore,3311.98,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-27,Internet,7382.68,EXPENSE,Tagihan,BCA
+2025-09-27,Main Ke Mall,16055.88,EXPENSE,Hiburan,Dompet Tunai
+2025-09-27,Sabun,2845.06,EXPENSE,Belanja,Gopay
+2025-09-27,Parkir,5937.83,EXPENSE,Tagihan,Dompet Tunai
+2025-09-27,Gofood,10942.27,EXPENSE,Makan & Minum,BCA
+2025-09-27,Biaya Admin,17027.32,EXPENSE,Uncategorized,BCA
+2025-09-27,Biaya Admin,10423.14,EXPENSE,Uncategorized,Gopay
+2025-09-27,Biaya Admin,2394.63,EXPENSE,Uncategorized,BCA
+2025-09-28,Lain-lain,20629.04,EXPENSE,Uncategorized,BCA
+2025-09-28,Cashback,65397.63,INCOME,Goals,Dompet Tunai
+2025-09-28,Jajan Sore,15274.26,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-28,Biaya Admin,16539.16,EXPENSE,Uncategorized,BCA
+2025-09-28,Streaming,6596.49,EXPENSE,Hiburan,BCA
+2025-09-29,Biaya Admin,19888.39,EXPENSE,Uncategorized,BCA
+2025-09-29,Tissue,12940.91,EXPENSE,Belanja,Dompet Tunai
+2025-09-29,Jajan Sore,8443.92,EXPENSE,Makan & Minum,Dompet Tunai
+2025-09-29,Top up Game,3066.38,EXPENSE,Hiburan,Gopay
+2025-09-29,Biaya Admin,20305.48,EXPENSE,Uncategorized,Gopay
+2025-09-29,Lain-lain,4063.56,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-29,Bonus,12764.78,INCOME,Gaji,Dompet Tunai
+2025-09-29,Biaya Admin,4185.96,EXPENSE,Uncategorized,Gopay
+2025-09-29,Belanja Mingguan,10625.26,EXPENSE,Belanja,BCA
+2025-09-30,Tabungan,134554.67,INCOME,Goals,BCA
+2025-09-30,Iuran Bulanan,4226.57,EXPENSE,Tagihan,Dompet Tunai
+2025-09-30,Lain-lain,17810.4,EXPENSE,Uncategorized,Dompet Tunai
+2025-09-30,Biaya Admin,7756.6,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-01,Pulsa,8432.95,EXPENSE,Tagihan,BCA
+2025-10-01,Pulsa,11457.56,EXPENSE,Tagihan,BCA
+2025-10-01,Bioskop,9660.51,EXPENSE,Hiburan,BCA
+2025-10-01,Pulsa,1397.12,EXPENSE,Tagihan,Dompet Tunai
+2025-10-02,Makan Siang,4179.2,EXPENSE,Makan & Minum,Gopay
+2025-10-02,Gofood,1076.02,EXPENSE,Makan & Minum,BCA
+2025-10-02,Biaya Admin,11326.93,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-02,BPJS,7568.76,EXPENSE,Tagihan,BCA
+2025-10-02,Kebutuhan Pokok,8915.7,EXPENSE,Belanja,Dompet Tunai
+2025-10-03,Top up Game,13221.41,EXPENSE,Hiburan,Dompet Tunai
+2025-10-03,Freelance Project,49017.44,INCOME,Gaji,BCA
+2025-10-03,Makan Malam,1888.21,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-04,Listrik,13694.01,EXPENSE,Tagihan,Gopay
+2025-10-04,Warung Nasi,2975.9,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-04,Kebutuhan Pokok,7556.46,EXPENSE,Belanja,Dompet Tunai
+2025-10-04,Jajan Sore,12454.12,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-04,Biaya Admin,8815.34,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-05,Biaya Admin,12788.62,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-05,Biaya Admin,9488.63,EXPENSE,Uncategorized,BCA
+2025-10-05,Kopi Pagi,12769.79,EXPENSE,Makan & Minum,BCA
+2025-10-05,Kopi Pagi,6448.44,EXPENSE,Makan & Minum,BCA
+2025-10-05,Cashback,88780.74,INCOME,Goals,BCA
+2025-10-05,Top up Game,5570.63,EXPENSE,Hiburan,Gopay
+2025-10-06,Lain-lain,7730.78,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-06,Bioskop,2022.35,EXPENSE,Hiburan,Dompet Tunai
+2025-10-06,Air,13318.49,EXPENSE,Tagihan,Dompet Tunai
+2025-10-06,Main Ke Mall,10472.46,EXPENSE,Hiburan,Gopay
+2025-10-06,Alfamart,3015.43,EXPENSE,Belanja,Gopay
+2025-10-06,Kebutuhan Pokok,7659.8,EXPENSE,Belanja,Dompet Tunai
+2025-10-06,Top up Game,4940.57,EXPENSE,Hiburan,Dompet Tunai
+2025-10-07,Indomaret,4395.3,EXPENSE,Belanja,BCA
+2025-10-07,Warung Nasi,1841.37,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-07,Biaya Admin,3101.65,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-08,Cemilan,11230.76,EXPENSE,Makan & Minum,BCA
+2025-10-08,Sabun,2663.66,EXPENSE,Belanja,Dompet Tunai
+2025-10-08,Lain-lain,12811.79,EXPENSE,Uncategorized,Gopay
+2025-10-08,Freelance Project,161667.72,INCOME,Gaji,Gopay
+2025-10-08,Bioskop,290.83,EXPENSE,Hiburan,BCA
+2025-10-08,Top up Game,1035.2,EXPENSE,Hiburan,BCA
+2025-10-09,Lain-lain,7353.5,EXPENSE,Uncategorized,BCA
+2025-10-09,Biaya Admin,2069.23,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-09,BPJS,8695.43,EXPENSE,Tagihan,Gopay
+2025-10-09,Biaya Admin,5490.83,EXPENSE,Uncategorized,Gopay
+2025-10-09,Internet,2487.16,EXPENSE,Tagihan,Gopay
+2025-10-10,Main Ke Mall,8329.87,EXPENSE,Hiburan,Gopay
+2025-10-10,Cemilan,13223.96,EXPENSE,Makan & Minum,BCA
+2025-10-10,Kebutuhan Pokok,1264.06,EXPENSE,Belanja,Gopay
+2025-10-10,Warung Nasi,4170.52,EXPENSE,Makan & Minum,BCA
+2025-10-11,Iuran Bulanan,8246.55,EXPENSE,Tagihan,Dompet Tunai
+2025-10-11,Biaya Admin,308.41,EXPENSE,Uncategorized,BCA
+2025-10-11,Biaya Admin,5419.71,EXPENSE,Uncategorized,Gopay
+2025-10-11,Biaya Admin,2452.0,EXPENSE,Uncategorized,BCA
+2025-10-11,Top up Game,7447.05,EXPENSE,Hiburan,BCA
+2025-10-11,Pulsa,9279.19,EXPENSE,Tagihan,BCA
+2025-10-11,Pulsa,10955.08,EXPENSE,Tagihan,Dompet Tunai
+2025-10-11,Pulsa,8814.76,EXPENSE,Tagihan,Dompet Tunai
+2025-10-12,Tissue,13118.78,EXPENSE,Belanja,BCA
+2025-10-12,Tissue,7371.45,EXPENSE,Belanja,Dompet Tunai
+2025-10-12,Kebutuhan Pokok,8225.61,EXPENSE,Belanja,Dompet Tunai
+2025-10-12,Warung Nasi,3229.42,EXPENSE,Makan & Minum,Gopay
+2025-10-12,Lain-lain,5533.92,EXPENSE,Uncategorized,BCA
+2025-10-12,Kopi Pagi,13996.0,EXPENSE,Makan & Minum,Gopay
+2025-10-12,Tabungan,69434.44,INCOME,Goals,BCA
+2025-10-13,Makan Siang,12031.41,EXPENSE,Makan & Minum,Gopay
+2025-10-13,Main Ke Mall,6088.72,EXPENSE,Hiburan,Gopay
+2025-10-13,Biaya Admin,6137.23,EXPENSE,Uncategorized,Gopay
+2025-10-13,Biaya Admin,9874.97,EXPENSE,Uncategorized,Gopay
+2025-10-13,Top up Game,6779.12,EXPENSE,Hiburan,Gopay
+2025-10-14,Kebutuhan Pokok,13013.36,EXPENSE,Belanja,BCA
+2025-10-14,Listrik,8917.8,EXPENSE,Tagihan,Gopay
+2025-10-14,Alfamart,3898.83,EXPENSE,Belanja,Gopay
+2025-10-14,Freelance Project,144845.99,INCOME,Gaji,Dompet Tunai
+2025-10-14,Sabun,8589.27,EXPENSE,Belanja,BCA
+2025-10-14,Top up Game,8346.41,EXPENSE,Hiburan,Gopay
+2025-10-14,Air,6034.58,EXPENSE,Tagihan,Dompet Tunai
+2025-10-15,Cemilan,2305.31,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-15,Jajan Sore,10517.99,EXPENSE,Makan & Minum,BCA
+2025-10-15,Tabungan,114746.05,INCOME,Goals,Dompet Tunai
+2025-10-15,Parkir,2337.96,EXPENSE,Tagihan,BCA
+2025-10-16,Biaya Admin,4592.23,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-16,Biaya Admin,10368.56,EXPENSE,Uncategorized,BCA
+2025-10-16,Kopi Pagi,6970.16,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-16,Lain-lain,11810.32,EXPENSE,Uncategorized,Gopay
+2025-10-16,Lain-lain,7614.99,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-16,Biaya Admin,10916.41,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-16,Kopi Pagi,6672.1,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-16,Biaya Admin,11730.11,EXPENSE,Uncategorized,Gopay
+2025-10-16,Cashback,86639.25,INCOME,Goals,BCA
+2025-10-16,Biaya Admin,12526.15,EXPENSE,Uncategorized,Gopay
+2025-10-17,Gaji Bulanan,44151.69,INCOME,Gaji,Dompet Tunai
+2025-10-17,Top up Game,9064.44,EXPENSE,Hiburan,BCA
+2025-10-17,Pulsa,6005.82,EXPENSE,Tagihan,Gopay
+2025-10-17,Insentif,67072.72,INCOME,Gaji,BCA
+2025-10-17,Bioskop,7940.29,EXPENSE,Hiburan,BCA
+2025-10-17,Biaya Admin,2403.67,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-17,Indomaret,3662.52,EXPENSE,Belanja,Dompet Tunai
+2025-10-17,Lain-lain,3263.9,EXPENSE,Uncategorized,Gopay
+2025-10-17,Biaya Admin,6893.57,EXPENSE,Uncategorized,BCA
+2025-10-17,Top up Game,2805.3,EXPENSE,Hiburan,Gopay
+2025-10-17,Freelance Project,147402.92,INCOME,Gaji,Dompet Tunai
+2025-10-17,Parkir,5440.68,EXPENSE,Tagihan,Gopay
+2025-10-17,Belanja Mingguan,1534.2,EXPENSE,Belanja,BCA
+2025-10-18,Lain-lain,3516.72,EXPENSE,Uncategorized,Gopay
+2025-10-18,Bunga Bank,40728.24,INCOME,Goals,Gopay
+2025-10-18,Kopi Pagi,2026.41,EXPENSE,Makan & Minum,BCA
+2025-10-18,Streaming,12433.38,EXPENSE,Hiburan,Gopay
+2025-10-18,Lain-lain,9672.56,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-18,Makan Malam,12956.19,EXPENSE,Makan & Minum,BCA
+2025-10-18,Cashback,94483.78,INCOME,Goals,BCA
+2025-10-18,Streaming,7545.08,EXPENSE,Hiburan,BCA
+2025-10-18,Internet,6260.68,EXPENSE,Tagihan,Dompet Tunai
+2025-10-18,Lain-lain,13681.58,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-18,BPJS,6820.61,EXPENSE,Tagihan,Gopay
+2025-10-19,Iuran Bulanan,6931.69,EXPENSE,Tagihan,BCA
+2025-10-19,Warung Nasi,5277.55,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-19,Belanja Mingguan,8695.73,EXPENSE,Belanja,BCA
+2025-10-19,Pulsa,3826.97,EXPENSE,Tagihan,BCA
+2025-10-19,Lain-lain,5081.33,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-19,Biaya Admin,1692.22,EXPENSE,Uncategorized,BCA
+2025-10-19,Biaya Admin,5917.28,EXPENSE,Uncategorized,Gopay
+2025-10-19,Listrik,13324.79,EXPENSE,Tagihan,Dompet Tunai
+2025-10-19,Pulsa,10594.74,EXPENSE,Tagihan,Gopay
+2025-10-20,Kopi Pagi,4486.36,EXPENSE,Makan & Minum,Gopay
+2025-10-20,Makan Siang,1137.43,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-20,Pulsa,7196.17,EXPENSE,Tagihan,Dompet Tunai
+2025-10-20,Alfamart,2619.77,EXPENSE,Belanja,Gopay
+2025-10-21,Bioskop,2370.47,EXPENSE,Hiburan,Dompet Tunai
+2025-10-21,Warung Nasi,5266.86,EXPENSE,Makan & Minum,Gopay
+2025-10-21,Streaming,3093.02,EXPENSE,Hiburan,Gopay
+2025-10-21,Bioskop,13687.27,EXPENSE,Hiburan,Dompet Tunai
+2025-10-22,Parkir,12385.13,EXPENSE,Tagihan,Gopay
+2025-10-22,Warung Nasi,3188.8,EXPENSE,Makan & Minum,Gopay
+2025-10-22,Belanja Mingguan,7470.71,EXPENSE,Belanja,Dompet Tunai
+2025-10-22,Insentif,141700.85,INCOME,Gaji,BCA
+2025-10-22,Cemilan,8005.19,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-22,Streaming,7196.71,EXPENSE,Hiburan,Gopay
+2025-10-22,Jajan Sore,9084.63,EXPENSE,Makan & Minum,Gopay
+2025-10-22,Biaya Admin,5828.85,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-22,Indomaret,2805.78,EXPENSE,Belanja,Dompet Tunai
+2025-10-22,Listrik,11176.8,EXPENSE,Tagihan,Dompet Tunai
+2025-10-23,Belanja Mingguan,4005.39,EXPENSE,Belanja,BCA
+2025-10-23,Bunga Bank,105115.95,INCOME,Goals,Dompet Tunai
+2025-10-23,Jajan Sore,5014.24,EXPENSE,Makan & Minum,BCA
+2025-10-23,Biaya Admin,9227.97,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-23,Warung Nasi,11766.35,EXPENSE,Makan & Minum,BCA
+2025-10-23,Air,12253.73,EXPENSE,Tagihan,Gopay
+2025-10-23,Cashback,145340.74,INCOME,Goals,Dompet Tunai
+2025-10-23,Bioskop,8098.1,EXPENSE,Hiburan,Dompet Tunai
+2025-10-24,Tissue,1235.89,EXPENSE,Belanja,Dompet Tunai
+2025-10-24,Kopi Pagi,12661.23,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-24,Main Ke Mall,3324.3,EXPENSE,Hiburan,Gopay
+2025-10-24,Gofood,4483.56,EXPENSE,Makan & Minum,Gopay
+2025-10-25,Biaya Admin,3988.38,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-25,Pulsa,1630.0,EXPENSE,Tagihan,BCA
+2025-10-25,Jajan Sore,9388.16,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-25,Main Ke Mall,11117.05,EXPENSE,Hiburan,Gopay
+2025-10-25,Tissue,3781.12,EXPENSE,Belanja,Gopay
+2025-10-25,Kopi Pagi,11657.07,EXPENSE,Makan & Minum,BCA
+2025-10-25,Biaya Admin,13036.23,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-26,Lain-lain,8079.58,EXPENSE,Uncategorized,BCA
+2025-10-26,Makan Siang,3085.08,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-26,Parkir,9983.21,EXPENSE,Tagihan,Gopay
+2025-10-26,Belanja Mingguan,10902.48,EXPENSE,Belanja,Dompet Tunai
+2025-10-26,Gofood,550.24,EXPENSE,Makan & Minum,Gopay
+2025-10-26,Internet,4510.42,EXPENSE,Tagihan,BCA
+2025-10-26,Alfamart,870.02,EXPENSE,Belanja,BCA
+2025-10-26,Makan Siang,12486.18,EXPENSE,Makan & Minum,BCA
+2025-10-26,Biaya Admin,12085.0,EXPENSE,Uncategorized,BCA
+2025-10-26,Kopi Pagi,13334.33,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-26,Kebutuhan Pokok,7404.92,EXPENSE,Belanja,Dompet Tunai
+2025-10-27,Biaya Admin,5809.91,EXPENSE,Uncategorized,BCA
+2025-10-27,Bioskop,12452.61,EXPENSE,Hiburan,Dompet Tunai
+2025-10-27,Cashback,45513.42,INCOME,Goals,BCA
+2025-10-27,Iuran Bulanan,8424.91,EXPENSE,Tagihan,BCA
+2025-10-27,Investasi,131208.11,INCOME,Goals,BCA
+2025-10-27,Kebutuhan Pokok,4583.78,EXPENSE,Belanja,Dompet Tunai
+2025-10-27,Parkir,5636.91,EXPENSE,Tagihan,BCA
+2025-10-28,Biaya Admin,2707.71,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-29,Warung Nasi,13003.29,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-29,Iuran Bulanan,4133.89,EXPENSE,Tagihan,Dompet Tunai
+2025-10-29,Bioskop,13871.43,EXPENSE,Hiburan,BCA
+2025-10-29,Tissue,5886.66,EXPENSE,Belanja,Gopay
+2025-10-29,Makan Siang,825.54,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-29,Iuran Bulanan,13007.09,EXPENSE,Tagihan,Dompet Tunai
+2025-10-29,Warung Nasi,12999.49,EXPENSE,Makan & Minum,Gopay
+2025-10-29,Bunga Bank,172731.25,INCOME,Goals,Gopay
+2025-10-29,Indomaret,13746.79,EXPENSE,Belanja,Gopay
+2025-10-30,Kebutuhan Pokok,1663.1,EXPENSE,Belanja,Gopay
+2025-10-30,Lain-lain,8118.4,EXPENSE,Uncategorized,Dompet Tunai
+2025-10-30,Makan Malam,8308.51,EXPENSE,Makan & Minum,Gopay
+2025-10-30,Cashback,126269.08,INCOME,Goals,Gopay
+2025-10-30,Belanja Mingguan,5287.83,EXPENSE,Belanja,Dompet Tunai
+2025-10-31,Tabungan,37269.62,INCOME,Goals,Gopay
+2025-10-31,Gofood,2029.82,EXPENSE,Makan & Minum,Gopay
+2025-10-31,Main Ke Mall,1551.66,EXPENSE,Hiburan,Gopay
+2025-10-31,Jajan Sore,5033.66,EXPENSE,Makan & Minum,Gopay
+2025-10-31,Jajan Sore,6293.23,EXPENSE,Makan & Minum,Dompet Tunai
+2025-10-31,Main Ke Mall,3502.85,EXPENSE,Hiburan,Gopay
+2025-10-31,Top up Game,8349.39,EXPENSE,Hiburan,Gopay
+2025-10-31,Makan Malam,11979.23,EXPENSE,Makan & Minum,BCA
+2025-11-01,Bioskop,8006.53,EXPENSE,Hiburan,BCA
+2025-11-01,Tissue,2334.19,EXPENSE,Belanja,Gopay
+2025-11-01,Kebutuhan Pokok,6034.54,EXPENSE,Belanja,Gopay
+2025-11-01,Listrik,12725.4,EXPENSE,Tagihan,BCA
+2025-11-01,Internet,11612.13,EXPENSE,Tagihan,BCA
+2025-11-01,Jajan Sore,12801.84,EXPENSE,Makan & Minum,Gopay
+2025-11-01,Gofood,7791.25,EXPENSE,Makan & Minum,Gopay
+2025-11-01,Parkir,483.31,EXPENSE,Tagihan,BCA
+2025-11-01,Biaya Admin,9398.36,EXPENSE,Uncategorized,BCA
+2025-11-01,Makan Malam,12485.81,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-02,Lain-lain,9916.52,EXPENSE,Uncategorized,Gopay
+2025-11-02,Tissue,9885.29,EXPENSE,Belanja,Dompet Tunai
+2025-11-02,Air,9410.32,EXPENSE,Tagihan,Gopay
+2025-11-02,Biaya Admin,13375.81,EXPENSE,Uncategorized,BCA
+2025-11-03,Biaya Admin,10350.98,EXPENSE,Uncategorized,BCA
+2025-11-03,Top up Game,2690.01,EXPENSE,Hiburan,BCA
+2025-11-03,Gofood,10571.17,EXPENSE,Makan & Minum,Gopay
+2025-11-03,Lain-lain,12127.43,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-03,Parkir,3570.16,EXPENSE,Tagihan,Dompet Tunai
+2025-11-03,Lain-lain,2059.23,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-03,Makan Siang,10933.4,EXPENSE,Makan & Minum,Gopay
+2025-11-03,Kopi Pagi,11907.31,EXPENSE,Makan & Minum,Gopay
+2025-11-04,Streaming,12196.25,EXPENSE,Hiburan,Gopay
+2025-11-04,Gofood,11595.57,EXPENSE,Makan & Minum,Gopay
+2025-11-04,Makan Siang,129.96,EXPENSE,Makan & Minum,Gopay
+2025-11-04,Listrik,2205.37,EXPENSE,Tagihan,Gopay
+2025-11-04,Bunga Bank,84507.61,INCOME,Goals,Dompet Tunai
+2025-11-04,Air,1136.26,EXPENSE,Tagihan,Dompet Tunai
+2025-11-04,Sabun,2193.32,EXPENSE,Belanja,Dompet Tunai
+2025-11-04,Gofood,6693.85,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-05,Sabun,51.61,EXPENSE,Belanja,BCA
+2025-11-05,Streaming,12356.73,EXPENSE,Hiburan,Dompet Tunai
+2025-11-05,Sabun,2785.45,EXPENSE,Belanja,BCA
+2025-11-05,Warung Nasi,9965.49,EXPENSE,Makan & Minum,BCA
+2025-11-05,Air,6277.5,EXPENSE,Tagihan,Dompet Tunai
+2025-11-05,Lain-lain,8649.6,EXPENSE,Uncategorized,Gopay
+2025-11-05,Pulsa,12745.77,EXPENSE,Tagihan,BCA
+2025-11-05,Makan Siang,9859.31,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-05,Pulsa,11779.43,EXPENSE,Tagihan,BCA
+2025-11-05,Parkir,9171.78,EXPENSE,Tagihan,Dompet Tunai
+2025-11-06,Makan Malam,1407.5,EXPENSE,Makan & Minum,BCA
+2025-11-06,Bioskop,5056.13,EXPENSE,Hiburan,Dompet Tunai
+2025-11-06,Top up Game,1158.18,EXPENSE,Hiburan,BCA
+2025-11-06,Warung Nasi,6386.96,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-06,Makan Malam,2582.42,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-07,Belanja Mingguan,1053.74,EXPENSE,Belanja,Gopay
+2025-11-07,Indomaret,6211.32,EXPENSE,Belanja,Dompet Tunai
+2025-11-07,Lain-lain,10467.93,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-07,Air,12657.48,EXPENSE,Tagihan,BCA
+2025-11-07,Pulsa,3134.62,EXPENSE,Tagihan,Gopay
+2025-11-08,Pulsa,4977.27,EXPENSE,Tagihan,Dompet Tunai
+2025-11-08,Alfamart,7715.56,EXPENSE,Belanja,Dompet Tunai
+2025-11-08,Jajan Sore,8765.22,EXPENSE,Makan & Minum,Gopay
+2025-11-08,Biaya Admin,1781.93,EXPENSE,Uncategorized,BCA
+2025-11-08,Cashback,165770.96,INCOME,Goals,BCA
+2025-11-08,Biaya Admin,5960.27,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-08,Streaming,12339.23,EXPENSE,Hiburan,BCA
+2025-11-08,Lain-lain,9200.53,EXPENSE,Uncategorized,BCA
+2025-11-09,Top up Game,3894.15,EXPENSE,Hiburan,Dompet Tunai
+2025-11-09,Biaya Admin,4056.24,EXPENSE,Uncategorized,Gopay
+2025-11-09,Streaming,2548.33,EXPENSE,Hiburan,Gopay
+2025-11-09,Biaya Admin,10131.11,EXPENSE,Uncategorized,Gopay
+2025-11-09,Tabungan,176743.44,INCOME,Goals,BCA
+2025-11-09,Pulsa,4498.01,EXPENSE,Tagihan,Dompet Tunai
+2025-11-10,Alfamart,5281.36,EXPENSE,Belanja,BCA
+2025-11-10,Cashback,7557.48,INCOME,Goals,Gopay
+2025-11-10,Alfamart,6444.98,EXPENSE,Belanja,Gopay
+2025-11-10,Bioskop,7173.76,EXPENSE,Hiburan,Dompet Tunai
+2025-11-10,Main Ke Mall,1031.66,EXPENSE,Hiburan,Gopay
+2025-11-11,Iuran Bulanan,7104.06,EXPENSE,Tagihan,BCA
+2025-11-11,Jajan Sore,5058.26,EXPENSE,Makan & Minum,BCA
+2025-11-11,Freelance Project,69765.92,INCOME,Gaji,Dompet Tunai
+2025-11-12,Main Ke Mall,1114.28,EXPENSE,Hiburan,BCA
+2025-11-12,Sabun,5005.05,EXPENSE,Belanja,BCA
+2025-11-12,Gofood,6295.47,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-12,Indomaret,11762.79,EXPENSE,Belanja,BCA
+2025-11-12,Lain-lain,9779.81,EXPENSE,Uncategorized,Gopay
+2025-11-12,Top up Game,3174.67,EXPENSE,Hiburan,Gopay
+2025-11-13,Insentif,68363.27,INCOME,Gaji,Dompet Tunai
+2025-11-13,BPJS,7425.51,EXPENSE,Tagihan,Gopay
+2025-11-13,Investasi,125468.32,INCOME,Goals,Dompet Tunai
+2025-11-13,Gofood,7607.45,EXPENSE,Makan & Minum,BCA
+2025-11-13,Warung Nasi,12474.12,EXPENSE,Makan & Minum,BCA
+2025-11-13,Main Ke Mall,2963.16,EXPENSE,Hiburan,Gopay
+2025-11-13,Parkir,10536.47,EXPENSE,Tagihan,BCA
+2025-11-13,Bioskop,11953.71,EXPENSE,Hiburan,Gopay
+2025-11-13,Makan Siang,407.1,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-14,Makan Siang,9249.82,EXPENSE,Makan & Minum,Gopay
+2025-11-14,Gaji Bulanan,71955.43,INCOME,Gaji,BCA
+2025-11-14,Warung Nasi,11395.34,EXPENSE,Makan & Minum,BCA
+2025-11-14,Biaya Admin,4026.01,EXPENSE,Uncategorized,Gopay
+2025-11-14,Listrik,11386.0,EXPENSE,Tagihan,Gopay
+2025-11-14,Indomaret,1248.93,EXPENSE,Belanja,BCA
+2025-11-14,Biaya Admin,4179.53,EXPENSE,Uncategorized,BCA
+2025-11-14,Top up Game,1493.83,EXPENSE,Hiburan,Dompet Tunai
+2025-11-15,Parkir,5265.74,EXPENSE,Tagihan,Dompet Tunai
+2025-11-15,Warung Nasi,12934.82,EXPENSE,Makan & Minum,BCA
+2025-11-15,Freelance Project,93398.56,INCOME,Gaji,BCA
+2025-11-15,Sabun,3711.55,EXPENSE,Belanja,BCA
+2025-11-15,Listrik,2914.22,EXPENSE,Tagihan,BCA
+2025-11-15,Sabun,3094.0,EXPENSE,Belanja,BCA
+2025-11-15,Bonus,220908.67,INCOME,Gaji,Gopay
+2025-11-16,Main Ke Mall,12633.91,EXPENSE,Hiburan,Gopay
+2025-11-16,Kebutuhan Pokok,4151.62,EXPENSE,Belanja,Gopay
+2025-11-16,Sabun,5336.55,EXPENSE,Belanja,Dompet Tunai
+2025-11-16,Makan Siang,5681.37,EXPENSE,Makan & Minum,Gopay
+2025-11-16,Iuran Bulanan,10862.21,EXPENSE,Tagihan,Gopay
+2025-11-16,Lain-lain,3086.47,EXPENSE,Uncategorized,BCA
+2025-11-16,Listrik,11940.75,EXPENSE,Tagihan,BCA
+2025-11-17,Listrik,5704.2,EXPENSE,Tagihan,BCA
+2025-11-17,Gofood,11741.47,EXPENSE,Makan & Minum,BCA
+2025-11-17,Biaya Admin,91.74,EXPENSE,Uncategorized,BCA
+2025-11-17,Sabun,3541.48,EXPENSE,Belanja,Gopay
+2025-11-17,Investasi,35646.94,INCOME,Goals,Gopay
+2025-11-17,Warung Nasi,11963.04,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-17,Indomaret,1379.37,EXPENSE,Belanja,Dompet Tunai
+2025-11-17,Belanja Mingguan,5810.13,EXPENSE,Belanja,Gopay
+2025-11-18,Warung Nasi,9408.53,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-18,Parkir,10014.27,EXPENSE,Tagihan,Dompet Tunai
+2025-11-18,Iuran Bulanan,10042.05,EXPENSE,Tagihan,Gopay
+2025-11-18,Belanja Mingguan,6781.5,EXPENSE,Belanja,BCA
+2025-11-18,Main Ke Mall,4740.98,EXPENSE,Hiburan,BCA
+2025-11-18,Biaya Admin,7492.5,EXPENSE,Uncategorized,BCA
+2025-11-19,Main Ke Mall,9190.02,EXPENSE,Hiburan,Dompet Tunai
+2025-11-19,Biaya Admin,4617.63,EXPENSE,Uncategorized,Gopay
+2025-11-19,Lain-lain,1932.49,EXPENSE,Uncategorized,BCA
+2025-11-19,Makan Siang,2432.31,EXPENSE,Makan & Minum,BCA
+2025-11-19,Air,6147.48,EXPENSE,Tagihan,BCA
+2025-11-19,Listrik,2753.31,EXPENSE,Tagihan,Gopay
+2025-11-19,Lain-lain,1994.52,EXPENSE,Uncategorized,Gopay
+2025-11-19,Investasi,47105.62,INCOME,Goals,Gopay
+2025-11-20,Iuran Bulanan,81.28,EXPENSE,Tagihan,Dompet Tunai
+2025-11-20,Sabun,5634.53,EXPENSE,Belanja,BCA
+2025-11-20,Sabun,2769.46,EXPENSE,Belanja,Dompet Tunai
+2025-11-20,Cemilan,5322.81,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-20,Kebutuhan Pokok,12843.55,EXPENSE,Belanja,Gopay
+2025-11-20,Makan Malam,10153.07,EXPENSE,Makan & Minum,Gopay
+2025-11-20,Belanja Mingguan,1803.04,EXPENSE,Belanja,Dompet Tunai
+2025-11-21,Streaming,4163.07,EXPENSE,Hiburan,Dompet Tunai
+2025-11-21,Internet,9716.62,EXPENSE,Tagihan,BCA
+2025-11-21,Jajan Sore,11111.52,EXPENSE,Makan & Minum,BCA
+2025-11-21,Investasi,187547.89,INCOME,Goals,BCA
+2025-11-21,Tissue,13357.06,EXPENSE,Belanja,Gopay
+2025-11-21,Biaya Admin,4299.38,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-21,Bioskop,560.1,EXPENSE,Hiburan,Dompet Tunai
+2025-11-21,Internet,10604.99,EXPENSE,Tagihan,Dompet Tunai
+2025-11-22,Bioskop,12625.74,EXPENSE,Hiburan,Gopay
+2025-11-22,Bioskop,2924.53,EXPENSE,Hiburan,Gopay
+2025-11-22,Biaya Admin,1914.33,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-22,Pulsa,4781.67,EXPENSE,Tagihan,Dompet Tunai
+2025-11-22,Freelance Project,140620.5,INCOME,Gaji,Gopay
+2025-11-23,Kebutuhan Pokok,9732.22,EXPENSE,Belanja,BCA
+2025-11-23,Top up Game,10839.65,EXPENSE,Hiburan,Dompet Tunai
+2025-11-23,Iuran Bulanan,12710.55,EXPENSE,Tagihan,BCA
+2025-11-23,Bonus,95848.91,INCOME,Gaji,BCA
+2025-11-23,Biaya Admin,5287.58,EXPENSE,Uncategorized,Gopay
+2025-11-24,Main Ke Mall,1312.83,EXPENSE,Hiburan,Gopay
+2025-11-24,Lain-lain,6877.91,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-24,Biaya Admin,12198.62,EXPENSE,Uncategorized,Gopay
+2025-11-25,Cemilan,9598.67,EXPENSE,Makan & Minum,BCA
+2025-11-25,Makan Siang,7080.86,EXPENSE,Makan & Minum,BCA
+2025-11-25,Lain-lain,774.94,EXPENSE,Uncategorized,Gopay
+2025-11-25,Belanja Mingguan,5403.12,EXPENSE,Belanja,Dompet Tunai
+2025-11-25,Streaming,706.39,EXPENSE,Hiburan,BCA
+2025-11-25,Lain-lain,8978.81,EXPENSE,Uncategorized,Gopay
+2025-11-26,Bunga Bank,234603.57,INCOME,Goals,Dompet Tunai
+2025-11-26,Lain-lain,2514.92,EXPENSE,Uncategorized,Gopay
+2025-11-26,Lain-lain,6957.91,EXPENSE,Uncategorized,BCA
+2025-11-26,Main Ke Mall,8947.19,EXPENSE,Hiburan,Gopay
+2025-11-26,Cemilan,8311.33,EXPENSE,Makan & Minum,Gopay
+2025-11-26,Warung Nasi,5486.42,EXPENSE,Makan & Minum,Gopay
+2025-11-26,Internet,11115.98,EXPENSE,Tagihan,Gopay
+2025-11-27,Gaji Bulanan,252328.23,INCOME,Gaji,BCA
+2025-11-27,Makan Siang,9319.3,EXPENSE,Makan & Minum,Dompet Tunai
+2025-11-27,Bioskop,10807.72,EXPENSE,Hiburan,Dompet Tunai
+2025-11-27,Main Ke Mall,2243.35,EXPENSE,Hiburan,BCA
+2025-11-27,Tissue,9348.96,EXPENSE,Belanja,BCA
+2025-11-27,Bioskop,10805.14,EXPENSE,Hiburan,BCA
+2025-11-27,Alfamart,6634.1,EXPENSE,Belanja,BCA
+2025-11-28,Indomaret,5947.16,EXPENSE,Belanja,Dompet Tunai
+2025-11-28,Cashback,41213.25,INCOME,Goals,BCA
+2025-11-28,Lain-lain,8621.77,EXPENSE,Uncategorized,Gopay
+2025-11-28,Iuran Bulanan,3037.03,EXPENSE,Tagihan,BCA
+2025-11-28,Streaming,7118.4,EXPENSE,Hiburan,Gopay
+2025-11-29,Biaya Admin,4904.11,EXPENSE,Uncategorized,BCA
+2025-11-29,Parkir,4168.62,EXPENSE,Tagihan,Gopay
+2025-11-29,BPJS,8160.82,EXPENSE,Tagihan,BCA
+2025-11-29,Listrik,9988.0,EXPENSE,Tagihan,Gopay
+2025-11-29,Biaya Admin,4946.53,EXPENSE,Uncategorized,BCA
+2025-11-29,Kebutuhan Pokok,1034.93,EXPENSE,Belanja,BCA
+2025-11-29,Jajan Sore,9026.2,EXPENSE,Makan & Minum,BCA
+2025-11-30,Cashback,157636.8,INCOME,Goals,BCA
+2025-11-30,Listrik,903.29,EXPENSE,Tagihan,Gopay
+2025-11-30,Warung Nasi,1823.59,EXPENSE,Makan & Minum,Gopay
+2025-11-30,Bunga Bank,151904.63,INCOME,Goals,Dompet Tunai
+2025-11-30,Kebutuhan Pokok,1009.74,EXPENSE,Belanja,Dompet Tunai
+2025-11-30,Biaya Admin,5061.94,EXPENSE,Uncategorized,Dompet Tunai
+2025-11-30,Lain-lain,1480.21,EXPENSE,Uncategorized,Gopay
+2025-11-30,Tissue,1948.69,EXPENSE,Belanja,BCA
+2025-11-30,Makan Malam,10966.02,EXPENSE,Makan & Minum,Gopay
+2025-12-01,Biaya Admin,2399.81,EXPENSE,Uncategorized,BCA
+2025-12-01,Pulsa,7123.78,EXPENSE,Tagihan,Dompet Tunai
+2025-12-01,Makan Siang,5014.48,EXPENSE,Makan & Minum,BCA
+2025-12-01,Main Ke Mall,14473.85,EXPENSE,Hiburan,Gopay
+2025-12-01,Cashback,187410.16,INCOME,Goals,Dompet Tunai
+2025-12-01,Parkir,15000.58,EXPENSE,Tagihan,Dompet Tunai
+2025-12-02,Main Ke Mall,4807.83,EXPENSE,Hiburan,Gopay
+2025-12-02,Belanja Mingguan,598.07,EXPENSE,Belanja,BCA
+2025-12-02,Belanja Mingguan,7639.07,EXPENSE,Belanja,BCA
+2025-12-02,Indomaret,763.19,EXPENSE,Belanja,Dompet Tunai
+2025-12-02,Lain-lain,7900.69,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-02,Gofood,4922.97,EXPENSE,Makan & Minum,BCA
+2025-12-02,Streaming,14861.43,EXPENSE,Hiburan,Gopay
+2025-12-03,Lain-lain,16544.68,EXPENSE,Uncategorized,BCA
+2025-12-03,Sabun,9226.13,EXPENSE,Belanja,Gopay
+2025-12-03,Biaya Admin,12813.74,EXPENSE,Uncategorized,BCA
+2025-12-03,Bioskop,2747.83,EXPENSE,Hiburan,Gopay
+2025-12-03,Air,8111.55,EXPENSE,Tagihan,Gopay
+2025-12-03,Kebutuhan Pokok,13252.28,EXPENSE,Belanja,BCA
+2025-12-03,Gofood,9950.2,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-03,Pulsa,13384.61,EXPENSE,Tagihan,Gopay
+2025-12-03,BPJS,7476.31,EXPENSE,Tagihan,Dompet Tunai
+2025-12-03,Biaya Admin,9242.3,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-04,Biaya Admin,2322.4,EXPENSE,Uncategorized,Gopay
+2025-12-04,Kopi Pagi,6360.44,EXPENSE,Makan & Minum,Gopay
+2025-12-04,Jajan Sore,5600.51,EXPENSE,Makan & Minum,Gopay
+2025-12-05,Lain-lain,13311.46,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-05,Kebutuhan Pokok,6365.0,EXPENSE,Belanja,Dompet Tunai
+2025-12-05,Bioskop,15488.87,EXPENSE,Hiburan,Dompet Tunai
+2025-12-05,Iuran Bulanan,4485.53,EXPENSE,Tagihan,BCA
+2025-12-05,Kebutuhan Pokok,2218.11,EXPENSE,Belanja,BCA
+2025-12-06,Pulsa,3126.89,EXPENSE,Tagihan,BCA
+2025-12-06,Biaya Admin,5532.57,EXPENSE,Uncategorized,BCA
+2025-12-06,Lain-lain,8681.17,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-06,Makan Malam,9871.22,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-06,Pulsa,2480.79,EXPENSE,Tagihan,Gopay
+2025-12-06,Biaya Admin,854.26,EXPENSE,Uncategorized,BCA
+2025-12-06,Main Ke Mall,8700.32,EXPENSE,Hiburan,Dompet Tunai
+2025-12-07,Iuran Bulanan,3970.89,EXPENSE,Tagihan,Dompet Tunai
+2025-12-07,Air,11630.75,EXPENSE,Tagihan,Gopay
+2025-12-07,Insentif,46581.48,INCOME,Gaji,Gopay
+2025-12-08,Tabungan,236502.77,INCOME,Goals,Dompet Tunai
+2025-12-08,Lain-lain,14741.9,EXPENSE,Uncategorized,BCA
+2025-12-08,Air,4426.26,EXPENSE,Tagihan,BCA
+2025-12-09,Biaya Admin,7862.41,EXPENSE,Uncategorized,BCA
+2025-12-09,Investasi,73298.0,INCOME,Goals,Gopay
+2025-12-09,Listrik,9092.04,EXPENSE,Tagihan,BCA
+2025-12-09,Tissue,9133.89,EXPENSE,Belanja,BCA
+2025-12-10,BPJS,5224.26,EXPENSE,Tagihan,Dompet Tunai
+2025-12-11,Streaming,14099.73,EXPENSE,Hiburan,Dompet Tunai
+2025-12-11,Cemilan,3883.91,EXPENSE,Makan & Minum,BCA
+2025-12-11,Gofood,9176.71,EXPENSE,Makan & Minum,Gopay
+2025-12-11,Makan Malam,973.96,EXPENSE,Makan & Minum,Gopay
+2025-12-11,Kebutuhan Pokok,7573.19,EXPENSE,Belanja,Gopay
+2025-12-11,Internet,12622.39,EXPENSE,Tagihan,BCA
+2025-12-11,Cemilan,938.9,EXPENSE,Makan & Minum,Gopay
+2025-12-11,Biaya Admin,11659.33,EXPENSE,Uncategorized,Gopay
+2025-12-11,Gofood,14882.6,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-11,Bioskop,10309.72,EXPENSE,Hiburan,Dompet Tunai
+2025-12-12,Top up Game,15451.58,EXPENSE,Hiburan,Dompet Tunai
+2025-12-12,Listrik,14260.45,EXPENSE,Tagihan,Gopay
+2025-12-12,Kopi Pagi,12362.36,EXPENSE,Makan & Minum,Gopay
+2025-12-12,Listrik,10826.54,EXPENSE,Tagihan,Dompet Tunai
+2025-12-12,Tabungan,52174.27,INCOME,Goals,Dompet Tunai
+2025-12-12,Cemilan,5743.18,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-12,Warung Nasi,10086.84,EXPENSE,Makan & Minum,Gopay
+2025-12-13,Alfamart,10935.85,EXPENSE,Belanja,Dompet Tunai
+2025-12-13,Biaya Admin,2020.81,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-13,Cashback,161158.04,INCOME,Goals,Dompet Tunai
+2025-12-13,Biaya Admin,2071.31,EXPENSE,Uncategorized,Gopay
+2025-12-14,Lain-lain,369.11,EXPENSE,Uncategorized,Gopay
+2025-12-14,Lain-lain,13265.95,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-14,Cemilan,13663.24,EXPENSE,Makan & Minum,BCA
+2025-12-14,Streaming,3506.42,EXPENSE,Hiburan,BCA
+2025-12-14,Kebutuhan Pokok,13059.19,EXPENSE,Belanja,Gopay
+2025-12-14,Freelance Project,7553.21,INCOME,Gaji,BCA
+2025-12-14,Insentif,31571.88,INCOME,Gaji,Dompet Tunai
+2025-12-15,Freelance Project,120569.94,INCOME,Gaji,Dompet Tunai
+2025-12-15,Main Ke Mall,7003.34,EXPENSE,Hiburan,BCA
+2025-12-15,Makan Malam,831.22,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-15,Biaya Admin,9430.67,EXPENSE,Uncategorized,BCA
+2025-12-15,Lain-lain,11601.63,EXPENSE,Uncategorized,BCA
+2025-12-15,BPJS,12290.58,EXPENSE,Tagihan,BCA
+2025-12-15,Gaji Bulanan,140727.93,INCOME,Gaji,Gopay
+2025-12-15,BPJS,11964.98,EXPENSE,Tagihan,BCA
+2025-12-16,Top up Game,14229.7,EXPENSE,Hiburan,Gopay
+2025-12-16,Biaya Admin,4090.11,EXPENSE,Uncategorized,BCA
+2025-12-16,Biaya Admin,12784.35,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-16,Jajan Sore,12368.56,EXPENSE,Makan & Minum,Gopay
+2025-12-16,Warung Nasi,6007.65,EXPENSE,Makan & Minum,BCA
+2025-12-16,Gofood,3493.23,EXPENSE,Makan & Minum,BCA
+2025-12-16,Iuran Bulanan,658.86,EXPENSE,Tagihan,BCA
+2025-12-16,Biaya Admin,9637.7,EXPENSE,Uncategorized,Gopay
+2025-12-16,Streaming,12559.71,EXPENSE,Hiburan,Dompet Tunai
+2025-12-16,Cemilan,15654.29,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-17,Lain-lain,4793.63,EXPENSE,Uncategorized,BCA
+2025-12-17,Freelance Project,1014.28,INCOME,Gaji,Dompet Tunai
+2025-12-17,Streaming,2548.01,EXPENSE,Hiburan,Dompet Tunai
+2025-12-17,Streaming,14718.23,EXPENSE,Hiburan,Gopay
+2025-12-17,Lain-lain,12546.02,EXPENSE,Uncategorized,BCA
+2025-12-17,Pulsa,7586.68,EXPENSE,Tagihan,Gopay
+2025-12-17,Bioskop,8091.36,EXPENSE,Hiburan,Gopay
+2025-12-17,Biaya Admin,13804.46,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-18,Top up Game,12435.26,EXPENSE,Hiburan,Dompet Tunai
+2025-12-18,Air,3849.21,EXPENSE,Tagihan,Gopay
+2025-12-18,Belanja Mingguan,7376.69,EXPENSE,Belanja,Gopay
+2025-12-18,Gofood,9450.05,EXPENSE,Makan & Minum,Gopay
+2025-12-18,Lain-lain,9771.59,EXPENSE,Uncategorized,Gopay
+2025-12-18,Streaming,4181.99,EXPENSE,Hiburan,Dompet Tunai
+2025-12-18,Lain-lain,11846.13,EXPENSE,Uncategorized,Gopay
+2025-12-19,Makan Malam,15540.32,EXPENSE,Makan & Minum,Gopay
+2025-12-19,Makan Malam,11921.68,EXPENSE,Makan & Minum,BCA
+2025-12-19,Kopi Pagi,1379.15,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-19,Internet,5669.08,EXPENSE,Tagihan,Gopay
+2025-12-19,BPJS,2045.14,EXPENSE,Tagihan,BCA
+2025-12-20,Kebutuhan Pokok,1233.28,EXPENSE,Belanja,Dompet Tunai
+2025-12-20,Main Ke Mall,8455.76,EXPENSE,Hiburan,BCA
+2025-12-20,Freelance Project,93348.1,INCOME,Gaji,BCA
+2025-12-20,Freelance Project,223450.92,INCOME,Gaji,Dompet Tunai
+2025-12-20,Lain-lain,9280.22,EXPENSE,Uncategorized,BCA
+2025-12-20,Main Ke Mall,13054.93,EXPENSE,Hiburan,Dompet Tunai
+2025-12-20,Streaming,15410.32,EXPENSE,Hiburan,BCA
+2025-12-21,Sabun,9887.23,EXPENSE,Belanja,Dompet Tunai
+2025-12-21,Biaya Admin,11976.25,EXPENSE,Uncategorized,Gopay
+2025-12-21,Top up Game,1261.62,EXPENSE,Hiburan,Gopay
+2025-12-21,Iuran Bulanan,4698.23,EXPENSE,Tagihan,BCA
+2025-12-21,Kopi Pagi,13784.92,EXPENSE,Makan & Minum,Gopay
+2025-12-21,Belanja Mingguan,11617.19,EXPENSE,Belanja,BCA
+2025-12-22,Cemilan,14217.69,EXPENSE,Makan & Minum,Gopay
+2025-12-22,Biaya Admin,16426.97,EXPENSE,Uncategorized,BCA
+2025-12-22,Parkir,6824.31,EXPENSE,Tagihan,Gopay
+2025-12-22,Parkir,14362.68,EXPENSE,Tagihan,Dompet Tunai
+2025-12-22,Indomaret,10957.46,EXPENSE,Belanja,BCA
+2025-12-22,Lain-lain,5206.03,EXPENSE,Uncategorized,Gopay
+2025-12-22,Kebutuhan Pokok,6765.71,EXPENSE,Belanja,Dompet Tunai
+2025-12-22,Top up Game,7474.01,EXPENSE,Hiburan,Gopay
+2025-12-22,Investasi,43861.24,INCOME,Goals,BCA
+2025-12-22,Bioskop,15222.27,EXPENSE,Hiburan,BCA
+2025-12-22,Biaya Admin,14499.49,EXPENSE,Uncategorized,Gopay
+2025-12-22,Top up Game,13857.9,EXPENSE,Hiburan,Gopay
+2025-12-23,Streaming,15082.69,EXPENSE,Hiburan,Dompet Tunai
+2025-12-23,Gofood,8352.44,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-23,Indomaret,670.86,EXPENSE,Belanja,Dompet Tunai
+2025-12-23,Main Ke Mall,9233.61,EXPENSE,Hiburan,Dompet Tunai
+2025-12-23,Main Ke Mall,4599.59,EXPENSE,Hiburan,Gopay
+2025-12-23,Warung Nasi,16151.66,EXPENSE,Makan & Minum,Gopay
+2025-12-23,Alfamart,13765.71,EXPENSE,Belanja,Dompet Tunai
+2025-12-23,Biaya Admin,6552.46,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-23,Gaji Bulanan,104179.32,INCOME,Gaji,Dompet Tunai
+2025-12-23,Pulsa,14546.05,EXPENSE,Tagihan,BCA
+2025-12-23,Main Ke Mall,11428.32,EXPENSE,Hiburan,Dompet Tunai
+2025-12-24,Gofood,13117.85,EXPENSE,Makan & Minum,BCA
+2025-12-24,Lain-lain,13036.55,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-24,Top up Game,9078.31,EXPENSE,Hiburan,BCA
+2025-12-24,Biaya Admin,1345.22,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-24,Bunga Bank,235392.14,INCOME,Goals,Dompet Tunai
+2025-12-24,Kopi Pagi,8753.54,EXPENSE,Makan & Minum,BCA
+2025-12-25,Parkir,14085.08,EXPENSE,Tagihan,Dompet Tunai
+2025-12-25,Indomaret,2944.17,EXPENSE,Belanja,Dompet Tunai
+2025-12-25,Biaya Admin,8046.48,EXPENSE,Uncategorized,Gopay
+2025-12-25,Lain-lain,7060.84,EXPENSE,Uncategorized,BCA
+2025-12-25,Investasi,227448.1,INCOME,Goals,BCA
+2025-12-25,Listrik,748.93,EXPENSE,Tagihan,BCA
+2025-12-25,Listrik,9193.07,EXPENSE,Tagihan,BCA
+2025-12-25,Belanja Mingguan,5591.77,EXPENSE,Belanja,Gopay
+2025-12-25,Sabun,10868.5,EXPENSE,Belanja,Dompet Tunai
+2025-12-25,Internet,2844.1,EXPENSE,Tagihan,Dompet Tunai
+2025-12-25,Sabun,6414.92,EXPENSE,Belanja,BCA
+2025-12-26,Makan Siang,11282.47,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-26,Internet,11746.47,EXPENSE,Tagihan,Gopay
+2025-12-26,Makan Malam,5194.68,EXPENSE,Makan & Minum,BCA
+2025-12-26,Tissue,615.65,EXPENSE,Belanja,Gopay
+2025-12-26,Indomaret,1048.81,EXPENSE,Belanja,BCA
+2025-12-26,Biaya Admin,1658.02,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-27,Parkir,344.06,EXPENSE,Tagihan,Dompet Tunai
+2025-12-27,Bonus,10669.67,INCOME,Gaji,BCA
+2025-12-27,Bonus,21831.1,INCOME,Gaji,Gopay
+2025-12-27,Pulsa,558.99,EXPENSE,Tagihan,Gopay
+2025-12-27,Biaya Admin,9086.22,EXPENSE,Uncategorized,Gopay
+2025-12-27,Pulsa,13753.89,EXPENSE,Tagihan,Dompet Tunai
+2025-12-28,Biaya Admin,2654.12,EXPENSE,Uncategorized,BCA
+2025-12-28,Biaya Admin,14909.08,EXPENSE,Uncategorized,Dompet Tunai
+2025-12-28,Streaming,14903.62,EXPENSE,Hiburan,Gopay
+2025-12-28,Streaming,8628.35,EXPENSE,Hiburan,Gopay
+2025-12-29,Cemilan,8544.34,EXPENSE,Makan & Minum,BCA
+2025-12-29,Bioskop,10690.0,EXPENSE,Hiburan,Dompet Tunai
+2025-12-29,Warung Nasi,9120.35,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-29,Investasi,132040.45,INCOME,Goals,Dompet Tunai
+2025-12-29,Lain-lain,1774.31,EXPENSE,Uncategorized,BCA
+2025-12-29,Gofood,1651.02,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-29,Biaya Admin,8598.9,EXPENSE,Uncategorized,Gopay
+2025-12-29,Belanja Mingguan,536.85,EXPENSE,Belanja,Dompet Tunai
+2025-12-30,Makan Malam,7365.67,EXPENSE,Makan & Minum,BCA
+2025-12-30,Internet,9826.23,EXPENSE,Tagihan,BCA
+2025-12-30,Biaya Admin,12052.22,EXPENSE,Uncategorized,Gopay
+2025-12-31,Makan Malam,16278.67,EXPENSE,Makan & Minum,Dompet Tunai
+2025-12-31,Internet,10184.36,EXPENSE,Tagihan,Gopay
+2025-12-31,Belanja Mingguan,12712.85,EXPENSE,Belanja,Gopay
+2025-12-31,Makan Siang,15538.97,EXPENSE,Makan & Minum,Gopay
+2025-12-31,Main Ke Mall,7043.79,EXPENSE,Hiburan,BCA

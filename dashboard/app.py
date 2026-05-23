@@ -96,17 +96,16 @@ PLOTLY_LAYOUT = dict(
     plot_bgcolor="rgba(0,0,0,0)",
     font=dict(family="Plus Jakarta Sans", color="#94a3b8", size=12),
     margin=dict(t=30, b=20, l=10, r=10),
-    legend=dict(
-        bgcolor="rgba(19,25,41,0.8)",
-        bordercolor="#1f2937",
-        borderwidth=1,
-        font=dict(color="#cbd5e1"),
-    ),
 )
  
-# Default axis style — apply via fig.update_xaxes() / fig.update_yaxes()
-XAXIS_DEFAULT = dict(gridcolor="#1f2937", zerolinecolor="#1f2937", tickfont=dict(color="#64748b"))
-YAXIS_DEFAULT = dict(gridcolor="#1f2937", zerolinecolor="#1f2937", tickfont=dict(color="#64748b"))
+LEGEND_DEFAULT  = dict(bgcolor="rgba(19,25,41,0.8)", bordercolor="#1f2937",
+                       borderwidth=1, font=dict(color="#cbd5e1"))
+LEGEND_BOTTOM_H = dict(bgcolor="rgba(19,25,41,0.8)", bordercolor="#1f2937",
+                       borderwidth=1, font=dict(color="#cbd5e1"),
+                       orientation="h", y=-0.15)
+LEGEND_TOP_H    = dict(bgcolor="rgba(19,25,41,0.8)", bordercolor="#1f2937",
+                       borderwidth=1, font=dict(color="#cbd5e1"),
+                       orientation="h", y=1.1, x=0)
  
 CAT_COLORS = {
     "Makan & Minum": "#1D9E75",
@@ -278,11 +277,8 @@ with tab1:
                 opacity=0.85,
             ))
  
-        fig_trend.update_layout(**PLOTLY_LAYOUT,
-            barmode="group",
-            height=300,
-            legend=dict(orientation="h", y=1.1, x=0),
-        )
+        fig_trend.update_layout(**PLOTLY_LAYOUT, barmode="group", height=300,
+                               legend=LEGEND_TOP_H)
         fig_trend.update_xaxes(gridcolor="#1f2937", tickfont=dict(color="#64748b", size=10))
         fig_trend.update_yaxes(tickformat=".2s", gridcolor="#1f2937", zerolinecolor="#1f2937",
                                tickprefix="Rp ", tickfont=dict(color="#64748b"))
@@ -302,7 +298,7 @@ with tab1:
             textfont=dict(color="#f1f5f9", size=11),
             hovertemplate="<b>%{label}</b><br>Rp %{value:,.0f}<extra></extra>",
         ))
-        fig_pie.update_layout(**PLOTLY_LAYOUT, height=300,
+        fig_pie.update_layout(**PLOTLY_LAYOUT, height=300, legend=LEGEND_DEFAULT,
             annotations=[dict(text="EXPENSE", x=0.5, y=0.5,
                               font=dict(size=13, color="#94a3b8"), showarrow=False)]
         )
@@ -406,9 +402,7 @@ with tab2:
             fillcolor=CAT_COLORS.get(cat, "#94a3b8"),
             hovertemplate=f"<b>{cat}</b><br>%{{x}}: Rp %{{y:,.0f}}<extra></extra>",
         ))
-    fig_area.update_layout(**PLOTLY_LAYOUT, height=320,
-        legend=dict(orientation="h", y=-0.15),
-    )
+    fig_area.update_layout(**PLOTLY_LAYOUT, height=320, legend=LEGEND_BOTTOM_H)
     fig_area.update_yaxes(tickformat=".2s", tickprefix="Rp ", gridcolor="#1f2937",
                           tickfont=dict(color="#64748b"))
     st.plotly_chart(fig_area, use_container_width=True)
@@ -456,7 +450,7 @@ with tab3:
             textfont=dict(color="#f1f5f9", size=12),
             hovertemplate="<b>%{label}</b><br>Rp %{value:,.0f}<extra></extra>",
         ))
-        fig_inc_pie.update_layout(**PLOTLY_LAYOUT, height=320,
+        fig_inc_pie.update_layout(**PLOTLY_LAYOUT, height=320, legend=LEGEND_DEFAULT,
             annotations=[dict(text="INCOME", x=0.5, y=0.5,
                               font=dict(size=13, color="#94a3b8"), showarrow=False)]
         )
@@ -533,9 +527,7 @@ with tab4:
         hovertemplate="Net<br>%{x}: Rp %{y:,.0f}<extra></extra>",
     ))
     fig_comp.update_layout(**PLOTLY_LAYOUT, height=360,
-        barmode="group",
-        legend=dict(orientation="h", y=1.1, x=0),
-    )
+        barmode="group", legend=LEGEND_TOP_H)
     fig_comp.update_yaxes(tickformat=".2s", tickprefix="Rp ", gridcolor="#1f2937",
                           tickfont=dict(color="#64748b"))
     fig_comp.update_xaxes(tickfont=dict(size=10, color="#64748b"))

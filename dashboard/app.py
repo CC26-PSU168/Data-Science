@@ -134,7 +134,7 @@ DAY_ORDER   = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Su
 def load_data():
     # Sesuaikan path jika deploy di Streamlit Cloud
     paths = [
-        ""Dataset/Processed/Data_Final_Combine_with_Persona.csv",
+        "Dataset/Processed/Data_Final_Combine_with_Persona.csv",
         "data/processed/Data_Final_Combine_with_Persona.csv",
         "Data_Final_Combine_with_Persona.csv",
     ]
